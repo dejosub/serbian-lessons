@@ -35,3 +35,14 @@ In Lessons 1–2, Latin may appear first. From Lesson 3 onward, show both script
 9. Role-play or listening
 10. Small homework assignment and answer key
 
+## Required output formats
+
+Each new lesson must include:
+
+- Markdown sources: `slides.md`, `student-handout.md`, `teacher-guide.md`, and `homework.md`
+- A self-contained formatted slide deck: `presentation.html`
+- A PDF export of that deck: `lesson-NN-slides.pdf`
+- A cumulative `dictionary.md` and an incremental `flashcards.md` containing only that lesson's new cards
+- A printable `vocabulary.html` and `lesson-NN-vocabulary.pdf` containing the cumulative dictionary followed by the incremental cards
+
+Keep the Markdown and HTML versions synchronized. Verify that the exported PDF exists and is non-empty before marking the lesson complete.

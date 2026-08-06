@@ -1,5 +1,7 @@
 # Lesson NN — Title
 
+> Completion requirement: publish this lesson as Markdown source materials, a self-contained `presentation.html`, and a verified non-empty `lesson-NN-slides.pdf`.
+
 ## Outcome
 
 By the end, the learner can ...
@@ -42,4 +44,3 @@ Ten minutes or less per practice day, including one voice recording.
 ## Answer key
 
 Keep separate when practical.
-

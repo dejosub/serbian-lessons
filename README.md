@@ -29,6 +29,15 @@ progress.md    Evidence-based learner log
 
 The Markdown files print cleanly from a browser or editor. `slides.md` uses Marp-compatible slide separators and can also be pasted into PowerPoint or Google Slides.
 
+Every new lesson must be delivered in all three formats:
+
+- Markdown source materials (`.md`)
+- A formatted, self-contained HTML slide deck (`presentation.html`)
+- A formatted PDF slide deck (`lesson-NN-slides.pdf`)
+- A cumulative dictionary plus that lesson's incremental flash-card set in Markdown, HTML, and PDF
+
+A lesson is not complete until all three formats exist and the PDF has been successfully exported and verified.
+
 ## Suggested rhythm
 
 - One 45–60 minute lesson each week
@@ -41,4 +50,3 @@ The Markdown files print cleanly from a browser or editor. `slides.md` uses Marp
 Use a published course as a map, not as the entire lesson. The conversation that started this repository recommended *Beginner's Serbian with Online Audio* (Aida Vidan and Robert Niebuhr) as the primary companion. *Complete Serbian* (Vladislava Ribnikar and David Norris) or *Naučimo srpski 1* can provide additional structure. *Serbian: An Essential Grammar* (Lila Hammond) is a reference, not a beginner course.
 
 Only add material here that you wrote, have permission to distribute, or can link to legally.
-

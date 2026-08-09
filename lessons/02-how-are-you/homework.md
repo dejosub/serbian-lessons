@@ -4,7 +4,7 @@ Practice for about 10 minutes on four days.
 
 ## Day 1 — Listen and answer
 
-Play the teacher’s question recording. Pause and give a different true answer each time. Return the question with `A ti?` or `A Vi?`.
+Read “A quick call” aloud, explain what happens without translating line by line, and answer one discussion question. Then play the teacher’s question recording and give a true answer.
 
 ## Day 2 — Choose the relationship
 
@@ -13,6 +13,8 @@ Write `ti` or `Vi`: close friend; two family members; unfamiliar cashier; child;
 ## Day 3 — Sound practice
 
 Listen and repeat three times: `čaj — ćao`; `džem — Đorđe`; `odlično — kuća — gospođa`. Accuracy can improve over time.
+
+Then read these already-known phrases in Cyrillic: `Како си?`, `А ти?`, `Хвала.` Check the Latin versions in the handout after your first attempt.
 
 ## Day 4 — Voice note
 
@@ -31,4 +33,3 @@ Record two miniature conversations: one with a friend using `ti`, and one polite
 2. `ste`  
 3. `Odlično sam.`  
 4. `Umorna sam.`
-

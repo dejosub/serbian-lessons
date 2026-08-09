@@ -23,20 +23,20 @@
 
 ## Useful language
 
-| Serbian (Latin) | Serbian (Cyrillic) | English | Note |
-|---|---|---|---|
-| Zdravo! | Здраво! | Hi! / Hello! | friendly, common |
-| Dobar dan! | Добар дан! | Good afternoon! / Hello! | polite, daytime |
-| Ja sam ... | Ја сам ... | I am ... | introduce yourself |
-| Kako se zoveš? | Како се зовеш? | What is your name? | informal, one person |
-| Kako se zovete? | Како се зовете? | What is your name? | formal or plural |
-| Drago mi je. | Драго ми је. | Nice to meet you. | literally “glad to me is” |
-| Da. | Да. | Yes. | |
-| Ne. | Не. | No. | |
-| Učim srpski. | Учим српски. | I’m learning Serbian. | |
-| Malo. | Мало. | A little. | |
-| Hvala. | Хвала. | Thank you. | |
-| Vidimo se! | Видимо се! | See you! | friendly goodbye |
+| Serbian (Latin) | English | Note |
+|---|---|---|
+| Zdravo! | Hi! / Hello! | friendly, common |
+| Dobar dan! | Good afternoon! / Hello! | polite, daytime |
+| Ja sam ... | I am ... | introduce yourself |
+| Kako se zoveš? | What is your name? | informal, one person |
+| Kako se zovete? | What is your name? | formal or plural |
+| Drago mi je. | Nice to meet you. | literally “glad to me is” |
+| Da. | Yes. | |
+| Ne. | No. | |
+| Učim srpski. | I’m learning Serbian. | |
+| Malo. | A little. | |
+| Hvala. | Thank you. | |
+| Vidimo se! | See you! | friendly goodbye |
 
 ## Pronunciation: say what you see
 
@@ -86,11 +86,27 @@ Fill in the blanks with: `Drago mi je`, `Ja sam`, `Kako se zoveš`, `Zdravo`.
 
 Say the dialogue again using your real name. Then switch roles. Try once without looking.
 
-## Tiny Cyrillic preview
+## Reading — At the door
 
-Do not memorize the alphabet today. Just notice these nearly free letters:
+Ana je kod kuće. Emi dolazi. Ana kaže: „Zdravo! Ja sam Ana.” Emi kaže: „Ja sam Emi. Drago mi je.” Emi uči srpski — malo!
+
+*Ana is at home. Emi arrives. Ana says, “Hi! I’m Ana.” Emi says, “I’m Emi. Nice to meet you.” Emi is learning Serbian—a little!*
+
+New language: `kod kuće` — at home; `dolazi` — arrives; `kaže` — says.
+
+### Talk about it
+
+1. Where are Ana and Emi?
+2. Is this their first meeting? What tells you?
+3. What is Emi learning?
+4. What would you say if you arrived at the door?
+
+Answer in English, Serbian, or a mixture. Then read the segment aloud and retell what happens without looking.
+
+## First Cyrillic letters
+
+First learn the phrase by listening and in Latin script. Then notice these nearly free letters:
 
 `А а = A a` · `Е е = E e` · `О о = O o` · `Ј ј = J j` · `М м = M m`
 
-Can you read `Ја сам`?
-
+Can you read `Ја сам`? You already know it means `Ja sam`. `С = S` is a supported extra today; it becomes a target letter in Lesson 2. Do not try to decode the other lesson phrases in Cyrillic yet.

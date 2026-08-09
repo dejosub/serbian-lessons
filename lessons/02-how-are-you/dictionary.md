@@ -12,15 +12,19 @@ Contains all taught vocabulary from Lessons 1–2.
 | ja / ti | ја / ти | I / you (informal singular) | 1 |
 | ja sam / ti si | ја сам / ти си | I am / you are | 1 |
 | kako | како | how | 1 |
+| kaže | каже | says | 1 |
 | Kako se zoveš / zovete? | Како се зовеш / зовете? | What is your name? informal / polite-plural | 1 |
+| kod kuće | код куће | at home | 1 |
 | malo | мало | a little | 1 |
 | ne | не | no; not | 1 |
 | se | се | reflexive particle | 1 |
 | srpski | српски | Serbian | 1 |
 | učim / učiš | учим / учиш | I learn / you learn | 1 |
+| dolazi | долази | arrives; is coming | 1 |
 | Vidimo se! | Видимо се! | See you! | 1 |
 | Zdravo! | Здраво! | Hi! / Hello! | 1 |
 | A ti? / A Vi? | А ти? / А Ви? | And you? informal / polite | 2 |
+| ali | али | but | 2 |
 | čaj | чај | tea; pronunciation example | 2 |
 | ćao | ћао | hi / bye; informal | 2 |
 | danas | данас | today | 2 |
@@ -36,5 +40,7 @@ Contains all taught vocabulary from Lessons 1–2.
 | Nije loše. | Није лоше. | Not bad. | 2 |
 | odlično | одлично | excellent; great | 2 |
 | ste | сте | are (polite or plural) | 2 |
+| pita | пита | asks | 2 |
 | umoran / umorna | уморан / уморна | tired (male / female speaker) | 2 |
 | Vi | Ви | you (polite singular or plural) | 2 |
+| zove | зове | calls | 2 |

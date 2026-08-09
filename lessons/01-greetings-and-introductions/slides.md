@@ -35,15 +35,11 @@ What words can you hear?
 **Ja sam ...** — I am ...  
 **Kako se zoveš?** — What is your name?
 
-Здраво! · Ја сам ... · Како се зовеш?
-
 ---
 
 # Nice to meet you
 
 ## Drago mi je.
-
-Драго ми је.
 
 Say it as one useful phrase. We will explain its grammar later.
 
@@ -101,13 +97,35 @@ You have just arrived at a family gathering.
 
 ---
 
-# Tiny Cyrillic preview
+# Read: At the door
+
+> Ana je kod kuće. Emi dolazi.<br>
+> Ana kaže: „Zdravo! Ja sam Ana.”<br>
+> Emi kaže: „Ja sam Emi. Drago mi je.”<br>
+> Emi uči srpski — malo!
+
+New today: **kod kuće** = at home · **dolazi** = arrives
+
+---
+
+# Talk about the reading
+
+- Where are Ana and Emi?
+- Is this their first meeting? What tells you?
+- What is Emi learning?
+- What would you say when you arrived?
+
+English or mixed Serbian/English is welcome.
+
+---
+
+# First Cyrillic letters
 
 `А = A` · `Е = E` · `О = O` · `Ј = J` · `М = M`
 
 ## Ја сам
 
-Can you read it?
+You already know the phrase. Find `Ј`, `А`, `С`, and `М`; today, treat `С` as a supported extra letter.
 
 ---
 
@@ -120,4 +138,3 @@ Without notes:
 - Ask my name.
 - Say you are learning Serbian.
 - Say goodbye.
-

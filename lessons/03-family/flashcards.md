@@ -21,4 +21,8 @@ Print this set once for Lesson 3 and add it to the earlier sets. Review 8–12 m
 | moj / moja · мој / моја | my (with masculine / feminine noun) | 3 |
 | Imam / Nemam ... · Имам / Немам ... | I have / don’t have ... | 3 |
 | ljubav · љубав | love | 3 |
-| njen · њен | her; hers | 3 |
+| njen / njena · њен / њена | her (with masculine / feminine noun) | 3 |
+| fotografija · фотографија | photograph | 3 |
+| gleda · гледа | looks at | 3 |
+| sada · сада | now | 3 |
+| star / stara · стар / стара | old (with masculine / feminine noun) | 3 |

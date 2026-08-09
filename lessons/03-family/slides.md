@@ -4,51 +4,52 @@ title: "Serbian 3: My family"
 paginate: true
 ---
 
-# Српски 3 · Serbian 3
-## Моја породица · My family
+# Serbian 3
+## My family · Moja porodica
 
 Introduce people and talk about close family.
 
 ---
 
-# Понављање · Review
+# Review
 
 Greet me, exchange names, ask how I am, answer, and return the question.
 
 ---
 
-# Дијалог · Dialogue
+# Dialogue
 
-**Ко је ово? · Ko je ovo?** — Who is this?  
-**Ово је мој дечко, Марко. · Ovo je moj dečko, Marko.**  
-**Ово је моја мама. · Ovo je moja mama.**
+**Ko je ovo?** — Who is this?<br>
+**Ovo je moj dečko, Marko.** — This is my boyfriend, Marko.<br>
+**Ovo je moja mama.** — This is my mom.
 
----
-
-# Породица · Family
-
-мама · mama · mom  
-тата · tata · dad  
-брат · brat · brother  
-сестра · sestra · sister  
-син · sin · son  
-ћерка · ćerka · daughter
+Listen and understand first. Read in Latin after listening.
 
 ---
 
-# Још људи · More people
+# Family · Porodica
 
-муж · muž · husband  
-жена · žena · wife  
-дечко · dečko · boyfriend  
-девојка · devojka · girlfriend  
-партнер / партнерка · partner / partnerka
+mama · mom<br>
+tata · dad<br>
+brat · brother<br>
+sestra · sister<br>
+sin · son<br>
+ćerka · daughter
 
 ---
 
-# Ко је ово? · Who is this?
+# More people
 
-> Ово је ...  
+muž · husband<br>
+žena · wife<br>
+dečko · boyfriend<br>
+devojka · girlfriend<br>
+partner / partnerka · partner
+
+---
+
+# Who is this? · Ko je ovo?
+
 > Ovo je ...  
 > This is ...
 
@@ -56,47 +57,93 @@ Ask and answer with a real photo.
 
 ---
 
-# Мој или моја? · `moj` or `moja`?
+# `moj` or `moja`?
 
-| мој · moj | моја · moja |
+| moj | moja |
 |---|---|
-| брат · brat | сестра · sestra |
-| тата · tata | мама · mama |
-| дечко · dečko | девојка · devojka |
+| brat | sestra |
+| tata | mama |
+| dečko | devojka |
 
 ---
 
-# Имам · I have
+# I have · Imam
 
-**Имам брата. · Imam brata.** — I have a brother.  
-**Имам сестру. · Imam sestru.** — I have a sister.  
-**Немам брата. · Nemam brata.** — I don’t have a brother.
+**Imam brata.** — I have a brother.<br>
+**Imam sestru.** — I have a sister.<br>
+**Nemam brata.** — I don’t have a brother.
 
 Learn these as useful chunks.
 
 ---
 
-# Љ и њ · `lj` and `nj`
+# Pronunciation: `lj` and `nj`
 
-One sound and one Cyrillic letter:
+Each is one joined sound:
 
-**љ = lj** — љубав · ljubav  
-**њ = nj** — њен · njen
+**lj** — ljubav · Ljiljana<br>
+**nj** — njen · Njegoš
+
+In Cyrillic, each sound also has one letter: `Љ = LJ` · `Њ = NJ`.
 
 ---
 
-# Моја породица · My family
+# Cyrillic bridge
+
+Add eight letters to the sets from Lessons 1–2:
+
+`Б = B` · `Р = R` · `Н = N` · `П = P`<br>
+`Д = D` · `Ц = C` · `Љ = LJ` · `Њ = NJ`
+
+The words and sounds come first. The new shapes come second.
+
+---
+
+# Decode words you know
+
+**брат** · `brat`<br>
+**син** · `sin`<br>
+**породица** · `porodica`<br>
+**љубав** · `ljubav`<br>
+**њен** · `njen`
+
+Read Cyrillic first, then check Latin. No new meanings here.
+
+---
+
+# My family · Moja porodica
 
 Introduce three real people:
 
-> Ово је мој / моја ______.  
 > Ovo je moj / moja ______.
 
-Then add one sentence with `Имам / Imam`.
+Then add one sentence with `Imam` or `Nemam`.
 
 ---
 
-# Завршна провера · Exit check
+# Reading: A photo
+
+> Emi gleda staru fotografiju.<br>
+> Ovo je njena mama, a ovo je njen brat Luka.<br>
+> Luka je sada u Beogradu.
+
+**gleda** = looks at · **stara** = old · **sada** = now
+
+Read for meaning in Latin. A supported Cyrillic version is in the handout for a second pass.
+
+---
+
+# Discuss the reading
+
+- What is Emi looking at?
+- Who is in the photo?
+- Where is Luka now?
+- What old family photo would you choose to talk about?
+
+Retell the reading, then connect it to a real story.
+
+---
+
+# Exit check
 
 Without notes: ask who someone is, introduce three people, and say one true family fact.
-

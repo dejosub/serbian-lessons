@@ -1,59 +1,57 @@
 # Lesson 3 — My family
 
-## Данас могу · Today I can ...
+## Today I can ...
 
 - name close family members
 - say who someone is
 - say that I have a family member
 - use `moj/moja` with common family words
 
-## Понављање · Review
+## Review
 
 Greet someone, exchange names, ask how they are, answer, and return the question using `ti` or `Vi`.
 
-## Дијалог · Dialogue
+## Dialogue
 
-**Мила:** Ко је ово?  
 **Mila:** Ko je ovo?  
 *Who is this?*
 
-**Еми:** Ово је мој дечко, Марко.  
 **Emi:** Ovo je moj dečko, Marko.  
 *This is my boyfriend, Marko.*
 
-**Мила:** А ко је ово?  
 **Mila:** A ko je ovo?  
 *And who is this?*
 
-**Еми:** Ово је моја мама. Имам једног брата и једну сестру.  
 **Emi:** Ovo je moja mama. Imam jednog brata i jednu sestru.  
 *This is my mom. I have one brother and one sister.*
 
-## Породица · Family
+Listen and establish the meaning before reading. Cyrillic comes later, after its new letters have been introduced.
 
-| Ћирилица | Latin | English |
-|---|---|---|
-| породица | porodica | family |
-| мама / мајка | mama / majka | mom / mother |
-| тата / отац | tata / otac | dad / father |
-| брат | brat | brother |
-| сестра | sestra | sister |
-| син | sin | son |
-| ћерка | ćerka | daughter |
-| муж | muž | husband |
-| жена | žena | wife / woman |
-| дечко | dečko | boyfriend |
-| девојка | devojka | girlfriend |
-| партнер / партнерка | partner / partnerka | male / female partner |
+## Family · Porodica
 
-## Корисни изрази · Useful expressions
+| Latin | English |
+|---|---|
+| porodica | family |
+| mama / majka | mom / mother |
+| tata / otac | dad / father |
+| brat | brother |
+| sestra | sister |
+| sin | son |
+| ćerka | daughter |
+| muž | husband |
+| žena | wife / woman |
+| dečko | boyfriend |
+| devojka | girlfriend |
+| partner / partnerka | male / female partner |
 
-> **Ко је ово? · Ko je ovo?** — Who is this?  
-> **Ово је ... · Ovo je ...** — This is ...  
-> **Имам ... · Imam ...** — I have ...  
-> **Немам ... · Nemam ...** — I don’t have ...
+## Useful expressions
 
-## Образац · Pattern: `moj` or `moja`
+> **Ko je ovo?** — Who is this?<br>
+> **Ovo je ...** — This is ...<br>
+> **Imam ...** — I have ...<br>
+> **Nemam ...** — I don’t have ...
+
+## Pattern: `moj` or `moja`
 
 Serbian nouns have grammatical gender. With these family words:
 
@@ -62,7 +60,7 @@ Serbian nouns have grammatical gender. With these family words:
 
 Learn the phrase with the noun. We will add more forms later.
 
-## Изговор · Pronunciation: `lj` and `nj`
+## Pronunciation: `lj` and `nj`
 
 `lj` and `nj` each represent one sound and one Cyrillic letter:
 
@@ -71,7 +69,25 @@ Learn the phrase with the noun. We will add more forms later.
 
 Keep the sounds joined; do not pronounce them as two separate English consonants.
 
-## Вежба A · Practice A — `moj` or `moja`
+## Cyrillic bridge
+
+Only after the family language is understood, add these letters to the sets from Lessons 1–2:
+
+`Б = B` · `Р = R` · `Н = N` · `П = P` · `Д = D` · `Ц = C` · `Љ = LJ` · `Њ = NJ`
+
+Decode familiar words. Read the Cyrillic first and use Latin to check yourself:
+
+| Cyrillic | Latin | Meaning |
+|---|---|---|
+| брат | brat | brother |
+| син | sin | son |
+| породица | porodica | family |
+| љубав | ljubav | love |
+| њен | njen | her |
+
+These are the Cyrillic decoding targets for this lesson. Other Cyrillic forms in the dictionary are references, not required reading.
+
+## Practice A — `moj` or `moja`
 
 1. ___ brat  
 2. ___ mama  
@@ -80,20 +96,40 @@ Keep the sounds joined; do not pronounce them as two separate English consonants
 5. ___ tata  
 6. ___ devojka
 
-## Вежба B · Practice B — Build a family introduction
+## Practice B — Build a family introduction
 
 Complete with `Ko`, `Ovo`, `moj`, `moja`, `Imam`.
 
 — ___ je ovo?  
 — ___ je ___ brat, Luka. ___ jednu sestru. Ovo je ___ sestra, Ana.
 
-## Вежба C · Practice C — Make it real
+## Practice C — Make it real
 
 Use real photos or draw a simple family map. Introduce three people with `Ovo je moj/moja ...`. Then say one true sentence with `Imam` or `Nemam`.
 
-## Одговори · Answer key
+## Reading — A photo
+
+Emi gleda staru fotografiju. Ovo je njena mama, a ovo je njen brat Luka. Luka je sada u Beogradu.
+
+*Emi is looking at an old photograph. This is her mom, and this is her brother Luka. Luka is now in Belgrade.*
+
+New language: `gleda` — looks at; `stara fotografija` — old photograph; `njena/njen` — her; `sada` — now.
+
+After discussing the meaning, try a supported second reading. Some letters are previews; use the Latin version rather than guessing:
+
+> Еми гледа стару фотографију. Ово је њена мама, а ово је њен брат Лука. Лука је сада у Београду.
+
+### Talk about it
+
+1. What is Emi looking at?
+2. Who is in the photo?
+3. Where is Luka now?
+4. Choose an old family photo of your own. Who is in it, where were they, and what do you notice?
+
+First retell Emi’s short story. Then talk about your photo in Serbian where possible and English where needed.
+
+## Answer key
 
 Practice A: `moj`, `moja`, `moj`, `moja`, `moj`, `moja`.
 
 Practice B: `Ko`; `Ovo`, `moj`, `Imam`, `moja`.
-

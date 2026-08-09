@@ -17,3 +17,6 @@ Print this set once for Lesson 2. Keep it with the Lesson 1 cards afterward. Use
 | džem · џем | jam | 2 |
 | gospođa · госпођа | Mrs.; madam | 2 |
 | kuća · кућа | house; home | 2 |
+| zove · зове | calls | 2 |
+| pita · пита | asks | 2 |
+| ali · али | but | 2 |

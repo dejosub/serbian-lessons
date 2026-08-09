@@ -4,7 +4,7 @@ Do one small activity on four days. Stop after about 10 minutes.
 
 ## Day 1 — Read and recall
 
-Read the lesson dialogue aloud twice. Cover the English and explain each line.
+Read the lesson dialogue and “At the door” aloud twice. Cover the English, explain what happens, and answer one discussion question.
 
 ## Day 2 — Listen and echo
 
@@ -39,4 +39,3 @@ Do not restart for every small mistake. Send one natural attempt.
 3. `Drago mi je.`  
 4. `Učim srpski. Malo!`  
 5. `Vidimo se!`
-

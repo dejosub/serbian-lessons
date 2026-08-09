@@ -29,15 +29,19 @@ Practice the 12 items in short exchanges. Treat `Kako se zovete?` as recognition
 
 Model the five vowels and `j`. Use listen → pause → repeat. Accept an approximate `r`; intelligible, confident speech matters more in Lesson 1.
 
-### 5. Pattern and exercises — 10 minutes
+### 5. Pattern and selective practice — 7 minutes
 
-Contrast `ja sam` and `ti si` with names and identities. Do not introduce the full present tense of *biti*. Complete Practices A and B orally before writing.
+Contrast `ja sam` and `ti si` with names and identities. Do not introduce the full present tense of *biti*. Use Practices A and B only if retrieval is not already easy; otherwise move directly to personal speaking.
 
-### 6. Personal role-play — 10 minutes
+### 6. Reading and discussion — 10 minutes
+
+Read “At the door” once aloud while the learner listens, then let her read it. Check the situation rather than translating word by word. Discuss the four questions; English or mixed Serbian/English is welcome. Ask for a simple retelling at the end.
+
+### 7. Personal role-play — 10 minutes
 
 Meet at an imaginary family gathering. First allow the handout, then remove it. Add one friendly family member and repeat. Correct only the target phrases and the five vowel sounds.
 
-### 7. Exit check — 5 minutes
+### 8. Exit check — 5 minutes
 
 Without notes, prompt a fresh greeting. Mark independently produced phrases in `progress.md`. Assign the small homework.
 
@@ -57,3 +61,6 @@ Tiny Cyrillic preview: `Ja sam` (“I am”).
 - Is the amount of Cyrillic interesting, neutral, or distracting?
 - Which real-life person should appear in Lesson 2?
 
+## Cyrillic boundary
+
+Teach the spoken meaning and Latin form first. The only target Cyrillic letters are `А Е О Ј М`; `С` is supplied only so the learner can decode the already-known `Ја сам`. Do not ask her to decode the other lesson phrases in Cyrillic or assess Cyrillic recall yet.

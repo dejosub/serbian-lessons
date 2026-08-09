@@ -67,6 +67,27 @@ Listen. Imitate. Keep talking.
 
 ---
 
+# Cyrillic bridge
+
+You already know the sounds and words. Now meet:
+
+`К = K` · `С = S` · `И = I` · `Т = T`<br>
+`Х = H` · `В = V` · `Л = L`
+
+Notice: Cyrillic `С` sounds like Latin `S`, and `В` sounds like Latin `V`.
+
+---
+
+# Decode familiar language
+
+**Како си?** · `Kako si?`<br>
+**А ти?** · `A ti?`<br>
+**Хвала.** · `Hvala.`
+
+Point to each letter as you read. Meaning first; speed later.
+
+---
+
 # Conversation pattern
 
 > Kako si?  
@@ -84,7 +105,28 @@ Change the person and the answer.
 
 ---
 
+# Read: A quick call
+
+> Mila zove Emi. Emi je kod kuće.<br>
+> „Zdravo! Kako si?” pita Mila.<br>
+> „Umorna sam, ali dobro sam,” kaže Emi.<br>
+> Mila kaže: „I ja sam umorna!”
+
+**zove** = calls · **ali** = but · **pita** = asks
+
+---
+
+# Talk about the reading
+
+- Who calls whom?
+- How does Emi feel? How does Mila feel?
+- Why might they be tired?
+- What would your true answer be today?
+
+Use Serbian where you can; use English where you need it.
+
+---
+
 # Exit check
 
 Without notes: greet me, ask how I am, answer my question, return it correctly, and say goodbye.
-

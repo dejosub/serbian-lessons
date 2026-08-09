@@ -20,3 +20,6 @@ Print this set once for Lesson 1. Print double-sided if your workflow supports i
 | ti · ти | you (informal singular) |
 | sam · сам | am |
 | si · си | are (informal singular) |
+| kod kuće · код куће | at home |
+| dolazi · долази | arrives; is coming |
+| kaže · каже | says |

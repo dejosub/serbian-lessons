@@ -12,8 +12,10 @@ This dictionary contains all taught words and expressions through Lesson 1. Form
 | ja | ја | I |
 | ja sam | ја сам | I am |
 | kako | како | how |
+| kaže | каже | says |
 | Kako se zoveš? | Како се зовеш? | What is your name? (informal) |
 | Kako se zovete? | Како се зовете? | What is your name? (polite or plural) |
+| kod kuće | код куће | at home |
 | malo | мало | a little |
 | ne | не | no; not |
 | sam | сам | am; first-person singular form of “to be” |
@@ -21,8 +23,8 @@ This dictionary contains all taught words and expressions through Lesson 1. Form
 | si | си | are (informal singular) |
 | srpski | српски | Serbian (language/adjective) |
 | ti | ти | you (informal singular) |
+| dolazi | долази | arrives; is coming |
 | učim / učiš | учим / учиш | I learn / you learn |
 | Vidimo se! | Видимо се! | See you! |
 | zoveš / zovete | зовеш / зовете | you are called (informal / polite or plural) |
 | Zdravo! | Здраво! | Hi! / Hello! |
-

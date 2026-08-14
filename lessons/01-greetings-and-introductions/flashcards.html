@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f4ead8">
+  <title>Lesson 01 Flash Cards</title>
+  <style>
+    :root { color-scheme: light; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    * { box-sizing: border-box; }
+    body { margin: 0; min-height: 100svh; background: #f4ead8; color: #25312d; display: grid; place-items: center; }
+    main { width: min(100%, 34rem); min-height: 100svh; padding: max(1rem, env(safe-area-inset-top)) max(1rem, env(safe-area-inset-right)) max(1rem, env(safe-area-inset-bottom)) max(1rem, env(safe-area-inset-left)); display: grid; grid-template-rows: auto 1fr auto; gap: 1rem; }
+    header { text-align: center; }
+    h1 { margin: 0; font-size: clamp(1.3rem, 6vw, 2rem); }
+    #status { margin: .35rem 0 0; color: #62706b; font-size: .9rem; }
+    #card { width: 100%; min-height: 18rem; border: 0; border-radius: 1.5rem; padding: 2rem 1.3rem; background: #fffdf8; color: inherit; box-shadow: 0 .5rem 1.8rem #59452a2b; cursor: pointer; touch-action: manipulation; display: grid; align-content: center; gap: 1rem; }
+    #card:focus-visible, .nav:focus-visible { outline: .25rem solid #28796b; outline-offset: .2rem; }
+    #side { color: #a4542f; font-size: .78rem; font-weight: 750; letter-spacing: .12em; text-transform: uppercase; }
+    #text { font-size: clamp(1.8rem, 8vw, 3.25rem); font-weight: 720; line-height: 1.17; overflow-wrap: anywhere; }
+    #hint { color: #71807a; font-size: .88rem; }
+    nav { display: grid; grid-template-columns: 1fr 1fr; gap: .75rem; }
+    .nav { min-height: 3.5rem; border: 0; border-radius: 1rem; font: inherit; font-size: 1.05rem; font-weight: 750; cursor: pointer; touch-action: manipulation; }
+    #prev { background: #d9ded7; color: #25312d; }
+    #next { background: #28796b; color: white; }
+    #prev:disabled { opacity: .42; cursor: default; }
+  </style>
+</head>
+<body>
+  <main>
+    <header><h1>Lesson 01 Flash Cards</h1><p id="status" aria-live="polite"></p></header>
+    <button id="card" type="button" aria-label="Flash card. Tap to show Serbian.">
+      <span id="side">English</span><span id="text"></span><span id="hint">Tap the card to flip</span>
+    </button>
+    <nav aria-label="Card navigation"><button class="nav" id="prev" type="button">← Prev</button><button class="nav" id="next" type="button">Next →</button></nav>
+  </main>
+  <script>
+    const cards = [
+      { en: "Hi! / Hello!", sr: "Zdravo! · Здраво!" },
+      { en: "Hello! / Good afternoon!", sr: "Dobar dan! · Добар дан!" },
+      { en: "I am ...", sr: "Ja sam ... · Ја сам ..." },
+      { en: "What is your name? (informal)", sr: "Kako se zoveš? · Како се зовеш?" },
+      { en: "What is your name? (polite/plural)", sr: "Kako se zovete? · Како се зовете?" },
+      { en: "Nice to meet you.", sr: "Drago mi je. · Драго ми је." },
+      { en: "Yes.", sr: "Da. · Да." }, { en: "No.", sr: "Ne. · Не." },
+      { en: "I’m learning Serbian.", sr: "Učim srpski. · Учим српски." },
+      { en: "A little.", sr: "Malo. · Мало." }, { en: "Thank you.", sr: "Hvala. · Хвала." },
+      { en: "See you!", sr: "Vidimo se! · Видимо се!" }, { en: "I", sr: "ja · ја" },
+      { en: "you (informal singular)", sr: "ti · ти" }, { en: "am", sr: "sam · сам" },
+      { en: "are (informal singular)", sr: "si · си" }, { en: "at home", sr: "kod kuće · код куће" },
+      { en: "arrives; is coming", sr: "dolazi · долази" }, { en: "says", sr: "kaže · каже" }
+    ];
+    const history = [Math.floor(Math.random() * cards.length)]; let position = 0; let serbian = false;
+    const card = document.querySelector("#card"), text = document.querySelector("#text"), side = document.querySelector("#side"), status = document.querySelector("#status"), prev = document.querySelector("#prev");
+    function render() { const item = cards[history[position]]; side.textContent = serbian ? "Serbian" : "English"; text.textContent = serbian ? item.sr : item.en; status.textContent = `Seen ${position + 1} · ${cards.length} cards in this lesson`; prev.disabled = position === 0; card.setAttribute("aria-label", `Flash card, ${side.textContent} side. Tap to flip.`); }
+    card.addEventListener("click", () => { serbian = !serbian; render(); });
+    prev.addEventListener("click", () => { if (position > 0) { position--; serbian = false; render(); } });
+    document.querySelector("#next").addEventListener("click", () => { const recent = new Set(history.slice(Math.max(0, position - 9), position + 1)); const choices = cards.map((_, index) => index).filter(index => !recent.has(index)); const pick = choices[Math.floor(Math.random() * choices.length)]; history.splice(position + 1); history.push(pick); position++; serbian = false; render(); });
+    document.addEventListener("keydown", event => { if (event.key === "ArrowLeft") prev.click(); if (event.key === "ArrowRight") document.querySelector("#next").click(); });
+    render();
+  </script>
+</body>
+</html>

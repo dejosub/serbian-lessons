@@ -19,11 +19,13 @@ $lessons = foreach ($directory in Get-ChildItem -LiteralPath $lessonRoot -Direct
     Copy-Item -LiteralPath $source -Destination (Join-Path $destinationDirectory 'index.html') -Force
 
     $title = (Get-Culture).TextInfo.ToTitleCase(($Matches.slug -replace '-', ' '))
+    $version = (Get-FileHash -Algorithm SHA256 -LiteralPath $source).Hash.Substring(0, 12).ToLowerInvariant()
 
     [ordered]@{
         number = $number
         title  = $title
         source = "lessons/$($directory.Name)/flashcards.html"
+        version = $version
     }
 }
 

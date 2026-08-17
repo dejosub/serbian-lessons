@@ -35,7 +35,7 @@ fetch('./flashcards/lessons.json').then(response => {
     <article>
       <h2><span class="number">Lesson ${lesson.number}</span>${lesson.title}</h2>
       <div class="links">
-        <a href="./flashcards/lesson-${lesson.number}/">Study flash cards</a>
+        <a href="./flashcards/lesson-${lesson.number}/?v=${lesson.version}">Study flash cards</a>
       </div>
     </article>`).join('');
 }).catch(error => {

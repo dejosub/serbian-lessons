@@ -2,26 +2,31 @@
     {
         "number":  "01",
         "title":  "Greetings And Introductions",
-        "source":  "lessons/01-greetings-and-introductions/flashcards.html"
+        "source":  "lessons/01-greetings-and-introductions/flashcards.html",
+        "version":  "6fcb614a6dff"
     },
     {
         "number":  "02",
         "title":  "How Are You",
-        "source":  "lessons/02-how-are-you/flashcards.html"
+        "source":  "lessons/02-how-are-you/flashcards.html",
+        "version":  "779d83308292"
     },
     {
         "number":  "03",
         "title":  "Family",
-        "source":  "lessons/03-family/flashcards.html"
+        "source":  "lessons/03-family/flashcards.html",
+        "version":  "a05068a67453"
     },
     {
         "number":  "04",
         "title":  "At The Table",
-        "source":  "lessons/04-at-the-table/flashcards.html"
+        "source":  "lessons/04-at-the-table/flashcards.html",
+        "version":  "892cf47aa132"
     },
     {
         "number":  "05",
         "title":  "People And Places",
-        "source":  "lessons/05-people-and-places/flashcards.html"
+        "source":  "lessons/05-people-and-places/flashcards.html",
+        "version":  "4905f142a206"
     }
 ]

@@ -18,17 +18,15 @@
     .number { color:var(--red); margin-right:.45rem; }
     .links { display:flex; flex-wrap:wrap; gap:.7rem; }
     a { display:inline-block; padding:.72rem 1rem; border-radius:.65rem; color:white; background:var(--green); font-weight:700; text-decoration:none; }
-    a.source { color:var(--ink); background:#efe5c9; }
     a:hover, a:focus-visible { outline:3px solid var(--gold); outline-offset:2px; }
     #error { color:#8a1f1f; font-weight:700; }
   </style>
 </head>
 <body><main>
-  <header><h1>Serbian flash cards</h1><p>Choose a lesson to study its new cards. Each source link opens the canonical, editable HTML in GitHub.</p></header>
+  <header><h1>Serbian flash cards</h1><p>Choose a lesson to study its new cards.</p></header>
   <p id="error" role="alert"></p><section id="lessons" aria-label="Lessons"></section>
   <noscript>JavaScript is required for the lesson directory. Individual flash-card pages continue to work locally.</noscript>
 </main><script>
-const repo = 'https://github.com/dejosub/serbian-lessons/blob/main/';
 fetch('./flashcards/lessons.json').then(response => {
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   return response.json();
@@ -38,7 +36,6 @@ fetch('./flashcards/lessons.json').then(response => {
       <h2><span class="number">Lesson ${lesson.number}</span>${lesson.title}</h2>
       <div class="links">
         <a href="./flashcards/lesson-${lesson.number}/">Study flash cards</a>
-        <a class="source" href="${repo}${lesson.source}">View source</a>
       </div>
     </article>`).join('');
 }).catch(error => {

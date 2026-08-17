@@ -14,6 +14,8 @@ After every lesson, include `dictionary.md` and `flashcards.md`. The dictionary 
 
 Always generate a self-contained, phone-friendly `flashcards.html` whenever a new lesson is created. It must contain only that lesson's incremental cards, start on the English side, flip to Serbian (Latin and Cyrillic) when the card is tapped or clicked, choose a random card with Next, and return through the viewing history with Prev. Next must not select any of the 10 most recently picked cards. It must work locally without network access or external assets.
 
+After any change that can affect flash cards—including creating, revising, renaming, or renumbering a lesson; changing lesson vocabulary; or editing a lesson's `flashcards.html`—publish the flash cards before considering the work complete. Run `scripts/sync-pages-flashcards.ps1`, commit the generated `docs/flashcards/lesson-NN/index.html` files and updated `docs/flashcards/lessons.json`, and verify that each published copy matches its canonical lesson-local `flashcards.html`. This preserves both the working GitHub Pages decks and the browsable source documents.
+
 ## Lesson design
 
 Every lesson must include a short, coherent reading segment followed by open discussion. The reading should recycle language the learner already knows, add no more than a small amount of supported new language, and give the learner something meaningful to react to. Discussion may begin in English or mixed Serbian/English in early lessons, but should invite increasingly more Serbian as the course progresses.

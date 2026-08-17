@@ -5,7 +5,7 @@ Fill this in together before Lesson 1. Revisit it every four lessons.
 - Learner name: Amaya
 - Teacher/conversation partner: Dejan
 - Start date: 08/11/2026
-- Typical session day and length: Tuesdays, 45 minutes
+- Typical session day and length: Tuesdays, 60 minutes
 - Main reason for learning Serbian: speaking with Marko and family and to and another language as a linguist to her repertoire
 - People she most wants to speak with: Marko and family, also her and Marko's Serbian friends
 - Situations that matter most: visiting Serbia and talking to Marko's relatives (grandparents). Dinner table conversations. 
@@ -31,3 +31,9 @@ Fill this in together before Lesson 1. Revisit it every four lessons.
 - Serbian sounds that are easy:
 - Serbian sounds that are difficult: љ ч ћ џ ђ, е, о
 - Confidence speaking aloud (1–5): 5
+
+## Ongoing adaptation
+
+- Develop lessons in batches of three.
+- After each session, add a dated note in `notes/`; use those observations to adjust the remaining lessons in the current batch and the next batch.
+- Favor observable session evidence, but do not maintain a separate progress log.

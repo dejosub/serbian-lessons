@@ -1,6 +1,6 @@
-# Cumulative dictionary — After Lesson 3
+# Cumulative dictionary — After Lesson 5
 
-Contains all taught vocabulary from Lessons 1–3. Use the “First” column to identify new and review words.
+Contains all taught vocabulary from Lessons 1–5. Use the “First” column to identify new and review words.
 
 | Serbian (Latin) | Serbian (Cyrillic) | English / note | First |
 |---|---|---|---:|
@@ -66,9 +66,37 @@ Contains all taught vocabulary from Lessons 1–3. Use the “First” column to
 | star / stara | стар / стара | old; with masculine / feminine noun | 3 |
 | sin | син | son | 3 |
 | žena | жена | wife; woman | 3 |
-| baka | бака | grandmother; grandma | 3 |
-| često | често | often | 3 |
-| na fotografiji | на фотографији | in the photo | 3 |
-| pored | поред | next to | 3 |
-| živi | живи | lives | 3 |
-| Niš | Ниш | Niš | 3 |
+| baka / deka | бака / дека | grandmother / grandfather | 4 |
+| Hoćeš li ...? / Hoćete li ...? | Хоћеш ли ...? / Хоћете ли ...? | Would you like ...? informal / polite-plural | 4 |
+| Da, molim. / Ne, hvala. | Да, молим. / Не, хвала. | Yes, please. / No, thank you. | 4 |
+| još | још | more; another | 4 |
+| Mogu li da dobijem ...? | Могу ли да добијем ...? | May I have ...? | 4 |
+| Izvolite. | Изволите. | Here you are; please | 4 |
+| Volim / Ne volim ... | Волим / Не волим ... | I like / do not like ... | 4 |
+| Ukusno je. | Укусно је. | It is delicious. | 4 |
+| sita / sit | сита / сит | full; female / male | 4 |
+| pita | пита | pie; filled pastry | 4 |
+| hleb | хлеб | bread | 4 |
+| sir | сир | cheese | 4 |
+| salata | салата | salad | 4 |
+| voda | вода | water | 4 |
+| kafa | кафа | coffee | 4 |
+| na stolu | на столу | on the table | 4 |
+| veoma | веома | very | 4 |
+| on / ona | он / она | he / she | 5 |
+| Gde je ...? | Где је ...? | Where is ...? | 5 |
+| ovde / tamo | овде / тамо | here / there | 5 |
+| visok / visoka | висок / висока | tall; masculine / feminine | 5 |
+| mlad / mlada | млад / млада | young; masculine / feminine | 5 |
+| topao / topla | топао / топла | warm; masculine / feminine | 5 |
+| duhovit / duhovita | духовит / духовита | funny; masculine / feminine | 5 |
+| miran / mirna | миран / мирна | calm; masculine / feminine | 5 |
+| velik / velika | велик / велика | big; masculine / feminine | 5 |
+| mali / mala | мали / мала | small; masculine / feminine | 5 |
+| lep / lepa | леп / лепа | beautiful; nice; masculine / feminine | 5 |
+| živ / živa | жив / жива | lively; masculine / feminine | 5 |
+| grad | град | city | 5 |
+| park | парк | park | 5 |
+| mesto | место | place | 5 |
+| u Beogradu | у Београду | in Belgrade | 5 |
+

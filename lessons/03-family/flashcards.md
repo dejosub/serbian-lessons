@@ -26,3 +26,8 @@ Print this set once for Lesson 3 and add it to the earlier sets. Review 8–12 m
 | gleda · гледа | looks at | 3 |
 | sada · сада | now | 3 |
 | star / stara · стар / стара | old (with masculine / feminine noun) | 3 |
+| baka · бака | grandmother; grandma | 3 |
+| na fotografiji · на фотографији | in the photo | 3 |
+| pored · поред | next to | 3 |
+| živi · живи | lives | 3 |
+| često · често | often | 3 |

@@ -43,7 +43,7 @@ Meet at an imaginary family gathering. First allow the handout, then remove it. 
 
 ### 8. Exit check — 5 minutes
 
-Without notes, prompt a fresh greeting. Mark independently produced phrases in `progress.md`. Assign the small homework.
+Without notes, prompt a fresh greeting. Record observable results in a dated session note under `notes/`. Assign the small homework.
 
 ## Answer key
 

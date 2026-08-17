@@ -5,7 +5,8 @@ paginate: true
 ---
 
 # Serbian 3
-## My family · Moja porodica
+## Моја породица
+### Moja porodica · My family
 
 Introduce people and talk about close family.
 
@@ -19,9 +20,9 @@ Greet me, exchange names, ask how I am, answer, and return the question.
 
 # Dialogue
 
-**Ko je ovo?** — Who is this?<br>
-**Ovo je moj dečko, Marko.** — This is my boyfriend, Marko.<br>
-**Ovo je moja mama.** — This is my mom.
+**Ко је ово?** · `Ko je ovo?` — Who is this?<br>
+**Ово је мој дечко, Марко.** · `Ovo je moj dečko, Marko.`<br>
+**Ово је моја мама.** · `Ovo je moja mama.`
 
 Listen and understand first. Read in Latin after listening.
 
@@ -29,22 +30,22 @@ Listen and understand first. Read in Latin after listening.
 
 # Family · Porodica
 
-mama · mom<br>
-tata · dad<br>
-brat · brother<br>
-sestra · sister<br>
-sin · son<br>
-ćerka · daughter
+**мама** · `mama` <small>mom</small><br>
+**тата** · `tata` <small>dad</small><br>
+**брат** · `brat` <small>brother</small><br>
+**сестра** · `sestra` <small>sister</small><br>
+**син** · `sin` <small>son</small><br>
+**ћерка** · `ćerka` <small>daughter</small>
 
 ---
 
 # More people
 
-muž · husband<br>
-žena · wife<br>
-dečko · boyfriend<br>
-devojka · girlfriend<br>
-partner / partnerka · partner
+**муж** · `muž` <small>husband</small><br>
+**жена** · `žena` <small>wife</small><br>
+**дечко** · `dečko` <small>boyfriend</small><br>
+**девојка** · `devojka` <small>girlfriend</small><br>
+**партнер / партнерка** · `partner / partnerka` <small>partner</small>
 
 ---
 
@@ -67,11 +68,16 @@ Ask and answer with a real photo.
 
 ---
 
-# I have · Imam
+# Имам · Imam
 
-**Imam brata.** — I have a brother.<br>
-**Imam sestru.** — I have a sister.<br>
-**Nemam brata.** — I don’t have a brother.
+## **Имам брата.** · `Imam brata.`
+<small>I have a brother.</small>
+
+## **Имам сестру.** · `Imam sestru.`
+<small>I have a sister.</small>
+
+## **Немам брата.** · `Nemam brata.`
+<small>I don’t have a brother.</small>
 
 Learn these as useful chunks.
 
@@ -111,6 +117,27 @@ Read Cyrillic first, then check Latin. No new meanings here.
 
 ---
 
+# Check your reading
+
+**брат**<br><small>`brat`</small><br>
+**син**<br><small>`sin`</small><br>
+**породица**<br><small>`porodica`</small><br>
+**љубав**<br><small>`ljubav`</small><br>
+**њен**<br><small>`njen`</small>
+
+Say each Cyrillic word again after checking the Latin.
+
+---
+
+# Match without translating
+
+**моја мама** · **мој брат** · **мој дечко**<br>
+**моја сестра** · **моја породица**
+
+Point to a real person or photo for each phrase. Then say one phrase from memory.
+
+---
+
 # My family · Moja porodica
 
 Introduce three real people:
@@ -121,13 +148,28 @@ Then add one sentence with `Imam` or `Nemam`.
 
 ---
 
+# Family interview
+
+Ask and answer:
+
+- **Ко је ово?** · `Ko je ovo?`
+- **Имаш ли брата или сестру?** · `Imaš li brata ili sestru?`
+- **Где је он / она?** · `Gde je on / ona?`
+
+Use Serbian you know; ask for a word when you need one.
+
+---
+
 # Reading: A photo
 
-> Emi gleda staru fotografiju.<br>
-> Ovo je njena mama, a ovo je njen brat Luka.<br>
-> Luka je sada u Beogradu.
+> Emi gleda staru fotografiju kod kuće.<br>
+> Na fotografiji su njena mama, njen brat Luka i njena baka.<br>
+> Mama je pored bake.<br>
+> Luka je sada u Beogradu, ali baka živi u Nišu.<br>
+> Emi često zove baku: „Zdravo, bako! Kako si?”
 
-**gleda** = looks at · **stara** = old · **sada** = now
+**na fotografiji** = in the photo · **pored** = next to<br>
+**živi** = lives · **često** = often
 
 Read for meaning in Latin. A supported Cyrillic version is in the handout for a second pass.
 
@@ -137,13 +179,25 @@ Read for meaning in Latin. A supported Cyrillic version is in the handout for a 
 
 - What is Emi looking at?
 - Who is in the photo?
-- Where is Luka now?
+- Who is next to Grandma?
+- Where do Luka and Grandma live?
+- Why might Emi call Grandma often?
 - What old family photo would you choose to talk about?
 
-Retell the reading, then connect it to a real story.
+Retell from three picture prompts, then connect it to a real story.
+
+---
+
+# Read again in Cyrillic
+
+> Еми гледа стару фотографију код куће.<br>
+> На фотографији су њена мама, њен брат Лука и њена бака.<br>
+> Лука је сада у Београду, али бака живи у Нишу.
+
+Find familiar words first. Use the Latin reading to check—not to guess.
 
 ---
 
 # Exit check
 
-Without notes: ask who someone is, introduce three people, and say one true family fact.
+Without notes: ask who someone is, introduce three people, say where one person is, and add one true family fact.

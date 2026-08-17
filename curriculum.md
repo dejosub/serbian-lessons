@@ -1,6 +1,6 @@
 # Initial curriculum
 
-The first six lessons form the starter course. Lessons 7–12 expand it into a conversational foundation. The sequence may change when the progress log shows a stronger real-life need.
+The first six lessons form the starter course. Lessons 7–12 expand it into a conversational foundation. Lessons are developed in batches of three, and the sequence may change when uploaded session notes show a stronger real-life need.
 
 | Lesson | Communication outcome | Main language pattern | Pronunciation / script |
 |---|---|---|---|
@@ -8,7 +8,7 @@ The first six lessons form the starter course. Lessons 7–12 expand it into a c
 | 2 | Ask and answer how someone is | question intonation; `ti` and `Vi` | `č/ć`, `dž/đ`; recognize `К С И Т Х В Л` |
 | 3 | Talk about close family | gender; `moj/moja`; `imam` | `lj`, `nj`; guided decoding with `Б Р Н П Д Ц Љ Њ` |
 | 4 | Ask for and discuss food and drinks | useful accusative chunks | `š`, `ž`; continue Latin-led guided Cyrillic decoding |
-| 5 | Give age, phone number, and quantities | numbers; `imam ... godina` | first controlled independent Cyrillic reading; approach equal scripts |
+| 5 | Describe a person and a meaningful place | useful adjective pairs; `on/ona je`, `gde`, connectors | first controlled independent Cyrillic reading; approach equal scripts |
 | 6 | Describe a normal day | common present-tense patterns | connected speech; finish alphabet introduction and consolidate decoding |
 | 7 | Say what she likes and dislikes | `volim`, `ne volim`, `sviđa mi se` | Cyrillic-led bridge; Latin supports new language |
 | 8 | Say where people live and where things are | `u` + location chunks | primarily Cyrillic; read real signs in both scripts |
@@ -25,7 +25,7 @@ Cyrillic is introduced through Serbian the learner already understands: hear and
 
 A lesson is complete when the learner can perform its communication outcome with light prompting. Finishing a worksheet alone is not completion.
 
-After Lessons 6 and 12, record a short conversation and review:
+Use dated files in `notes/` rather than a separate progress log. After Lessons 6 and 12, record a short conversation and review:
 
 - What she can do without notes
 - Which phrases require prompts

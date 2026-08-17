@@ -8,7 +8,7 @@ Label three real or fictional people in Latin, for example: `moja mama`. If the 
 
 ## Day 2 — Cyrillic decoding
 
-Read the five familiar targets: `брат`, `син`, `породица`, `љубав`, `њен`. Check each against Latin. Then read “A photo” in Latin, explain what happens, and answer one discussion question. The Cyrillic version of the full reading is optional supported exposure, not a test.
+Read the five familiar targets: `брат`, `син`, `породица`, `љубав`, `њен`. Check each against Latin. Then read the expanded “A photo” in Latin, retell it from the prompts `fotografija` → `mama, Luka, baka` → `Beograd / Niš`, and answer one discussion question. Read the Cyrillic version as a supported second pass, not a speed test.
 
 ## Day 3 — `lj/nj` and `љ/њ`
 
@@ -16,7 +16,7 @@ Listen and repeat: `љубав · ljubav`, `Љиљана · Ljiljana`, `њен �
 
 ## Day 4 — Voice note
 
-Using a photo, record 30–45 seconds. Introduce three people and say one true sentence with `Имам / Imam` or `Немам / Nemam`.
+Using a photo, record 45–60 seconds. Introduce three people, say where one person is, and add one true sentence with `Имам / Imam` or `Немам / Nemam`.
 
 ## Written check
 

@@ -25,31 +25,36 @@ Greet someone, exchange names, ask how they are, answer, and return the question
 **Emi:** Ovo je moja mama. Imam jednog brata i jednu sestru.  
 *This is my mom. I have one brother and one sister.*
 
-Listen and establish the meaning before reading. Cyrillic comes later, after its new letters have been introduced.
+Listen and establish the meaning before reading. After the letter bridge, return to the same exchange in Cyrillic:
+
+> **Мила:** Ко је ово?<br>
+> **Еми:** Ово је мој дечко, Марко.<br>
+> **Мила:** А ко је ово?<br>
+> **Еми:** Ово је моја мама. Имам једног брата и једну сестру.
 
 ## Family · Porodica
 
-| Latin | English |
-|---|---|
-| porodica | family |
-| mama / majka | mom / mother |
-| tata / otac | dad / father |
-| brat | brother |
-| sestra | sister |
-| sin | son |
-| ćerka | daughter |
-| muž | husband |
-| žena | wife / woman |
-| dečko | boyfriend |
-| devojka | girlfriend |
-| partner / partnerka | male / female partner |
+| Cyrillic | Latin | English |
+|---|---|---|
+| породица | porodica | family |
+| мама / мајка | mama / majka | mom / mother |
+| тата / отац | tata / otac | dad / father |
+| брат | brat | brother |
+| сестра | sestra | sister |
+| син | sin | son |
+| ћерка | ćerka | daughter |
+| муж | muž | husband |
+| жена | žena | wife / woman |
+| дечко | dečko | boyfriend |
+| девојка | devojka | girlfriend |
+| партнер / партнерка | partner / partnerka | male / female partner |
 
 ## Useful expressions
 
-> **Ko je ovo?** — Who is this?<br>
-> **Ovo je ...** — This is ...<br>
-> **Imam ...** — I have ...<br>
-> **Nemam ...** — I don’t have ...
+> **Ко је ово?** · `Ko je ovo?` — Who is this?<br>
+> **Ово је ...** · `Ovo je ...` — This is ...<br>
+> **Имам ...** · `Imam ...` — I have ...<br>
+> **Немам ...** · `Nemam ...` — I don’t have ...
 
 ## Pattern: `moj` or `moja`
 
@@ -107,26 +112,45 @@ Complete with `Ko`, `Ovo`, `moj`, `moja`, `Imam`.
 
 Use real photos or draw a simple family map. Introduce three people with `Ovo je moj/moja ...`. Then say one true sentence with `Imam` or `Nemam`.
 
+## Cyrillic photo match
+
+Without translating word by word, match these phrases to real people or photos:
+
+`моја мама` · `мој брат` · `мој дечко` · `моја сестра` · `моја породица`
+
+Then cover the list and produce two phrases from memory.
+
+## Family interview
+
+Ask your partner about real people. Follow an interesting answer instead of completing every prompt.
+
+- **Ко је ово?** · `Ko je ovo?`
+- **Имаш ли брата или сестру?** · `Imaš li brata ili sestru?`
+- **Где је он / она?** · `Gde je on / ona?`
+- What else do you want to know? Ask in Serbian, English, or a mixture and learn one useful phrase for the answer.
+
 ## Reading — A photo
 
-Emi gleda staru fotografiju. Ovo je njena mama, a ovo je njen brat Luka. Luka je sada u Beogradu.
+Emi gleda staru fotografiju kod kuće. Na fotografiji su njena mama, njen brat Luka i njena baka. Mama je pored bake. Luka je sada u Beogradu, ali baka živi u Nišu. Emi često zove baku: „Zdravo, bako! Kako si?”
 
-*Emi is looking at an old photograph. This is her mom, and this is her brother Luka. Luka is now in Belgrade.*
+*Emi is looking at an old photograph at home. Her mother, her brother Luka, and her grandmother are in the photo. Her mother is next to her grandmother. Luka is now in Belgrade, but her grandmother lives in Niš. Emi often calls her grandmother: “Hi, Grandma! How are you?”*
 
-New language: `gleda` — looks at; `stara fotografija` — old photograph; `njena/njen` — her; `sada` — now.
+New support: `na fotografiji` — in the photo; `baka` — grandmother; `pored` — next to; `živi` — lives; `često` — often. The rest recycles earlier language.
 
 After discussing the meaning, try a supported second reading. Some letters are previews; use the Latin version rather than guessing:
 
-> Еми гледа стару фотографију. Ово је њена мама, а ово је њен брат Лука. Лука је сада у Београду.
+> Еми гледа стару фотографију код куће. На фотографији су њена мама, њен брат Лука и њена бака. Мама је поред баке. Лука је сада у Београду, али бака живи у Нишу. Еми често зове баку: „Здраво, бако! Како си?”
 
 ### Talk about it
 
 1. What is Emi looking at?
-2. Who is in the photo?
-3. Where is Luka now?
-4. Choose an old family photo of your own. Who is in it, where were they, and what do you notice?
+2. Which three people are in the photo?
+3. Who is next to Grandma?
+4. Where do Luka and Grandma live?
+5. Why might Emi call Grandma often? Invent one detail.
+6. Choose an old family photo of your own. Who is in it, where were they, and what do you notice?
 
-First retell Emi’s short story. Then talk about your photo in Serbian where possible and English where needed.
+First retell Emi’s story from three prompts: `fotografija` → `mama, Luka, baka` → `Beograd / Niš`. Then talk about your photo in Serbian where possible and English where needed. Your partner asks two follow-up questions.
 
 ## Answer key
 

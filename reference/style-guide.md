@@ -9,7 +9,7 @@ For new expressions, use:
 > *How are you?*  
 > Informal; use with one person you know well.
 
-In Lessons 1–2, Latin may appear first. From Lesson 3 onward, show both scripts with equal weight.
+In Lessons 1–2, Latin may appear first. Lessons 3–4 remain Latin-led with guided Cyrillic (roughly 75/25); Lessons 5–6 move toward equal exposure. From Lesson 7, Cyrillic leads familiar material while Latin supports new or difficult language.
 
 ## Conventions
 

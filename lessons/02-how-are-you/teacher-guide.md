@@ -8,7 +8,7 @@ The learner can conduct a short greeting, ask and answer “How are you?”, and
 
 - Record both dialogues naturally and slowly.
 - Prepare photos or names of one friend, one relative, and one unfamiliar adult for `ti/Vi` choices.
-- Review the Lesson 1 progress entry and recycle any weak phrase.
+- Review the latest dated session note and recycle any weak phrase.
 
 ## Suggested sequence (45–60 minutes)
 
@@ -21,7 +21,7 @@ The learner can conduct a short greeting, ask and answer “How are you?”, and
 7. **Selective practice — 5 min:** Use A and B only where the learner needs support; skip repetitive items when she answers reliably.
 8. **Reading and discussion — 10 min:** Read “A quick call” in Latin, establish who calls whom and how both people feel, then discuss possible reasons and the learner’s real answer today. Accept English or mixed-language ideas and recast useful Serbian naturally. End with a brief retelling.
 9. **Role-play — 8 min:** Friend at home; older relative at a gathering; two relatives together.
-10. **Exit check — 4 min:** Use a new person/situation without notes and update `progress.md`.
+10. **Exit check — 4 min:** Use a new person/situation without notes and add observable results to the session note.
 
 ## Cyrillic boundary
 

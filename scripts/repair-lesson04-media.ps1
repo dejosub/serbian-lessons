@@ -74,6 +74,17 @@ if (-not $vocab.Contains('["sarma","сарма"')) {
 }
 $photoMap = 'const photos={"pie / pita":"assets/pita.jpg","bread":"assets/hleb.jpg","cheese":"assets/sir.jpg","salad":"assets/salata.jpg","water":"assets/voda.jpg","coffee":"assets/kafa.jpg","sarma / stuffed cabbage rolls":"assets/sarma.jpg","ćevapi / grilled minced-meat sausages":"assets/cevapi.jpg","bean stew / beans":"assets/pasulj.jpg"};const rows='
 $vocab = [regex]::Replace($vocab, 'const photos=\{.*?\};const rows=', $photoMap)
+$rowBlock = '["sarma","сарма","stuffed cabbage rolls","4"],["ćevapi","ћевапи","grilled minced-meat sausages","4"],["pasulj","пасуљ","beans; bean stew","4"]'
+$cardBlock = '["sarma / stuffed cabbage rolls","сарма · sarma","4"],["ćevapi / grilled minced-meat sausages","ћевапи · ćevapi","4"],["bean stew / beans","пасуљ · pasulj","4"]'
+while ($vocab.Contains("$rowBlock,$rowBlock")) { $vocab = $vocab.Replace("$rowBlock,$rowBlock", $rowBlock) }
+while ($vocab.Contains("$cardBlock,$cardBlock")) { $vocab = $vocab.Replace("$cardBlock,$cardBlock", $cardBlock) }
+$oldCards = @'
+document.querySelector('#cards').innerHTML=cards.map(c=>'<div class="card">'+(photos[c[0]]?'<img src="'+photos[c[0]]+'" alt="" style="width:90px;height:70px;object-fit:cover;border-radius:8px">':'')+'<div class="front">'+c[0]+'</div><div class="back">'+c[1]+'</div></div>').join('');
+'@
+$newCards = @'
+document.querySelector('#cards').innerHTML=cards.map(c=>'<div class="card">'+(photos[c[0]]?'<img src="'+photos[c[0]]+'" alt="" style="width:120px;height:90px;object-fit:cover;border-radius:8px">':'<div class="front">'+c[0]+'</div>')+'<div class="back">'+c[1]+'</div></div>').join('');
+'@
+$vocab = $vocab.Replace($oldCards, $newCards)
 Write-Utf8 $vocabPath $vocab
 
 function Data-Url([string]$name) {
@@ -103,6 +114,10 @@ function Embed-OrderedImages([string]$path) {
 foreach ($file in 'presentation.html','flashcards.html','vocabulary.html') {
   Embed-OrderedImages (Join-Path $lesson $file)
 }
+
+$flash = Read-Utf8 $flashPath
+$flash = $flash.Replace('face.innerHTML=flipped?`<div class="answer">${c[1]}<span class="latin">${c[2]}</span></div>`:`${photo}<div class="prompt">${c[0]}</div>`;', 'face.innerHTML=flipped?`<div class="answer">${c[1]}<span class="latin">${c[2]}</span></div>`:(c[3]?photo:`<div class="prompt">${c[0]}</div>`);')
+Write-Utf8 $flashPath $flash
 
 # Lesson 4 uses a classic 4:3 classroom-slide canvas; keep photo-heavy pages compact.
 $presentation = Read-Utf8 $presentationPath

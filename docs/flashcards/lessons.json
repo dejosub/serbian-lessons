@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "number":  "01",
         "title":  "Greetings And Introductions",
@@ -21,7 +21,7 @@
         "number":  "04",
         "title":  "At The Table",
         "source":  "lessons/04-at-the-table/flashcards.html",
-        "version":  "64bc1b452a0c"
+        "version":  "30f25171a6ca"
     },
     {
         "number":  "05",

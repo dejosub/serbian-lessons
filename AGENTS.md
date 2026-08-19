@@ -16,6 +16,8 @@ After every lesson, include `dictionary.md` and `flashcards.md`. The dictionary 
 
 Always generate a self-contained, phone-friendly `flashcards.html` whenever a new lesson is created. It must contain only that lesson's incremental cards, start on the English side, flip to Serbian (Latin and Cyrillic) when the card is tapped or clicked, choose a random card with Next, and return through the viewing history with Prev. Next must not select any of the 10 most recently picked cards. It must work locally without network access or external assets.
 
+For every flash card that uses an image, the initial/front face must show the image only—no English, Serbian, Cyrillic, Latin, caption, or other visible answer text. Put all language on the reverse/answer face. Use empty or non-revealing alternative text so accessibility metadata does not expose the answer before the card is flipped. Apply this rule to browser and printable renderings; Markdown source may retain descriptive labels for maintenance.
+
 After any change that can affect flash cards—including creating, revising, renaming, or renumbering a lesson; changing lesson vocabulary; or editing a lesson's `flashcards.html`—publish the flash cards before considering the work complete. Run `scripts/sync-pages-flashcards.ps1`, commit the generated `docs/flashcards/lesson-NN/index.html` files and updated `docs/flashcards/lessons.json`, and verify that each published copy matches its canonical lesson-local `flashcards.html`. This preserves both the working GitHub Pages decks and the browsable source documents.
 
 ## Lesson design

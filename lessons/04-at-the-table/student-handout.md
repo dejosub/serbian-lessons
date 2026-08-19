@@ -1,4 +1,4 @@
-# Lesson 4 — At the table · За столом
+# Lesson 4 — За столом · At the table
 
 ## Today I can ...
 
@@ -28,6 +28,14 @@ Greet someone, ask how they are, introduce one person, and say one true family f
 **Amaya:** Voda, molim.  
 *Water, please.*
 
+After the meaning is clear, read the exchange again with Cyrillic leading:
+
+> **Бака:** Амаја, хоћеш ли питу?<br>
+> **Амаја:** Да, молим. Хвала!<br>
+> **Бака:** А Марко, хоћеш ли још?<br>
+> **Марко:** Не, хвала. Сит сам.<br>
+> **Амаја:** Вода, молим.
+
 ## Useful language
 
 | Serbian (Latin) | English | Use |
@@ -42,10 +50,12 @@ Greet someone, ask how they are, introduce one person, and say one true family f
 | Volim / Ne volim ... | I like / don’t like ... | true preference |
 | Ukusno je. | It is delicious. | reaction |
 | Sita sam. / Sit sam. | I am full. | female / male speaker |
+| Šta je ovo? | What is this? | unfamiliar dish |
+| Šta želiš / želite? | What do you want? | informal / polite-plural |
 
 ## Food and drink
 
-`pita` — pie · `hleb` — bread · `sir` — cheese · `salata` — salad · `voda` — water · `kafa` — coffee
+Use the photos before the labels: `пита · pita` · `хлеб · hleb` · `сир · sir` · `салата · salata` · `вода · voda` · `кафа · kafa`.
 
 Choose the foods that are useful for your real conversations. The others are recognition vocabulary today.
 
@@ -76,13 +86,17 @@ Add `Ш = Š`, `Ж = Ž`, `З = Z`, `Г = G`, and `Ф = F`. Decode these familia
 | вода | voda | water |
 | хлеб | hleb | bread |
 
+Useful dishes from the photo set: `сарма · sarma`, `ћевапи · ćevapi`, and `пасуљ · pasulj`.
+
+Useful location chunks: `на столу · na stolu` — on the table; `код баке и деде · kod bake i dede` — at Grandma and Grandpa’s home.
+
 ## Reading — Sunday lunch
 
-Amaya i Marko su kod bake i deke. Na stolu su pita, salata, sir i hleb. Baka pita: „Amaya, hoćeš li još pite?” Amaya kaže: „Da, molim. Pita je veoma ukusna!”
+Amaya i Marko su kod bake i dede. Na stolu su pita, salata, sir i hleb. Baka pita: „Amaya, hoćeš li još pite?” Amaya kaže: „Da, molim. Pita je veoma ukusna!” Marko kaže: „Ne, hvala. Sit sam.” Deda kaže: „Ukusno je!”
 
 *Amaya and Marko are at Grandma and Grandpa’s home. Pie, salad, cheese, and bread are on the table. Grandma asks, “Amaya, would you like more pie?” Amaya says, “Yes, please. The pie is very delicious!”*
 
-New support: `baka/deka` — grandmother/grandfather; `na stolu` — on the table; `veoma` — very.
+New support: `baka/deda` — grandmother/grandfather; `na stolu` — on the table; `veoma` — very.
 
 ### Talk about it
 
@@ -94,9 +108,13 @@ New support: `baka/deka` — grandmother/grandfather; `na stolu` — on the tabl
 
 Retell the lunch in your own words, then ask your partner one follow-up question.
 
+Read again after the discussion:
+
+> Амаја и Марко су код баке и деде. На столу су пита, салата, сир и хлеб. Бака пита: „Амаја, хоћеш ли још пите?” Амаја каже: „Да, молим. Пита је веома укусна!” Марко каже: „Не, хвала. Сит сам.” Деда каже: „Укусно је!”
+
 ## Communication lab
 
-Use real dishes, photos, or objects. First speak with Marko using `ti`. Then repeat with an older relative using `Vi`. Offer, accept or decline, request something across the table, and give a true reaction. Change roles.
+Use real dishes, photos, or objects. First speak with Marko using `ti`. Then repeat with an older relative using `Vi`. Offer, accept or decline, request something across the table, and give a true reaction. Add one unexpected event: you do not recognize a dish, the desired item is missing, or you are already full. Change roles.
 
 ## Optional repair prompts
 

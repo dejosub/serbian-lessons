@@ -16,3 +16,14 @@ The digital deck starts with English prompts; the answer face foregrounds Cyrill
 | I am full. (female/male) | Сита сам. / Сит сам. · Sita sam. / Sit sam. | 4 |
 | water | вода · voda | 4 |
 | bread | хлеб · hleb | 4 |
+| pie / pita | пита · pita | 4 |
+| cheese | сир · sir | 4 |
+| salad | салата · salata | 4 |
+| coffee | кафа · kafa | 4 |
+| sarma / stuffed cabbage rolls | сарма · sarma | 4 |
+| ćevapi / grilled minced-meat sausages | ћевапи · ćevapi | 4 |
+| bean stew / beans | пасуљ · pasulj | 4 |
+| What is this? | Шта је ово? · Šta je ovo? | 4 |
+| What do you want? (informal/polite) | Шта желиш / желите? · Šta želiš / želite? | 4 |
+| on the table | на столу · na stolu | 4 |
+| at Grandma and Grandpa’s | код баке и деде · kod bake i dede | 4 |

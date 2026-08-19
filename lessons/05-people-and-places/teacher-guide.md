@@ -2,7 +2,7 @@
 
 ## Target
 
-Without notes, Amaya can describe one real person and one meaningful place in at least four connected Serbian sentences and respond to a follow-up question.
+Without notes, Amaya can describe one real family member or pet and one meaningful place in at least four connected Serbian sentences and respond to a follow-up question.
 
 ## Before the lesson
 
@@ -17,11 +17,11 @@ Without notes, Amaya can describe one real person and one meaningful place in at
 2. **Photo hook — 5 min:** Show a meaningful person or place and give two comprehensible descriptions. Invite guesses and reactions.
 3. **Dialogue listening and performance — 7 min:** Listen for person, place, and descriptions; read in Latin; switch roles and personalize.
 4. **High-value descriptions — 7 min:** Select and use four relevant adjectives in true statements. Contrast masculine/feminine forms only through meaningful pairs.
-5. **Reading for meaning — 7 min:** Read “At Kalemegdan,” establish the scene, and locate the descriptive language.
-6. **Retelling and discussion — 8 min:** Retell the text, connect a person with a place, and discuss why the learner’s chosen place matters.
+5. **Poem in Latin — 7 min:** Read “Ala je lep ovaj svet” for scene, rhythm, and repeated location words. Support nature vocabulary without testing every noun.
+6. **Discussion and Cyrillic rereading — 8 min:** React to the poem, personalize two images, then reread it in Cyrillic. Explain `gdi` as poetic recognition-only language.
 7. **Connected speech — 5 min:** Expand isolated descriptions using `i`, `ali`, and `veoma`; ask natural follow-up questions.
 8. **Pronunciation and Cyrillic — 7 min:** Recycle `č/ć`, `dž/đ`, and pure `e/o`; introduce their Cyrillic forms plus `У`; perform controlled phrase reading.
-9. **Photo conversation — 6 min:** Four connected sentences per photo, partner questions, then role reversal. Add one playful disagreement about a description.
+9. **Photo conversation — 6 min:** Use one family member or pet and one place: four connected sentences per photo, partner questions, then role reversal.
 10. **Exit performance — 2 min:** Describe a new person/place pairing without notes.
 
 ## Correction focus

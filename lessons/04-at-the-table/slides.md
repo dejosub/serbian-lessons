@@ -5,7 +5,7 @@ paginate: true
 ---
 
 # Serbian 4
-## At the table · Za stolom
+## За столом · Za stolom
 
 Offer, accept, decline, and ask for food or drink.
 
@@ -40,10 +40,28 @@ Who accepts? Who declines? What does Amaya ask for?
 
 # Food and drink
 
-`pita` pie · `hleb` bread · `sir` cheese<br>
-`salata` salad · `voda` water · `kafa` coffee
+<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:12px;text-align:center">
+<div><img src="assets/pita.jpg" style="width:100%;height:150px;object-fit:cover"><br><b>пита</b> · pita</div>
+<div><img src="assets/hleb.jpg" style="width:100%;height:150px;object-fit:cover"><br><b>хлеб</b> · hleb</div>
+<div><img src="assets/sir.jpg" style="width:100%;height:150px;object-fit:cover"><br><b>сир</b> · sir</div>
+<div><img src="assets/salata.jpg" style="width:100%;height:150px;object-fit:cover"><br><b>салата</b> · salata</div>
+<div><img src="assets/voda.jpg" style="width:100%;height:150px;object-fit:cover"><br><b>вода</b> · voda</div>
+<div><img src="assets/kafa.jpg" style="width:100%;height:150px;object-fit:cover"><br><b>кафа</b> · kafa</div>
+</div>
 
 Choose the items that belong at a real family meal.
+
+---
+
+# Three Serbian dishes
+
+<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:16px;text-align:center">
+<div><img src="assets/sarma.jpg" style="width:100%;height:210px;object-fit:cover"><br><b>сарма</b> · sarma</div>
+<div><img src="assets/cevapi.jpg" style="width:100%;height:210px;object-fit:cover"><br><b>ћевапи</b> · ćevapi</div>
+<div><img src="assets/pasulj.jpg" style="width:100%;height:210px;object-fit:cover"><br><b>пасуљ</b> · pasulj</div>
+</div>
+
+Which would you choose? Ask for it in Serbian.
 
 ---
 
@@ -54,6 +72,9 @@ Choose the items that belong at a real family meal.
 **Izvolite.** — Here you are. / Please.
 
 Learn the whole phrases; no case table today.
+
+**Шта је ово?** · `Šta je ovo?`<br>
+**Шта желиш / желите?** · `Šta želiš / želite?`
 
 ---
 
@@ -87,9 +108,9 @@ Read for sound first; meaning is already known.
 
 # Read: Sunday lunch
 
-> Amaya i Marko su kod bake i deke. Na stolu su pita, salata, sir i hleb. Baka pita: „Amaya, hoćeš li još pite?” Amaya kaže: „Da, molim. Pita je veoma ukusna!”
+> Amaya i Marko su kod bake i dede. Na stolu su pita, salata, sir i hleb. Baka pita: „Amaya, hoćeš li još pite?” Amaya kaže: „Da, molim. Pita je veoma ukusna!” Marko kaže: „Ne, hvala. Sit sam.” Deda kaže: „Ukusno je!”
 
-`baka` grandmother · `deka` grandfather · `na stolu` on the table · `veoma` very
+`baka` grandmother · `deda` grandfather · `na stolu` on the table · `veoma` very
 
 ---
 
@@ -101,6 +122,19 @@ Read for sound first; meaning is already known.
 - What would be on the table at your ideal Serbian meal?
 
 Retell, react, and ask one follow-up question.
+
+---
+
+# Read again in Cyrillic
+
+> Амаја и Марко су код баке и деде.<br>
+> На столу су пита, салата, сир и хлеб.<br>
+> Бака пита: „Амаја, хоћеш ли још пите?”<br>
+> Амаја каже: „Да, молим. Пита је веома укусна!”<br>
+> Марко каже: „Не, хвала. Сит сам.”<br>
+> Деда каже: „Укусно је!”
+
+Find **на столу** and **код баке и деде**.
 
 ---
 

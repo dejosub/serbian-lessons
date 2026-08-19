@@ -17,6 +17,10 @@ $lessons = foreach ($directory in Get-ChildItem -LiteralPath $lessonRoot -Direct
     $destinationDirectory = Join-Path $publishedRoot "lesson-$number"
     New-Item -ItemType Directory -Path $destinationDirectory -Force | Out-Null
     Copy-Item -LiteralPath $source -Destination (Join-Path $destinationDirectory 'index.html') -Force
+    $assetSource = Join-Path $directory.FullName 'assets'
+    if (Test-Path -LiteralPath $assetSource) {
+        Copy-Item -LiteralPath $assetSource -Destination $destinationDirectory -Recurse -Force
+    }
 
     $title = (Get-Culture).TextInfo.ToTitleCase(($Matches.slug -replace '-', ' '))
     $version = (Get-FileHash -Algorithm SHA256 -LiteralPath $source).Hash.Substring(0, 12).ToLowerInvariant()

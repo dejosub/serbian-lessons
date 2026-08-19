@@ -16,3 +16,6 @@ The digital deck starts with English prompts; the answer face foregrounds Cyrill
 | beautiful; nice | леп / лепа · lep / lepa | 5 |
 | lively | жив / жива · živ / živa | 5 |
 | place | место · mesto | 5 |
+| pet | љубимац · ljubimac | 5 |
+| dog | пас · pas | 5 |
+| cat | мачка · mačka | 5 |

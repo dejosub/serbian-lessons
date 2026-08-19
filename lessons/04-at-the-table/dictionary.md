@@ -66,7 +66,7 @@ Contains all taught vocabulary from Lessons 1–4. Use the “First” column to
 | star / stara | стар / стара | old; with masculine / feminine noun | 3 |
 | sin | син | son | 3 |
 | žena | жена | wife; woman | 3 |
-| baka / deka | бака / дека | grandmother / grandfather | 4 |
+| baka / deda | бака / деда | grandmother / grandfather | 4 |
 | Hoćeš li ...? / Hoćete li ...? | Хоћеш ли ...? / Хоћете ли ...? | Would you like ...? informal / polite-plural | 4 |
 | Da, molim. / Ne, hvala. | Да, молим. / Не, хвала. | Yes, please. / No, thank you. | 4 |
 | još | још | more; another | 4 |
@@ -81,6 +81,11 @@ Contains all taught vocabulary from Lessons 1–4. Use the “First” column to
 | salata | салата | salad | 4 |
 | voda | вода | water | 4 |
 | kafa | кафа | coffee | 4 |
+| sarma | сарма | stuffed cabbage rolls | 4 |
+| ćevapi | ћевапи | grilled minced-meat sausages | 4 |
+| pasulj | пасуљ | beans; bean stew | 4 |
 | na stolu | на столу | on the table | 4 |
 | veoma | веома | very | 4 |
-
+| Šta je ovo? | Шта је ово? | What is this? | 4 |
+| Šta želiš / želite? | Шта желиш / желите? | What do you want? informal / polite-plural | 4 |
+| kod bake i dede | код баке и деде | at Grandma and Grandpa’s | 4 |

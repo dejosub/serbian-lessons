@@ -1,8 +1,8 @@
-# Lesson 5 — People and places · Људи и места
+# Lesson 5 — Људи, љубимци и места · People, pets, and places
 
 ## Today I can ...
 
-- describe a person with two details
+- describe a person or pet with two details
 - say where someone is
 - describe a place and connect ideas
 - read a short familiar passage in Cyrillic with controlled support
@@ -36,6 +36,12 @@ Greet someone, introduce one real person, then offer and request something at th
 | ovde / tamo | here / there |
 | i / ali | and / but |
 | veoma | very |
+
+## Pets · Љубимци
+
+`љубимац · ljubimac` — pet · `пас · pas` — dog · `мачка · mačka` — cat
+
+Use a real family or pet photo. The same descriptions can express a true reaction: `Пас је мали и миран. · Pas je mali i miran.`
 
 ## Describing people and places
 
@@ -77,27 +83,47 @@ Read each familiar sentence in Cyrillic before checking Latin:
 
 Read the whole phrase once, identify only the blocking letter, and try again.
 
-## Reading — At Kalemegdan
+## Reading — “Ala je lep ovaj svet”
 
-Mila i njen deda su na Kalemegdanu. Deda je miran i duhovit. Park je velik i lep. Beograd je danas veoma živ. Mila voli ovo mesto.
+Read in Latin first for meaning and rhythm:
 
-*Mila and her grandfather are at Kalemegdan. Her grandfather is calm and funny. The park is big and beautiful. Belgrade is very lively today. Mila loves this place.*
+> Ala je lep ovaj svet,<br>
+> onde potok, ovde cvet;<br>
+> tamo njiva, ovde sad,<br>
+> eno sunce, evo hlad.<br>
+> Tamo Dunav, zlata pun,<br>
+> onde trava, ovde žbun.<br>
+> Slavuj peva, ne znam gdi —<br>
+> ovde srce, ovde ti!
 
-Support: `deda` — grandfather; `miran` — calm; `park` — park; `mesto` — place.
+Supported words: `potok` — stream; `cvet` — flower; `njiva` — field; `hlad` — shade; `žbun` — bush; `slavuj` — nightingale. `gdi` is an older poetic form of `gde`; recognize it, but use `gde` in conversation.
+
+Then read the original in Cyrillic:
+
+> Ала је леп овај свет,<br>
+> онде поток, овде цвет;<br>
+> тамо њива, овде сад,<br>
+> ено сунце, ево хлад.<br>
+> Тамо Дунав, злата пун,<br>
+> онде трава, овде жбун.<br>
+> Славуј пева, не знам гди —<br>
+> овде срце, овде ти!
+
+Jovan Jovanović Zmaj · public-domain text; source: Serbian Wikisource.
 
 ### Talk about it
 
-1. Who is with Mila and where are they?
-2. How is her grandfather described?
-3. What is the park like? What is Belgrade like?
-4. What person and place would you connect in your own story?
-5. What makes that place important to you?
+1. Which words point to “here” and “there”?
+2. What can the speaker see and hear?
+3. What mood does the poem create?
+4. Which two details would you change to describe the world around you today?
+5. What person, pet, and place would you connect in your own short description?
 
 Retell the passage, then tell your own photo story and ask a follow-up question.
 
 ## Communication lab
 
-Choose two photos: one person and one place. For each, give at least four connected sentences using `i`, `ali`, or `veoma`. Your partner asks questions; then switch roles. Include one description you disagree about and negotiate it naturally.
+Choose two photos: one family member or pet and one place. For each, give at least four connected sentences using `i`, `ali`, or `veoma`. Your partner asks questions; then switch roles. Include one description you disagree about and negotiate it naturally.
 
 ## Optional repair prompts
 

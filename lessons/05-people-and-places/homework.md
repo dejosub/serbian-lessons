@@ -4,11 +4,11 @@ Choose three activities during the week, about 10 minutes each.
 
 ## Read and retell
 
-Read “At Kalemegdan” aloud. Retell it without looking, then change one person, one description, and one place.
+Read “Ala je lep ovaj svet” aloud in Latin for meaning and rhythm, then in Cyrillic. Without looking, recall at least four things the speaker notices and replace two details with things you see today.
 
 ## Photo voice note
 
-Record 60 seconds about a meaningful photo. Say who is there, where they are, give two descriptions, and explain why the person or place matters. Use `i`, `ali`, or `veoma`.
+Record 60 seconds about a meaningful family, pet, or place photo. Say who or what is there, give two descriptions, and explain why it matters. Use `i`, `ali`, or `veoma`.
 
 ## Cyrillic
 
@@ -16,7 +16,7 @@ Read `Она је у Београду` and `Град је велики и жив
 
 ## Real exchange
 
-Ask Marko to describe a Serbian person or place without naming it. Guess, then switch roles. Serbian may be mixed with English, but keep the target description phrases in Serbian.
+Ask Marko to describe a Serbian person, pet, or place without naming it. Guess, then switch roles. Serbian may be mixed with English, but keep the target description phrases in Serbian.
 
 ## Self-check
 

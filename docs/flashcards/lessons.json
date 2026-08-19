@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "number":  "01",
         "title":  "Greetings And Introductions",
@@ -21,12 +21,24 @@
         "number":  "04",
         "title":  "At The Table",
         "source":  "lessons/04-at-the-table/flashcards.html",
-        "version":  "892cf47aa132"
+        "version":  "64bc1b452a0c"
     },
     {
         "number":  "05",
         "title":  "People And Places",
         "source":  "lessons/05-people-and-places/flashcards.html",
-        "version":  "4905f142a206"
+        "version":  "acffaa0a3c40"
+    },
+    {
+        "number":  "06",
+        "title":  "How Was Your Day",
+        "source":  "lessons/06-how-was-your-day/flashcards.html",
+        "version":  "3f9b1a408cb2"
+    },
+    {
+        "number":  "07",
+        "title":  "Likes Interests And Pets",
+        "source":  "lessons/07-likes-interests-and-pets/flashcards.html",
+        "version":  "13fe809257ce"
     }
 ]

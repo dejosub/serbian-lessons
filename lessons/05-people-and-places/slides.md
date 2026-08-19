@@ -5,7 +5,8 @@ paginate: true
 ---
 
 # Serbian 5
-## People and places · Ljudi i mesta
+## Људи, љубимци и места
+### Ljudi, ljubimci i mesta
 
 Describe someone or somewhere in connected sentences.
 
@@ -37,6 +38,9 @@ Who is described? Where is she?
 `topao/topla` warm · `duhovit/duhovita` funny
 
 Choose words that fit a real person.
+
+**љубимац** · `ljubimac` — pet<br>
+**пас** · `pas` — dog · **мачка** · `mačka` — cat
 
 ---
 
@@ -93,20 +97,38 @@ Hear and say the word before decoding it.
 
 ---
 
-# Read: At Kalemegdan
+# Read a poem in Latin
 
-> Mila i njen deda su na Kalemegdanu. Deda je miran i duhovit. Park je velik i lep. Beograd je danas veoma živ. Mila voli ovo mesto.
-
-`deda` grandfather · `miran` calm · `park` park · `mesto` place
+> Ala je lep ovaj svet,<br>
+> onde potok, ovde cvet;<br>
+> tamo njiva, ovde sad,<br>
+> eno sunce, evo hlad.<br>
+> Tamo Dunav, zlata pun,<br>
+> onde trava, ovde žbun.<br>
+> Slavuj peva, ne znam gdi —<br>
+> ovde srce, ovde ti!
 
 ---
 
-# Discuss and retell
+# Discuss and react
 
-- Who is with Mila?
-- How is her grandfather described?
-- What is the place like?
-- Which person and place would you connect in your own story?
+- What can the speaker see and hear?
+- Which words mean here and there?
+- What mood does the poem create?
+- What would you change to describe today?
+
+---
+
+# Read again in Cyrillic
+
+> Ала је леп овај свет,<br>
+> онде поток, овде цвет;<br>
+> тамо њива, овде сад,<br>
+> ено сунце, ево хлад.<br>
+> Тамо Дунав, злата пун,<br>
+> онде трава, овде жбун.<br>
+> Славуј пева, не знам гди —<br>
+> овде срце, овде ти!
 
 ---
 
@@ -125,4 +147,4 @@ Ask your partner a follow-up question.
 
 # Exit performance
 
-Without notes, describe one person and one place in at least four connected Serbian sentences.
+Without notes, describe one family member or pet and one place in at least four connected Serbian sentences.

@@ -14,7 +14,19 @@ Describe someone or somewhere in connected sentences.
 
 # Conversation review
 
-Greet me, introduce one person, then offer and request something at the table.
+Greet me, introduce one person, then offer something and request it with **Mogu li da dobijem ...?**
+
+---
+
+# Who does what? A small case map
+
+**Nominative = the doer / the person being identified**<br>
+`Ana je ovde.` · `Ovo je Marko.`
+
+**Accusative = the direct object after an action**<br>
+`Vidim Anu.` · `Imam jednog brata.` · `Želim vodu.`
+
+For many feminine nouns, **-a → -u**: `Ana → Anu`, `voda → vodu`.
 
 ---
 

@@ -16,7 +16,14 @@ Read `Она је у Београду` and `Град је велики и жив
 
 ## Real exchange
 
-Ask Marko to describe a Serbian person, pet, or place without naming it. Guess, then switch roles. Serbian may be mixed with English, but keep the target description phrases in Serbian.
+Have this short conversation with Marko. Serbian may be mixed with English, but keep the bold prompts in Serbian.
+
+1. Ask: **Koga opisuješ?** (*Whom are you describing?*) Marko chooses a Serbian person, pet, or place but does not name it.
+2. Ask: **Gde je? Kakav je? / Kakva je?** (*Where is he/she/it? What is he/she/it like?*) Ask at least one follow-up: **Zašto?** (*Why?*)
+3. Guess: **Da li je to ...?** Then switch roles.
+4. Finish with a real request: **Mogu li da dobijem ...?** Marko answers **Izvoli.**
+
+Afterward, tell Marko one nominative/accusative pair you noticed, such as `Ana / Anu` or `voda / vodu`.
 
 ## Self-check
 

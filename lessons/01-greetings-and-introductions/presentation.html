@@ -9,10 +9,10 @@
     html, body { margin: 0; background: #dfe7e4; color: #18332d; font-family: Aptos, "Segoe UI", Arial, sans-serif; }
     .slide {
       position: relative; width: 13.333in; height: 7.5in; overflow: hidden;
-      padding: .72in .88in; background: #fffdf7; page-break-after: always;
-      break-after: page;
+      padding: .72in .88in; background: #fffdf7;
+
     }
-    .slide:last-child { page-break-after: auto; }
+    .slide:not(:last-child) { page-break-after: always; break-after: page; }
     .slide::before { content: ""; position: absolute; inset: 0 0 auto; height: .14in; background: linear-gradient(90deg,#c6362d 0 33%,#244f45 33% 66%,#d5a62e 66%); }
     .slide::after { content: attr(data-page); position: absolute; right: .5in; bottom: .3in; color: #71817d; font-size: 13pt; }
     h1 { margin: 0 0 .35in; color: #a82d27; font-family: Georgia, "Times New Roman", serif; font-size: 38pt; line-height: 1.08; }

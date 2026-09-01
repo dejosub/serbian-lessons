@@ -27,11 +27,28 @@ foreach ($dir in $lessonDirs) {
     $inputPath = Join-Path $dir.FullName $job.Input
     if (-not (Test-Path -LiteralPath $inputPath)) { continue }
     $outputPath = Join-Path $dir.FullName $job.Output
+    if (Test-Path -LiteralPath $outputPath) {
+      $resolvedOutput = (Resolve-Path -LiteralPath $outputPath).Path
+      if (-not $resolvedOutput.StartsWith($dir.FullName) -or
+          [IO.Path]::GetExtension($resolvedOutput) -ne '.pdf') {
+        throw "Refusing to replace unexpected PDF target: $resolvedOutput"
+      }
+      Remove-Item -LiteralPath $resolvedOutput -Force
+    }
     $url = 'file:///' + $inputPath.Replace('\', '/')
-    & $edge --headless --disable-gpu --no-pdf-header-footer --print-to-pdf="$outputPath" $url
+    $arguments = @(
+      '--headless'
+      '--disable-gpu'
+      '--no-pdf-header-footer'
+      "--print-to-pdf=$outputPath"
+      $url
+    )
+    $process = Start-Process -FilePath $edge -ArgumentList $arguments -Wait -PassThru -WindowStyle Hidden
+    if ($process.ExitCode -ne 0) {
+      throw "Microsoft Edge exited with code $($process.ExitCode): $outputPath"
+    }
     if (-not (Test-Path -LiteralPath $outputPath) -or (Get-Item -LiteralPath $outputPath).Length -eq 0) {
       throw "PDF export failed: $outputPath"
     }
   }
 }
-

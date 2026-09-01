@@ -23,7 +23,7 @@ $results = foreach ($dir in $lessonDirs) {
 
   $html = [IO.File]::ReadAllText($presentation)
   $pdfText = [Text.Encoding]::ASCII.GetString([IO.File]::ReadAllBytes($pdf))
-  $htmlSlides = ([regex]::Matches($html, '<section\s+class="slide"')).Count
+  $htmlSlides = ([regex]::Matches($html, '<section\s+class=["''][^"'']*\bslide\b[^"'']*["'']')).Count
   $pdfPages = ([regex]::Matches($pdfText, '/Type\s*/Page(?!s)')).Count
   $images = ([regex]::Matches($pdfText, '/Subtype\s*/Image')).Count
   $mediaBox = ([regex]::Match($pdfText, '/MediaBox\s*\[[^\]]+\]')).Value

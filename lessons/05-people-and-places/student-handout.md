@@ -9,7 +9,13 @@
 
 ## Cumulative conversation
 
-Greet someone, introduce one real person, then offer and request something at the table. Continue naturally with one follow-up question.
+Greet someone, introduce one real person, then offer something and request it with `Mogu li da dobijem ...?` Continue naturally with one follow-up question.
+
+## A small grammar map — nominative and accusative
+
+The **nominative** names the doer or identifies someone: `Ana je ovde.` (*Ana is here.*) and `Ovo je Marko.` (*This is Marko.*).
+
+The **accusative** marks the direct object after an action: `Vidim Anu.` (*I see Ana.*), `Imam jednog brata.` (*I have one brother.*), and `Želim vodu.` (*I want water.*). For many feminine nouns, the final `-a` changes to `-u`: `Ana → Anu`, `voda → vodu`, `sestra → sestru`. Learn the whole useful phrase first; the label explains the pattern you have already used.
 
 ## Listen and read
 

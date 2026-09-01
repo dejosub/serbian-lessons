@@ -11,11 +11,13 @@ The first six lessons form the starter course. Lessons 7–12 expand it into a c
 | 5 | Describe a person and a meaningful place | useful adjective pairs; `on/ona je`, `gde`, connectors | first controlled independent Cyrillic reading; approach equal scripts |
 | 6 | Say where she was and what she did during an ordinary day | useful female-speaker past chunks; sequence connectors | connected speech; finish alphabet introduction and consolidate decoding |
 | 7 | Discuss preferences across family, music, food, and pets | `volim`, `ne volim`, `sviđa mi se`, `zato što` | Cyrillic-led bridge; Latin supports new language |
-| 8 | Say where people live and where things are | `u` + location chunks | primarily Cyrillic; read real signs in both scripts |
+| 8 | Express feelings, ask how someone feels, and respond with empathy | `osećam se`; intensity; `jer` | primarily Cyrillic; expressive rhythm and emotion words in both scripts |
 | 9 | Make simple plans | time, days, `hoću/želim/možemo` | question rhythm |
 | 10 | Talk briefly about yesterday | introductory past tense | unstressed helper forms |
 | 11 | Participate at a family meal | offers, requests, politeness | natural reductions |
 | 12 | Hold a five-minute family conversation | consolidation | both scripts; assessment |
+
+The location outcome originally planned for Lesson 8 remains useful and will be scheduled after the feelings lesson when the next batch is revised.
 
 ## Script progression
 

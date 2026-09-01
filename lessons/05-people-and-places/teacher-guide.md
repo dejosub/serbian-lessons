@@ -13,10 +13,10 @@ Without notes, Amaya can describe one real family member or pet and one meaningf
 
 ## Sequence — 60 minutes
 
-1. **Cumulative conversation — 6 min:** Greeting, person introduction, and a short table exchange. Follow Amaya’s meaning while noting one repair target.
+1. **Cumulative conversation — 6 min:** Greeting, person introduction, and a short table exchange that retrieves `Mogu li da dobijem ...?`. Follow Amaya’s meaning while noting one repair target.
 2. **Photo hook — 5 min:** Show a meaningful person or place and give two comprehensible descriptions. Invite guesses and reactions.
 3. **Dialogue listening and performance — 7 min:** Listen for person, place, and descriptions; read in Latin; switch roles and personalize.
-4. **High-value descriptions — 7 min:** Select and use four relevant adjectives in true statements. Contrast masculine/feminine forms only through meaningful pairs.
+4. **High-value descriptions and case map — 7 min:** Select and use four relevant adjectives in true statements. Then name the contrast she has already met: nominative for the doer/identity (`Ana je ovde`; `Ovo je Marko`) and accusative for a direct object (`Vidim Anu`; `Želim vodu`; `Imam jednog brata`). Highlight the common feminine `-a → -u` pattern, test it in two meaningful phrases, and stop there.
 5. **Poem in Latin — 7 min:** Read “Ala je lep ovaj svet” for scene, rhythm, and repeated location words. Support nature vocabulary without testing every noun.
 6. **Discussion and Cyrillic rereading — 8 min:** React to the poem, personalize two images, then reread it in Cyrillic. Explain `gdi` as poetic recognition-only language.
 7. **Connected speech — 5 min:** Expand isolated descriptions using `i`, `ali`, and `veoma`; ask natural follow-up questions.

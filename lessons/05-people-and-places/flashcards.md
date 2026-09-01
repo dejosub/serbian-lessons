@@ -9,7 +9,8 @@ The digital deck starts with English prompts; the answer face foregrounds Cyrill
 | here / there | овде / тамо · ovde / tamo | 5 |
 | very | веома · veoma | 5 |
 | tall | висок / висока · visok / visoka | 5 |
-| warm | топао / топла · topao / topla | 5 |
+| cheerful | весео / весела · veseo / vesela | 5 |
+| fast | брз / брза · brz / brza | 5 |
 | funny | духовит / духовита · duhovit / duhovita | 5 |
 | calm | миран / мирна · miran / mirna | 5 |
 | big / small | велик / мали · velik / mali | 5 |

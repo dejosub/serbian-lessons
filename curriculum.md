@@ -8,8 +8,8 @@ The first six lessons form the starter course. Lessons 7–12 expand it into a c
 | 2 | Ask and answer how someone is | question intonation; `ti` and `Vi` | `č/ć`, `dž/đ`; recognize `К С И Т Х В Л` |
 | 3 | Talk about close family | gender; `moj/moja`; `imam` | `lj`, `nj`; guided decoding with `Б Р Н П Д Ц Љ Њ` |
 | 4 | Ask for and discuss food and drinks | useful accusative chunks | `š`, `ž`; continue Latin-led guided Cyrillic decoding |
-| 5 | Describe a person and a meaningful place | useful adjective pairs; `on/ona je`, `gde`, connectors | first controlled independent Cyrillic reading; approach equal scripts |
-| 6 | Say where she was and what she did during an ordinary day | useful female-speaker past chunks; sequence connectors | connected speech; finish alphabet introduction and consolidate decoding |
+| 5 | Describe a person and a meaningful place | useful adjective pairs; `on/ona je`, `gde`, connectors | introduce final letters `Ч Ћ Џ Ђ У`; first controlled independent Cyrillic reading |
+| 6 | Say where she was and what she did during an ordinary day | useful female-speaker past chunks; sequence connectors | connected speech; consolidate the complete alphabet and decoding |
 | 7 | Discuss preferences across family, music, food, and pets | `volim`, `ne volim`, `sviđa mi se`, `zato što` | Cyrillic-led bridge; Latin supports new language |
 | 8 | Express feelings, ask how someone feels, and respond with empathy | `osećam se`; intensity; `jer` | primarily Cyrillic; expressive rhythm and emotion words in both scripts |
 | 9 | Make simple plans | time, days, `hoću/želim/možemo` | question rhythm |

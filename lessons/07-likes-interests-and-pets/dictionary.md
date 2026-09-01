@@ -91,7 +91,8 @@ Contains all taught vocabulary from Lessons 1–7. Use the “First” column to
 | ovde / tamo | овде / тамо | here / there | 5 |
 | visok / visoka | висок / висока | tall; masculine / feminine | 5 |
 | mlad / mlada | млад / млада | young; masculine / feminine | 5 |
-| topao / topla | топао / топла | warm; masculine / feminine | 5 |
+| veseo / vesela | весео / весела | cheerful; masculine / feminine | 5 |
+| brz / brza | брз / брза | fast; masculine / feminine | 5 |
 | duhovit / duhovita | духовит / духовита | funny; masculine / feminine | 5 |
 | miran / mirna | миран / мирна | calm; masculine / feminine | 5 |
 | velik / velika | велик / велика | big; masculine / feminine | 5 |
@@ -127,4 +128,3 @@ Contains all taught vocabulary from Lessons 1–7. Use the “First” column to
 | muzika | музика | music | 7 |
 | šetati psa | шетати пса | to walk the dog | 7 |
 | zajedno | заједно | together | 7 |
-

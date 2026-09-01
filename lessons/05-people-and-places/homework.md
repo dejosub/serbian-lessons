@@ -23,13 +23,13 @@ Have this short conversation with Marko. Serbian may be mixed with English, but 
 3. Guess: **Da li je to ...?** Then switch roles.
 4. Finish with a real request: **Mogu li da dobijem ...?** Marko answers **Izvoli.**
 
-Afterward, tell Marko one nominative/accusative pair you noticed, such as `Ana / Anu` or `voda / vodu`.
+Afterward, make two short contrasts with Marko: identify someone with `Ovo je Ana`, then say `Vidim Anu` or `Opisujem Anu`. Repeat with another feminine name or noun and tell him what changed. Keep `imam jednog brata` as a whole familiar phrase for now.
 
 ## Self-check
 
-1. She is warm and funny.
+1. She is cheerful and funny.
 2. Where is he?
 3. The city is big but beautiful.
 4. She is in Belgrade.
 
-Answers: `Ona je topla i duhovita.`; `Gde je on?`; `Grad je velik, ali lep.`; `Ona je u Beogradu.`
+Answers: `Ona je vesela i duhovita.`; `Gde je on?`; `Grad je velik, ali lep.`; `Ona je u Beogradu.`

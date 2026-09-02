@@ -6,6 +6,13 @@ $repositoryRoot = Split-Path -Parent $PSScriptRoot
 $lessonRoot = Join-Path $repositoryRoot 'lessons'
 $publishedRoot = Join-Path $repositoryRoot 'docs\flashcards'
 $manifestPath = Join-Path $publishedRoot 'lessons.json'
+$alphabetSource = Join-Path $repositoryRoot 'flashcards\azbuka'
+$alphabetDestination = Join-Path $publishedRoot 'azbuka'
+
+if (Test-Path -LiteralPath $alphabetSource) {
+    New-Item -ItemType Directory -Path $alphabetDestination -Force | Out-Null
+    Copy-Item -Path (Join-Path $alphabetSource '*') -Destination $alphabetDestination -Recurse -Force
+}
 
 $lessons = foreach ($directory in Get-ChildItem -LiteralPath $lessonRoot -Directory | Sort-Object Name) {
     if ($directory.Name -notmatch '^(?<number>\d{2})-(?<slug>.+)$') { continue }

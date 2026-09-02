@@ -24,20 +24,20 @@
 </head>
 <body><main>
   <header><h1>Serbian flash cards</h1><p>Choose a lesson to study its new cards.</p></header>
-  <p id="error" role="alert"></p><section id="lessons" aria-label="Lessons"></section>
+  <section id="lessons" aria-label="Flash-card decks"><article><h2><span class="number">Азбука</span>Serbian alphabet</h2><div class="links"><a href="./flashcards/azbuka/">Study alphabet flash cards</a></div></article></section><p id="error" role="alert"></p>
   <noscript>JavaScript is required for the lesson directory. Individual flash-card pages continue to work locally.</noscript>
 </main><script>
 fetch('./flashcards/lessons.json').then(response => {
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   return response.json();
 }).then(lessons => {
-  document.querySelector('#lessons').innerHTML = lessons.map(lesson => `
+  document.querySelector('#lessons').insertAdjacentHTML('beforeend', lessons.map(lesson => `
     <article>
       <h2><span class="number">Lesson ${lesson.number}</span>${lesson.title}</h2>
       <div class="links">
         <a href="./flashcards/lesson-${lesson.number}/?v=${lesson.version}">Study flash cards</a>
       </div>
-    </article>`).join('');
+    </article>`).join(''));
 }).catch(error => {
   document.querySelector('#error').textContent = `Could not load the lesson list: ${error.message}`;
 });

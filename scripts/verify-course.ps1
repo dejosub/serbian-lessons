@@ -57,6 +57,19 @@ try {
     throw "Flash-card manifest has $($manifest.Count) entries for $($lessonDirectories.Count) lessons."
   }
 
+  $alphabetSource = Join-Path $root 'flashcards\azbuka'
+  $alphabetPublished = Join-Path $root 'docs\flashcards\azbuka'
+  $alphabetFiles = @('index.html') + @(1..5 | ForEach-Object { 'assets\azbuka-{0:d2}.png' -f $_ })
+  foreach ($relativePath in $alphabetFiles) {
+    $sourcePath = Join-Path $alphabetSource $relativePath
+    $publishedPath = Join-Path $alphabetPublished $relativePath
+    if (-not (Test-Path -LiteralPath $sourcePath) -or
+        -not (Test-Path -LiteralPath $publishedPath) -or
+        (Get-FileHash -LiteralPath $sourcePath).Hash -ne (Get-FileHash -LiteralPath $publishedPath).Hash) {
+      throw "Published alphabet flash-card asset differs or is missing: $relativePath"
+    }
+  }
+
   $mismatches = foreach ($directory in $lessonDirectories) {
     $number = $directory.Name.Substring(0, 2)
     $source = Join-Path $directory.FullName 'flashcards.html'

@@ -37,6 +37,9 @@ What changed? For many feminine nouns, **-a → -u**: `Ana → Anu`, `sestra →
 **Amaya:** A gde je ona?<br>
 **Marko:** Ona je u Beogradu. Beograd je veliki i živ.
 
+**Амаја учи / студира. Марко ради.**<br>
+*Amaya uči / studira. Marko radi.*
+
 Who is described? Where is she?
 
 ---
@@ -51,6 +54,9 @@ Who is described? Where is she?
 `brz/brza` fast
 
 Choose words that fit a real person.
+
+**Амаја учи / студира.** · Amaya studies.<br>
+**Марко ради.** · Marko works.
 
 **љубимац** · `ljubimac` — pet<br>
 **пас** · `pas` — dog · **мачка** · `mačka` — cat

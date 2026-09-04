@@ -15,6 +15,15 @@ paginate: true
 Ask how your partner’s day was, what they did, and how they feel now. React to one answer.
 
 ---
+# Listen before you look
+
+Which sound do you hear: **ћ** or **ђ**?
+
+Teacher says: **осећам** · **срећна** · **узбуђена** · **свиђа**
+
+Point first; read and echo second.
+
+---
 
 # Listen first
 
@@ -91,9 +100,20 @@ Match the response to the person, not merely the vocabulary.
 
 # Read in Cyrillic
 
-> Данас је Амаја мало уморна. Имала је много посла. Ипак, срећна је јер увече свира бас са Марком. Музика је опушта. После музике осећа се мирно.
+> Данас је Амаја мало уморна. Много је учила. Марко је радио. Ипак, срећна је јер увече свира бас са Марком. Музика је опушта. После музике осећа се мирно.
 
 Read once for the emotional change. Check Latin only after a full attempt.
+
+---
+# After something
+
+**после + genitive**
+
+Марко: после посла · *posle posla*<br>
+Амаја: после учења · *posle učenja*<br>
+обоје: после музике · *posle muzike*
+
+Learn these as complete chunks. **Љубимац → љубимца** remains the clearer disappearing-**а** example.
 
 ---
 

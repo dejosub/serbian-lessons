@@ -8,7 +8,7 @@
 | Who were you with? | С ким си била? · S kim si bila? | 6 |
 | I was | била сам · bila sam | 6 |
 | I went | ишла сам · išla sam | 6 |
-| I worked | радила сам · radila sam | 6 |
+| I studied | учила сам · učila sam | 6 |
 | I ate | јела сам · jela sam | 6 |
 | I saw | видела сам · videla sam | 6 |
 | I played an instrument | свирала сам · svirala sam | 6 |

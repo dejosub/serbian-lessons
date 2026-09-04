@@ -10,6 +10,13 @@ paginate: true
 # Review your day
 Where were you? What did you do? What did you enjoy?
 ---
+# Hear the difference
+Teacher says a word; point before reading:
+
+**чита** · **хоћу** · **џез** · **свиђа**
+
+ч / ћ · џ / ђ
+---
 # Listen
 **Шта волиш да радиш увече?**<br>**Волим да слушам музику и да шетам пса.**
 ---
@@ -36,6 +43,12 @@ Who likes what? What does your family enjoy together?
 ---
 # Preference map
 Four real people or pets. One preference each.
+---
+# A picture of a pet
+**љубимац** → **слика љубимца**<br>
+*ljubimac* → *slika ljubimca*
+
+After “a picture of …”, Serbian uses the genitive. Notice the disappearing **а**: **-мац → -мца**.
 ---
 # Open conversation
 Two topics, one unexpected follow-up, one reason.

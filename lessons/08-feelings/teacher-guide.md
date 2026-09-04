@@ -13,12 +13,12 @@ Without notes, Amaya can ask how someone feels, express two feelings with approp
 ## Sequence — 60 minutes
 
 1. **Cumulative conversation — 7 min:** Day, activities, preferences, and current feeling.
-2. **Dialogue listening — 6 min:** Identify two feelings, intensity, and reason before reading.
+2. **Sound and dialogue listening — 6 min:** With print hidden, Amaya identifies `ћ/ђ` in `осећам`, `срећна`, `узбуђена`, and `свиђа`; then identify two feelings, intensity, and reason in the dialogue.
 3. **Meaningful feeling choices — 7 min:** Use six feelings in real or hypothetical situations; do not require disclosure.
 4. **Intensity — 5 min:** Contrast `мало`, `прилично`, `веома`, and `баш` through true statements.
 5. **Reason pattern — 6 min:** Ask `Зашто?`; answer once with `јер`. Recycle known language after `јер`.
 6. **Empathetic responses — 6 min:** Match reactions to short scenarios, then personalize tone.
-7. **Cyrillic-led reading — 7 min:** Read for Amaya’s emotional change; Latin follows only if needed.
+7. **Cyrillic-led reading — 7 min:** Read for Amaya’s emotional change; Latin follows only if needed. Preserve the course facts—Amaya studies and Marko works—then notice `после учења / после посла / после музике` and name the genitive. Treat them as chunks.
 8. **Open discussion and retelling — 7 min:** React to the reading and discuss what changes mood.
 9. **Three-moment interview — 7 min:** Feeling, intensity, reason, response, and follow-up for each moment.
 10. **Exit conversation — 2 min:** Unscripted exchange meeting the target.
@@ -34,6 +34,8 @@ Offer fictional or low-stakes scenarios whenever the learner does not want to di
 ## Script and pronunciation
 
 Cyrillic leads familiar and instructional material. Focus pronunciation on expressive sentence rhythm and clear `ћ` in `осећам` and `срећна`; Latin remains available for new or difficult words.
+
+Include `ђ` in `узбуђена` and `свиђа` as the contrast. Model natural words first; use letter labels only after the listening choice. Treat stress as auditory imitation rather than a four-accent terminology test.
 
 ## Session note for Lesson 9
 

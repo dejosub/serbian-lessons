@@ -109,11 +109,18 @@ Contains all taught vocabulary from Lessons 1–6. Use the “First” column to
 | ljubimac | љубимац | pet | 5 |
 | pas | пас | dog | 5 |
 | mačka | мачка | cat | 5 |
+| učiti / studirati | учити / студирати | to study / be a student | 5 |
+| raditi | радити | to work | 5 |
 | Kako si provela dan? | Како си провела дан? | How did you spend your day? | 6 |
 | Gde si bila? | Где си била? | Where were you? | 6 |
 | Šta si radila? | Шта си радила? | What did you do? | 6 |
 | S kim si bila? | С ким си била? | Who were you with? | 6 |
-| bila / išla / radila sam | била / ишла / радила сам | I was / went / worked; female | 6 |
+| bila / išla / učila sam | била / ишла / учила сам | I was / went / studied; female | 6 |
+| Marko je radio. | Марко је радио. | Marko worked. | 6 |
+| čitati | читати | to read; sound-practice word | 6 |
+| hoću | хоћу | I want / I will; sound-practice word | 6 |
+| džez / džemper | џез / џемпер | jazz / sweater; sound-practice words | 6 |
+| sviđa (mi se) | свиђа (ми се) | appeals (to me); sound-practice word | 6 |
 | jela / videla / svirala sam | јела / видела / свирала сам | I ate / saw / played; female | 6 |
 | prvo / onda | прво / онда | first / then | 6 |
 | posle toga / na kraju | после тога / на крају | after that / finally | 6 |

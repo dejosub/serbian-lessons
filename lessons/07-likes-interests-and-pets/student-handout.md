@@ -6,12 +6,17 @@
 - ask about another person’s preferences
 - discuss music, food, family activities, and pets
 - explain one preference with a simple reason
+- recognize `ч/ћ` and `џ/ђ` in familiar words
 
 ## Dialogue
 
 **Амаја:** Шта волиш да радиш увече? · `Šta voliš da radiš uveče?`  
 **Марко:** Волим да слушам музику и да шетам пса. А ти?  
 **Амаја:** Волим да свирам бас. Свиђа ми се и српска храна, али не волим кафу.
+
+## Hear the difference
+
+Listen with the words covered. Point to `ч`, `ћ`, `џ`, or `ђ` when the teacher says `чита`, `хоћу`, `џез`, or `свиђа`. Read and repeat only after identifying the sound.
 
 ## Core language
 
@@ -36,6 +41,8 @@ Who likes what? Which preferences seem connected? What does your family enjoy to
 ## Preference map
 
 Choose four real people or pets. Say one preference for each, then ask your partner to challenge or extend one claim. Use a reason where possible.
+
+If you use a photo, say `слика љубимца · slika ljubimca`—“a picture of a pet.” Compare `љубимац → љубимца`. This is a useful first genitive pattern; the `а` disappears before the ending. Learn the phrase and the change, not a complete case table.
 
 ## Open conversation
 

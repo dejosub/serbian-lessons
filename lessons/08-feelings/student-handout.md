@@ -6,10 +6,13 @@
 - name and strengthen or soften my own feelings
 - give one reason with `јер · jer`
 - respond naturally and with empathy
+- distinguish `ћ` and `ђ` in central feeling words
 
 ## Cumulative review
 
 Ask how someone’s day was, where they were, what they did, what they liked, and how they feel now.
+
+Before reading, listen and point to `ћ` or `ђ` as the teacher says `осећам`, `срећна`, `узбуђена`, and `свиђа`. Then read and echo the full word with its natural stress.
 
 ## Dialogue
 
@@ -52,9 +55,11 @@ Female-speaker forms end in `-a`: `срећна`, `тужна`, `узбуђен�
 
 ## Reading
 
-> Данас је Амаја мало уморна. Имала је много посла. Ипак, срећна је јер увече свира бас са Марком. Музика је опушта. После музике осећа се мирно.
+> Данас је Амаја мало уморна. Много је учила. Марко је радио. Ипак, срећна је јер увече свира бас са Марком. Музика је опушта. После музике осећа се мирно.
 
-*Danas je Amaya malo umorna. Imala je mnogo posla. Ipak, srećna je jer uveče svira bas sa Markom. Muzika je opušta. Posle muzike oseća se mirno.*
+*Danas je Amaya malo umorna. Mnogo je učila. Marko je radio. Ipak, srećna je jer uveče svira bas sa Markom. Muzika je opušta. Posle muzike oseća se mirno.*
+
+Notice a practical genitive frame tied to the characters: Marko says `после посла · posle posla`; Amaya says `после учења · posle učenja`; both can say `после музике · posle muzike`. Learn these as complete time phrases. Keep `љубимац → љубимца` as the clearer disappearing-`а` example.
 
 Discuss: How does her feeling change? What causes the change? What changes your mood?
 

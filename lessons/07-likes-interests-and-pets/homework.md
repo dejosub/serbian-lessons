@@ -4,4 +4,6 @@ Choose three activities: reread and retell the family text; make a five-person p
 
 **Conversation with Marko:** Ask `Šta voliš da radiš?`, `Koja ti je omiljena muzika / hrana?`, and `Da li voliš pse ili mačke?` Follow one answer with `Zašto?` and another with `A s kim?` or `Kada?`. React naturally with `I ja`, `Ne volim ...`, or `Meni je zanimljivo ...`. Then report one answer: `Marko voli ... zato što ...`.
 
+**Optional photo phrase:** Choose a pet photo and say `Ово је слика љубимца.` Compare the spoken forms `љубимац` and `љубимца`, listening for the missing `а`.
+
 Self-check: `Волим да свирам бас зато што ме музика опушта.` — I like playing bass because music relaxes me.

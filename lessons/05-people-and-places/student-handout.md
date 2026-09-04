@@ -33,6 +33,8 @@ Try two true pairs: identify someone with `Ovo je ...`, then say whom you see or
 **Marko:** Ona je u Beogradu. Beograd je veliki i živ.  
 *She is in Belgrade. Belgrade is big and lively.*
 
+One true character contrast to reuse later: `Амаја учи / студира. · Amaya uči / studira.` — Amaya studies. `Марко ради. · Marko radi.` — Marko works.
+
 ## Useful language
 
 | Serbian | English |
@@ -44,6 +46,8 @@ Try two true pairs: identify someone with `Ovo je ...`, then say whom you see or
 | ovde / tamo | here / there |
 | i / ali | and / but |
 | veoma | very |
+| учи / студира · uči / studira | studies / is a student |
+| ради · radi | works |
 
 ## Pets · Љубимци
 

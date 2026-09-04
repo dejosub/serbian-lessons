@@ -109,3 +109,5 @@ Contains all taught vocabulary from Lessons 1–5. Use the “First” column to
 | ljubimac | љубимац | pet | 5 |
 | pas | пас | dog | 5 |
 | mačka | мачка | cat | 5 |
+| učiti / studirati | учити / студирати | to study / be a student | 5 |
+| raditi | радити | to work | 5 |

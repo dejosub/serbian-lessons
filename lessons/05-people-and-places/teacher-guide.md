@@ -15,7 +15,7 @@ Without notes, Amaya can describe one real family member or pet and one meaningf
 
 1. **Cumulative conversation — 6 min:** Greeting, person introduction, and a short table exchange that retrieves `Mogu li da dobijem ...?`. Follow Amaya’s meaning while noting one repair target.
 2. **Photo hook — 5 min:** Show a meaningful person or place and give two comprehensible descriptions. Invite guesses and reactions.
-3. **Dialogue listening and performance — 7 min:** Listen for person, place, and descriptions; read in Latin; switch roles and personalize.
+3. **Dialogue listening and performance — 7 min:** Listen for person, place, and descriptions; read in Latin; switch roles and personalize. Establish the true contrast `Амаја учи / студира; Марко ради` for recycling in later lessons.
 4. **High-value descriptions and case map — 7 min:** Select and use four relevant adjectives in true statements. Contrast `Ovo je Ana / Ana je visoka` with `Vidim Anu / Opisujem Anu`; ask what changed before naming nominative and accusative. Highlight only the common feminine `-a → -u` pattern, personalize two pairs, and return to conversation. Treat `imam jednog brata` as a familiar chunk rather than explaining masculine animacy or numeral agreement here.
 5. **Poem in Latin — 7 min:** Read “Ala je lep ovaj svet” for scene, rhythm, and repeated location words. Use the short key-word line on each poem slide for immediate support and the fuller handout table only when needed. Briefly explain expressive `ala`, pointing words `eno/evo`, poetic `zlata pun`, and older `gdi`; do not test every noun.
 6. **Discussion and Cyrillic rereading — 8 min:** React to the poem, personalize two images, then reread it in Cyrillic. Explain `gdi` as poetic recognition-only language.

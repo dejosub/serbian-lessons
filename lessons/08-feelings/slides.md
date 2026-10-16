@@ -12,16 +12,16 @@ paginate: true
 
 # Cumulative conversation
 
-Ask how your partner’s day was, what they did, and how they feel now. React to one answer.
+Ask how your partner’s day was, what they did, and what they like doing in the evening. React to one answer and ask **А шта још?**
 
 ---
 # Listen before you look
 
-Which sound do you hear: **ћ** or **ђ**?
+Hard **ч / џ** or soft **ћ / ђ**?
 
-Teacher says: **осећам** · **срећна** · **узбуђена** · **свиђа**
+Teacher says: **осећам** · **срећна** · **узбуђена** · **изненађена** · **учила** · **џемпер**
 
-Point first; read and echo second.
+Point first; read and echo second. Then you say three; the teacher points.
 
 ---
 
@@ -42,6 +42,8 @@ What two feelings does Marko name? Why is he happy?
 **Како се осећаш?**<br>
 *Kako se osećaš?* — How do you feel?
 
+**Како се осећате?** — polite, for Baka or Deda
+
 **Осећам се ...**<br>
 *Osećam se ...* — I feel ...
 
@@ -60,6 +62,17 @@ What two feelings does Marko name? Why is he happy?
 мирна · *mirna* — calm
 
 Female-speaker forms are shown. Listen for the final **-a**.
+
+---
+
+# More feelings
+
+нервозна · *nervozna* — nervous<br>
+изненађена · *iznenađena* — surprised<br>
+поносна · *ponosna* — proud<br>
+**Досадно ми је.** · *Dosadno mi je.* — I’m bored.
+
+Marko says **нервозан · изненађен · поносан**. **Досадно ми је** is the same for everyone.
 
 ---
 
@@ -89,20 +102,24 @@ One honest reason is enough.
 
 # Respond with care
 
+**Шта се десило?** — What happened?<br>
 **Баш ми је драго.** — I’m really glad.<br>
 **Жао ми је.** — I’m sorry.<br>
 **Разумем.** — I understand.<br>
+**Биће добро.** — It’ll be fine.<br>
 **Хоћеш ли да причамо?** — Do you want to talk?
 
-Match the response to the person, not merely the vocabulary.
+Ask first, then match the response to the person.
 
 ---
 
 # Read in Cyrillic
 
-> Данас је Амаја мало уморна. Много је учила. Марко је радио. Ипак, срећна је јер увече свира бас са Марком. Музика је опушта. После музике осећа се мирно.
+> Данас је Амаја мало уморна. Много је учила. Марко је радио. Ипак, срећна је јер увече свира бас са Марком. Музика је опушта. После музике осећа се мирно. Сутра иду код баке и деде. Амаја је мало нервозна, али је и поносна: сада може да прича са њима на српском.
 
 Read once for the emotional change. Check Latin only after a full attempt.
+
+<div class="latin-help"><b>Latin help:</b> Ипак = Ipak (still) · опушта = opušta · Сутра = Sutra (tomorrow) · нервозна = nervozna · поносна = ponosna · са њима = sa njima (with them) · на српском = na srpskom</div>
 
 ---
 # After something
@@ -121,6 +138,7 @@ Learn these as complete chunks. **Љубимац → љубимца** remains th
 
 - How does Amaya feel at the beginning and end?
 - What changes her mood?
+- Зашто је нервозна? Зашто је поносна?
 - Does music affect you in the same way?
 - What helps when you feel tired or worried?
 
@@ -137,6 +155,16 @@ Say the key word clearly and let the response sound human:
 Мало сам **забринута**.
 
 Listen, echo, then personalize.
+
+---
+
+# Scenarios — ask, then respond
+
+1. **Marko comes home late from work.** Find out how he feels and what happened. Respond, then offer something: **Хоћеш ли чај?**
+2. **A phone call with Baka (Ви).** Ask **Како се осећате?** She is a little tired—find out why and respond with care.
+3. **Before a concert:** a friend is nervous and excited. Ask two questions and encourage them: **Биће добро!**
+
+The teacher adds one surprise. Keep asking.
 
 ---
 

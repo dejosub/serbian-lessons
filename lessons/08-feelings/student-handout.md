@@ -2,17 +2,17 @@
 
 ## Today I can ...
 
-- ask how someone feels and understand a short answer
+- ask how someone feels, informally and politely, and understand a short answer
 - name and strengthen or soften my own feelings
 - give one reason with `јер · jer`
-- respond naturally and with empathy
-- distinguish `ћ` and `ђ` in central feeling words
+- ask what happened and respond naturally and with empathy
+- keep hard `ч/џ` and soft `ћ/ђ` apart in central feeling words
 
 ## Cumulative review
 
 Ask how someone’s day was, where they were, what they did, what they liked, and how they feel now.
 
-Before reading, listen and point to `ћ` or `ђ` as the teacher says `осећам`, `срећна`, `узбуђена`, and `свиђа`. Then read and echo the full word with its natural stress.
+Before reading, listen and point: hard (`ч/џ`) or soft (`ћ/ђ`)? The teacher says `осећам`, `срећна`, `узбуђена`, `изненађена`, `учила`, and `џемпер`. Then you say three and the teacher points.
 
 ## Dialogue
 
@@ -36,32 +36,48 @@ Before reading, listen and point to `ћ` or `ђ` as the teacher says `осећа
 | Serbian Cyrillic | Latin | English |
 |---|---|---|
 | Како се осећаш? | Kako se osećaš? | How do you feel? |
+| Како се осећате? | Kako se osećate? | How do you feel? (polite) |
 | Осећам се ... | Osećam se ... | I feel ... |
 | срећна / тужна | srećna / tužna | happy / sad |
 | узбуђена / забринута | uzbuđena / zabrinuta | excited / worried |
 | љута / мирна | ljuta / mirna | angry / calm |
+| нервозна / изненађена | nervozna / iznenađena | nervous / surprised |
+| поносна | ponosna | proud |
+| Досадно ми је. | Dosadno mi je. | I’m bored. |
 | мало / прилично | malo / prilično | a little / fairly |
 | веома / баш | veoma / baš | very / really |
 | Зашто? / Јер ... | Zašto? / Jer ... | Why? / Because ... |
 
-Female-speaker forms end in `-a`: `срећна`, `тужна`, `узбуђена`. Marko says `срећан`, `тужан`, `узбуђен`. Use the whole phrase that fits the speaker; this is agreement, not a new tense.
+Female-speaker forms end in `-a`: `срећна`, `нервозна`, `поносна`. Marko says `срећан`, `нервозан`, `поносан`. Use the whole phrase that fits the speaker; this is agreement, not a new tense. `Досадно ми је` does not change.
 
 ## Respond with care
 
+- `Шта се десило?` — What happened?
 - `Баш ми је драго.` — I’m really glad.
 - `Жао ми је.` — I’m sorry.
 - `Разумем.` — I understand.
+- `Биће добро.` — It’ll be fine.
 - `Хоћеш ли да причамо?` — Do you want to talk?
 
 ## Reading
 
-> Данас је Амаја мало уморна. Много је учила. Марко је радио. Ипак, срећна је јер увече свира бас са Марком. Музика је опушта. После музике осећа се мирно.
+> Данас је Амаја мало уморна. Много је учила. Марко је радио. Ипак, срећна је јер увече свира бас са Марком. Музика је опушта. После музике осећа се мирно. Сутра иду код баке и деде. Амаја је мало нервозна, али је и поносна: сада може да прича са њима на српском.
 
-*Danas je Amaya malo umorna. Mnogo je učila. Marko je radio. Ipak, srećna je jer uveče svira bas sa Markom. Muzika je opušta. Posle muzike oseća se mirno.*
+Long words in Latin: Ипак = *Ipak* (still) · опушта = *opušta* · Сутра = *Sutra* (tomorrow) · нервозна = *nervozna* · поносна = *ponosna* · са њима = *sa njima* (with them) · на српском = *na srpskom*
+
+*Danas je Amaya malo umorna. Mnogo je učila. Marko je radio. Ipak, srećna je jer uveče svira bas sa Markom. Muzika je opušta. Posle muzike oseća se mirno. Sutra idu kod bake i dede. Amaya je malo nervozna, ali je i ponosna: sada može da priča sa njima na srpskom.*
 
 Notice a practical genitive frame tied to the characters: Marko says `после посла · posle posla`; Amaya says `после учења · posle učenja`; both can say `после музике · posle muzike`. Learn these as complete time phrases. Keep `љубимац → љубимца` as the clearer disappearing-`а` example.
 
-Discuss: How does her feeling change? What causes the change? What changes your mood?
+Discuss: How does her feeling change? What causes the change? Why is she nervous, and why is she proud? What changes your mood?
+
+## Scenarios — ask, then respond
+
+Choose two. Ask before you advise; respond before you share your own feeling.
+
+1. **Marko comes home late from work.** Find out how he feels and `Шта се десило?` Respond, then offer something: `Хоћеш ли чај?`
+2. **A phone call with Baka (Ви).** Ask `Како се осећате?` She is a little tired—find out why and respond with care.
+3. **Before a concert:** a friend is nervous and excited. Ask two questions and encourage them: `Биће добро!`
 
 ## Conversation lab
 

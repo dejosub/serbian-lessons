@@ -136,6 +136,13 @@ Contains all taught vocabulary from Lessons 1–8. Use the “First” column to
 | šetati psa | шетати пса | to walk the dog | 7 |
 | zajedno | заједно | together | 7 |
 | slika ljubimca | слика љубимца | a picture of a pet; genitive | 7 |
+| Da li voliš ...? | Да ли волиш ...? | Do you like ...? | 7 |
+| obožavam | обожавам | I adore; I love (strong) | 7 |
+| više volim ... nego ... | више волим ... него ... | I prefer ... to ... | 7 |
+| uopšte ne volim | уопште не волим | I don’t like (it) at all | 7 |
+| A šta još? | А шта још? | What else? | 7 |
+| kuvati / Šta volite da kuvate? | кувати / Шта волите да кувате? | to cook / What do you like to cook? polite | 7 |
+| novine | новине | newspaper | 7 |
 | Kako se osećaš? | Како се осећаш? | How do you feel? | 8 |
 | osećam se | осећам се | I feel | 8 |
 | srećna / srećan | срећна / срећан | happy; female / male | 8 |
@@ -151,3 +158,10 @@ Contains all taught vocabulary from Lessons 1–8. Use the “First” column to
 | Razumem. | Разумем. | I understand. | 8 |
 | Hoćeš li da pričamo? | Хоћеш ли да причамо? | Do you want to talk? | 8 |
 | posle posla / učenja / muzike | после посла / учења / музике | after work / studying / music; genitive | 8 |
+| Kako se osećate? | Како се осећате? | How do you feel? polite / plural | 8 |
+| Šta se desilo? | Шта се десило? | What happened? | 8 |
+| nervozna / nervozan | нервозна / нервозан | nervous; female / male | 8 |
+| iznenađena / iznenađen | изненађена / изненађен | surprised; female / male | 8 |
+| ponosna / ponosan | поносна / поносан | proud; female / male | 8 |
+| Dosadno mi je. | Досадно ми је. | I’m bored. | 8 |
+| Biće dobro. | Биће добро. | It’ll be fine. | 8 |

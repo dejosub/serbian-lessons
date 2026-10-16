@@ -15,3 +15,10 @@
 | I’m really glad. | Баш ми је драго. · Baš mi je drago. | 8 |
 | I’m sorry. / I understand. | Жао ми је. / Разумем. · Žao mi je. / Razumem. | 8 |
 | Do you want to talk? | Хоћеш ли да причамо? · Hoćeš li da pričamo? | 8 |
+| How do you feel? (polite) | Како се осећате? · Kako se osećate? | 8 |
+| What happened? | Шта се десило? · Šta se desilo? | 8 |
+| nervous | нервозна · nervozna | 8 |
+| surprised | изненађена · iznenađena | 8 |
+| proud | поносна · ponosna | 8 |
+| I’m bored. | Досадно ми је. · Dosadno mi je. | 8 |
+| It’ll be fine. | Биће добро. · Biće dobro. | 8 |

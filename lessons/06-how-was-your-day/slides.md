@@ -55,6 +55,8 @@ Where was she? Who did she see? Why was an ordinary day good? What matches your 
 ---
 # Read again in Cyrillic
 > Ујутру је Амаја учила код куће. Марко је радио. После тога је Амаја ишла у продавницу. Видела је пријатељицу и кратко су разговарале. Увече је јела са Марком, а онда је свирала бас.
+
+<div class="latin-help"><b>Latin help:</b> Ујутру = Ujutru · продавницу = prodavnicu · пријатељицу = prijateljicu · разговарале = razgovarale · Увече = Uveče</div>
 ---
 # Retell
 учила код куће → Марко је радио → продавница → пријатељица → бас

@@ -11,6 +11,8 @@ For new expressions, use:
 
 In Lessons 1–2, Latin may appear first. Lessons 3–4 remain Latin-led with guided Cyrillic (roughly 75/25); Lessons 5–6 move toward equal exposure. From Lesson 7, Cyrillic leads familiar material while Latin supports new or difficult language.
 
+From Lesson 6 onward, every Cyrillic reading slide ends with a small “Latin help” footer listing long or new words in Latin (for example `пријатељицу = prijateljicu`), and the handout repeats them on a “Long words in Latin” line under the reading. The learner reads in Cyrillic first and uses the footer for words that would otherwise turn reading into letter-by-letter decoding.
+
 ## Conventions
 
 - Prefer short, natural Serbian over word-for-word English translations.

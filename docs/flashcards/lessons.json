@@ -39,12 +39,30 @@
         "number":  "07",
         "title":  "Likes Interests And Pets",
         "source":  "lessons/07-likes-interests-and-pets/flashcards.html",
-        "version":  "051e935394f8"
+        "version":  "4554da91ec00"
     },
     {
         "number":  "08",
         "title":  "Feelings",
         "source":  "lessons/08-feelings/flashcards.html",
-        "version":  "ba9593f4b46a"
+        "version":  "388c1f94c7a4"
+    },
+    {
+        "number":  "09",
+        "title":  "Numbers",
+        "source":  "lessons/09-numbers/flashcards.html",
+        "version":  "5a5c3738cca7"
+    },
+    {
+        "number":  "10",
+        "title":  "Days Dates And Plans",
+        "source":  "lessons/10-days-dates-and-plans/flashcards.html",
+        "version":  "cc7f1c2173c6"
+    },
+    {
+        "number":  "11",
+        "title":  "Colors",
+        "source":  "lessons/11-colors/flashcards.html",
+        "version":  "d0be3a0ef222"
     }
 ]

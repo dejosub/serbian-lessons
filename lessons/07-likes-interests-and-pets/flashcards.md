@@ -14,3 +14,10 @@
 | music | музика · muzika | 7 |
 | to walk the dog | шетати пса · šetati psa | 7 |
 | together | заједно · zajedno | 7 |
+| Do you like ...? | Да ли волиш ...? · Da li voliš ...? | 7 |
+| I adore | обожавам · obožavam | 7 |
+| I prefer ... to ... | више волим ... него ... · više volim ... nego ... | 7 |
+| I don’t like it at all | уопште не волим · uopšte ne volim | 7 |
+| What else? | А шта још? · A šta još? | 7 |
+| What do you like to cook? (polite) | Шта волите да кувате? · Šta volite da kuvate? | 7 |
+| newspaper | новине · novine | 7 |

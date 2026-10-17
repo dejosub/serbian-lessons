@@ -114,7 +114,19 @@ Ask at least three questions before you talk about yourself.
 <div class="latin-help"><b>Latin help:</b> Šta volite da kuvate? (to Baka) · Zašto? (Why?) · Kako se zove? (What’s its name?) · Da li je miran? (Is it calm?) · Šta voli? (What does it like?)</div>
 ---
 # Open conversation
-Two topics, one unexpected follow-up, one reason.
+
+Pick two topics: **музика · храна · љубимци · породица**
+
+1. The teacher asks **Шта волиш?** Answer with a reason: **... зато што ...**
+2. The teacher asks one surprising question. Answer, then ask back: **А ти?**
+3. Switch topics. Now **you** ask first.
+
+Keep it going with **Зашто?** and **А шта још?** About two minutes per topic.
+
+<div class="latin-help"><b>Latin help:</b> muzika · hrana (food) · ljubimci (pets) · porodica · Šta voliš? · zato što · A ti? (And you?) · Zašto? · A šta još?</div>
 ---
-# Exit
-Ask, answer, and explain one true preference.
+# Exit — without notes
+
+1. Ask the teacher one question about what he likes.
+2. Answer his question: **Шта волиш?**
+3. Give one reason: **... зато што ...**

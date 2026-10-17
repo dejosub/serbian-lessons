@@ -15,7 +15,7 @@ Amaya can sustain a four-minute conversation about preferences across two topics
 7. **Comprehension, reaction, and retelling — 7 min**
 8. **Scenarios — 9 min:** Choose two of the three and play the other role yourself. Every question she needs is on the slide; the only new step is the he/she/it form (`волиш → воли`, `зовеш се → зове се`), which she has already read in the text.
 9. **Food scale and `слика љубимца` — 4 min:** Amaya places four foods on the scale, compares two with `Више волим ... него ...`, and asks you `Шта више волиш, ... или ...?` Compare foods, not people. When a pet photo appears, compare `љубимац → љубимца` and name the genitive and disappearing `а` briefly.
-10. **Open conversation and exit — 4 min**
+10. **Open conversation and exit — 4 min:** Amaya picks two topics (music, food, pets, family). For the first, you ask `Шта волиш?`, wait for a reason, then ask one surprising follow-up and wait for `А ти?`. For the second topic she asks first. Exit: one question from her, one answer to `Шта волиш?`, one reason with `зато што`—no notes.
 
 Cyrillic leads familiar material; Latin supports new or difficult expressions. Correct meaning-bearing target forms and return quickly to conversation.
 

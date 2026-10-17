@@ -88,4 +88,14 @@ The teacher will push with an unexpected answer. Keep the conversation going wit
 
 ## Open conversation
 
-Choose two: music, bass, Serbian food, household activities, pets, family traditions, or places. Speak for two minutes, then switch topic after an unexpected follow-up.
+Pick two topics: music, food, pets, or family.
+
+1. The teacher asks `Шта волиш?` Answer with a reason: `... зато што ...`
+2. The teacher asks one surprising question. Answer it, then ask back: `А ти?`
+3. Switch topics. Now you ask first.
+
+Keep it going with `Зашто?` and `А шта још?`—about two minutes per topic.
+
+## Exit — without notes
+
+Ask the teacher one question about what he likes, answer `Шта волиш?`, and give one reason with `зато што`.

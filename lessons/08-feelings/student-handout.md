@@ -12,7 +12,7 @@
 
 Ask how someone’s day was, where they were, what they did, what they liked, and how they feel now.
 
-Before reading, listen and point: hard (`ч/џ`) or soft (`ћ/ђ`)? The teacher says `осећам`, `срећна`, `узбуђена`, `изненађена`, `учила`, and `џемпер`. Then you say three and the teacher points.
+Before reading, listen and point: hard (`ч/џ`) or soft (`ћ/ђ`)? The teacher says `осећам`, `срећна`, `узбуђена`, `изненађена`, `учила`, `мачка`, `џеп`, and `наранџа`, then the pairs `куче/куће`, `чути/ћути`, and `џак/ђак`. Then you say three and the teacher points.
 
 ## Dialogue
 

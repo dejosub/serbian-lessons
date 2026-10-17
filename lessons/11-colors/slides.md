@@ -62,9 +62,11 @@ In Serbian, **р** can carry a syllable by itself: **цр-вен**, **ср-пс�
 
 Hard **ч / џ** or soft **ћ / ђ**?
 
-наранџаст · рођендан · љубичаст · одећа · џемпер · Божић
+наранџаст · смеђ · љубичаст · одећа · џеп · чарапе · рођендан · Божић
 
-The teacher reads; you point. Then you read; the teacher points.
+The teacher reads; you point. Then you read; the teacher points. Finish fast: **Смеђе куче је испред беле куће.**
+
+<div class="latin-help"><b>Latin help:</b> smeđ (brown, like браон) · čarape (socks) · džep (pocket) · Smeđe kuče je ispred bele kuće. (The brown puppy is in front of the white house.)</div>
 
 ---
 

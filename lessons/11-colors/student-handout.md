@@ -47,7 +47,7 @@ Before a masculine noun you will often hear `-и`: `плави џемпер`, `�
 
 ## Sound check
 
-Hard `ч/џ` or soft `ћ/ђ`? `наранџаст · рођендан · љубичаст · одећа · џемпер · Божић`
+Hard `ч/џ` or soft `ћ/ђ`? `наранџаст · смеђ · љубичаст · одећа · џеп · чарапе · рођендан · Божић`. Then: `Смеђе куче је испред беле куће.` · *Smeđe kuče je ispred bele kuće.* — The brown puppy is in front of the white house. (`смеђ` is another word for brown; `чарапе` are socks.)
 
 ## Dialogue — What should I wear?
 

@@ -14,7 +14,7 @@ Without notes, Amaya can ask how someone feels (informally and politely), expres
 ## Sequence — 60 minutes
 
 1. **Cumulative conversation — 6 min:** Day, activities, preferences, and current feeling. Push with `А шта још?`
-2. **Sound check — 4 min:** With print hidden, Amaya sorts `осећам`, `срећна`, `узбуђена`, `изненађена`, `учила`, and `џемпер` into hard `ч/џ` or soft `ћ/ђ`. Then she says three and you point.
+2. **Sound check — 4 min:** With print hidden, Amaya sorts `осећам`, `срећна`, `узбуђена`, `изненађена`, `учила`, `мачка`, `џеп`, and `наранџа`, then the pairs `куче/куће`, `чути/ћути`, and `џак/ђак` into hard `ч/џ` or soft `ћ/ђ`. Then she says three and you point.
 3. **Dialogue listening — 4 min:** Identify two feelings, intensity, and reason.
 4. **Feelings set and more feelings — 8 min:** Use the ten feelings in real or hypothetical situations; do not require disclosure. Introduce `Како се осећате?` for Baka and Deda.
 5. **Intensity — 4 min:** Contrast `мало`, `прилично`, `веома`, and `баш` through true statements.
@@ -43,7 +43,7 @@ Offer fictional or low-stakes scenarios whenever the learner does not want to di
 
 Cyrillic leads familiar and instructional material. Focus pronunciation on expressive sentence rhythm and clear `ћ` in `осећам` and `срећна`; Latin remains available for new or difficult words, and long words in readings appear in Latin at the bottom of the slide.
 
-Include `ђ` in `узбуђена` and `изненађена` as the contrast and `ч/џ` in `учила` and `џемпер` as the hard family. Model natural words first; use letter labels only after the listening choice. Treat stress as auditory imitation rather than a four-accent terminology test.
+Include `ђ` in `узбуђена` and `изненађена` as the contrast and `ч/џ` in `учила`, `мачка`, `џеп`, and `наранџа` as the hard family. Model natural words first; use letter labels only after the listening choice. Treat stress as auditory imitation rather than a four-accent terminology test.
 
 ## Session note for Lesson 9
 

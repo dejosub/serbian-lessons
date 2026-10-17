@@ -34,7 +34,7 @@ Phone numbers are said in small groups: `064 123 45 67` → `нула шезде
 
 ## Hard ч, soft ћ
 
-`четири`, `четрнаест`, `четрдесет`, and `продавачица` have hard `ч`. `ћерка`, `хоћу`, `кућа`, and `срећна` have soft `ћ`. Say `четири ћерке`—one hard, one soft.
+`четири`, `четрнаест`, `четрдесет`, and `продавачица` have hard `ч`. `ћерка`, `хоћу`, `кућа`, and `срећна` have soft `ћ`. Say `четири ћерке`—one hard, one soft. Then all four sounds: `Ђак има четири наранџе у џепу.` · *Đak ima četiri narandže u džepu.* — The pupil has four oranges in his pocket.
 
 ## Age and family
 

@@ -19,5 +19,7 @@
 | I prefer ... to ... | више волим ... него ... · više volim ... nego ... | 7 |
 | I don’t like it at all | уопште не волим · uopšte ne volim | 7 |
 | What else? | А шта још? · A šta još? | 7 |
+| Why? | Зашто? · Zašto? | 7 |
+| What is his/her/its name? | Како се зове? · Kako se zove? | 7 |
 | What do you like to cook? (polite) | Шта волите да кувате? · Šta volite da kuvate? | 7 |
 | newspaper | новине · novine | 7 |

@@ -17,7 +17,7 @@ In a two-minute planning conversation, Amaya can ask about someone’s schedule,
 2. **The week — 5 min:** Say the days with a calendar in front of you; ask `Који је данас дан?` and `Шта радиш у ...?`
 3. **On Saturday — 4 min:** `у суботу / у среду / у недељу`; point out the `-а → -у` change once.
 4. **Yesterday, today, tomorrow — 4 min:** True sentences with `јуче`, `сутра`, `поподне`, `увече`, `следеће недеље`.
-5. **Sound sort — 3 min:** `четвртак, ручак, Божић, рођендан, хоћеш, џез концерт`; Amaya points, then reads and you point.
+5. **Sound sort — 3 min:** `четвртак, ручак, Божић, рођендан, хоћеш, Ђурђевдан, џепни календар`, then `куче/куће` and `џак/ђак`; Amaya points, then reads and you point.
 6. **Dialogue and plan phrases — 7 min:** Listen with print hidden; then role-switch and change the event, day, and time.
 7. **Months and birthdays — 4 min:** `Када ти је рођендан? — У ...` for everyone in the family.
 8. **Reading Baka’s message — 6 min:** Latin help covers the long words. Read once for the event, once for the options.

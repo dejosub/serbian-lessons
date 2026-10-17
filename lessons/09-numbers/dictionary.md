@@ -141,6 +141,8 @@ Contains all taught vocabulary from Lessons 1–9. Use the “First” column to
 | više volim ... nego ... | више волим ... него ... | I prefer ... to ... | 7 |
 | uopšte ne volim | уопште не волим | I don’t like (it) at all | 7 |
 | A šta još? | А шта још? | What else? | 7 |
+| Zašto? | Зашто? | Why? | 7 |
+| Kako se zove? / Šta voli? | Како се зове? / Шта воли? | What is his/her/its name? / What does he/she/it like? | 7 |
 | kuvati / Šta volite da kuvate? | кувати / Шта волите да кувате? | to cook / What do you like to cook? polite | 7 |
 | novine | новине | newspaper | 7 |
 | Kako se osećaš? | Како се осећаш? | How do you feel? | 8 |

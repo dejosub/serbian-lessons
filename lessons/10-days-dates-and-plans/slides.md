@@ -56,11 +56,13 @@ Ask how much something costs where your partner lives, how old someone in their 
 
 The teacher reads; you point to **ч · ћ · џ · ђ**:
 
-четвртак · ручак · Божић · рођендан · хоћеш · џез концерт
+четвртак · ручак · Божић · рођендан · хоћеш · Ђурђевдан · џепни календар
+
+Pairs: **куче – куће** · **џак – ђак**
 
 Then you read them; the teacher points.
 
-<div class="latin-help"><b>Latin help:</b> četvrtak · ručak (lunch) · Božić (Christmas) · rođendan (birthday) · hoćeš · džez koncert</div>
+<div class="latin-help"><b>Latin help:</b> četvrtak · ručak (lunch) · Božić (Christmas) · rođendan (birthday) · hoćeš · Đurđevdan (St George’s Day, 6 May) · džepni kalendar (pocket calendar) · kuče – kuće · džak – đak</div>
 
 ---
 

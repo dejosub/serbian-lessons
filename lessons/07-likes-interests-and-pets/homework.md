@@ -1,10 +1,10 @@
 # Lesson 7 homework — Домаћи задатак
 
-Choose three activities: reread and retell the family text; make a five-person preference map; record a 90-second voice note about music, food, or pets; practice the sound families; or have the conversation below with Marko.
+Choose three activities: reread and retell the family text; put five foods on the preference scale and compare two with `Више волим ... него ...`; record a 90-second voice note about music, food, or pets; practice the sound families; or have the conversation below with Marko.
 
 **Conversation with Marko:** Ask `Šta voliš da radiš?`, `Koja ti je omiljena muzika / hrana?`, and `Da li voliš pse ili mačke?` Follow one answer with `Zašto?` and another with `A šta još?`. React naturally with `I ja`, `Ne volim ...`, `Obožavam ...`, or `Više volim ... nego ...`. Then report one answer: `Marko voli ... zato što ...`.
 
-**Sound families:** Ask Marko to say `мачка, кућа, џез, свиђа, чар, ћар, џак, ђак` in random order without showing you. Point to hard (`ч/џ`) or soft (`ћ/ђ`). Then you say four words and Marko points. Note which ones he heard differently from what you intended.
+**Sound families:** Ask Marko to say `мачка, кућа, џеп, свиђа, чар, ћар, џак, ђак, куче, куће, чути, ћути` in random order without showing you. Point to hard (`ч/џ`) or soft (`ћ/ђ`). Then you say four words and Marko points. Note which ones he heard differently from what you intended. Finish with `Куче је испред куће` and `Ђак има наранџу у џепу`.
 
 **Optional photo phrase:** Choose a pet photo and say `Ово је слика љубимца.` Compare the spoken forms `љубимац` and `љубимца`, listening for the missing `а`.
 

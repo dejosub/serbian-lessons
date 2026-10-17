@@ -46,7 +46,7 @@ Optional enrichment: exact dates use ordinal numbers—`петнаестог а�
 
 ## Sound sort
 
-Hard `ч/џ` or soft `ћ/ђ`? `четвртак · ручак · Божић · рођендан · хоћеш · џез концерт`. The teacher reads first; then you read and the teacher points.
+Hard `ч/џ` or soft `ћ/ђ`? `четвртак · ручак · Божић · рођендан · хоћеш · Ђурђевдан · џепни календар`, then the pairs `куче/куће` and `џак/ђак`. (`Ђурђевдан` is St George’s Day, 6 May; `џепни календар` is a pocket calendar.) The teacher reads first; then you read and the teacher points.
 
 ## Dialogue — Friday night
 

@@ -57,6 +57,10 @@ Phone numbers in Serbia are said in small groups: **064 · 123 · 45 · 67**
 
 The teacher mixes them; point first. Then say **четири ћерке**—one hard, one soft.
 
+All four: **Ђак има четири наранџе у џепу.**
+
+<div class="latin-help"><b>Latin help:</b> Đak ima četiri narandže u džepu. (The pupil has four oranges in his pocket.)</div>
+
 ---
 
 # How old? How many?

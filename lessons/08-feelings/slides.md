@@ -19,7 +19,9 @@ Ask how your partner’s day was, what they did, and what they like doing in the
 
 Hard **ч / џ** or soft **ћ / ђ**?
 
-Teacher says: **осећам** · **срећна** · **узбуђена** · **изненађена** · **учила** · **џемпер**
+Teacher says: **осећам** · **срећна** · **узбуђена** · **изненађена** · **учила** · **мачка** · **џеп** · **наранџа**
+
+One sound changes the word: **куче – куће** · **чути – ћути** · **џак – ђак**
 
 Point first; read and echo second. Then you say three; the teacher points.
 

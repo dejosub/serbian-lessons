@@ -17,7 +17,7 @@ Amaya can describe the colors of clothes, food, and places with correct masculin
 1. **Cumulative conversation — 6 min:** Weekend plans, times, and prices; push with `А шта још?`
 2. **Color hook — 5 min:** Touch objects and ask `Које је боје?`; Amaya repeats, then asks you.
 3. **Colors and three endings — 7 min:** Go through the swatches; then sort real objects into `-`, `-а`, `-о`. Mention `плави џемпер` once; do not drill definite forms.
-4. **Vowel-less `р` and sound check — 5 min:** `црн, црвен, Србија, српски, четрдесет`; then `наранџаст, рођендан, љубичаст, одећа, џемпер, Божић` for hard/soft.
+4. **Vowel-less `р` and sound check — 5 min:** `црн, црвен, Србија, српски, четрдесет`; then `наранџаст, смеђ, љубичаст, одећа, џеп, чарапе, рођендан, Божић` for hard/soft, ending with `Смеђе куче је испред беле куће`.
 5. **Dialogue and role switch — 5 min:** Listen with print hidden: what is she wearing in the end? Switch roles and choose different clothes.
 6. **Clothes and wearing — 5 min:** `Шта носиш данас? — Носим ...` about both of you; notice `плаву јакну`.
 7. **Reading in Cyrillic — 6 min:** Latin help covers the long words. Read once for the place and season, once for the colors.

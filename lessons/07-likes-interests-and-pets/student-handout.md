@@ -24,9 +24,23 @@
 
 `ч` and `џ` are partners; `ћ` and `ђ` are partners. Once you can hear hard vs. soft, you only need to add voicing.
 
-1. **Listen and point** with the words covered: `мачка · кућа · чита · хоћу · џез · свиђа · џемпер · госпођа`.
-2. **One sound changes the word** (listening only, not vocabulary): `чар` charm – `ћар` profit · `џак` sack – `ђак` pupil.
+1. **Listen and point** with the words covered: `мачка · кућа · чита · хоћу · џеп · свиђа · наранџа · госпођа`.
+2. **One sound changes the word** (listening only, not vocabulary): `чар` charm – `ћар` profit · `џак` sack – `ђак` pupil · `куче` puppy – `куће` houses · `чути` to hear – `ћути` be quiet.
 3. **Switch roles:** you say four words; the teacher points to the letter he hears.
+
+### More words to sort
+
+| ч | ћ | џ | ђ |
+|---|---|---|---|
+| чај | кућа | џеп | Ђорђе |
+| мачка | ћерка | наранџа | рођак |
+| ручак | хоћу | џезва | госпођа |
+| чаша | ноћ | патлиџан | леђа |
+| учим | ћевап | оџак | свиђа |
+
+Say it fast: `Куче је испред куће.` · `Ђак има наранџу у џепу.` · `Бака кува кафу у џезви.`
+
+New words here are for listening, not to memorize: `џеп · džep` pocket · `наранџа · narandža` orange · `џезва · džezva` Turkish-coffee pot · `патлиџан · patlidžan` eggplant · `оџак · odžak` chimney · `рођак · rođak` cousin · `леђа · leđa` back · `испред · ispred` in front of.
 
 ## Core language
 
@@ -54,9 +68,9 @@ Long words in Latin: Марковој = *Markovoj* · породици = *porodi
 
 Who likes what? Which preferences seem connected? What does your family enjoy together? Is a shared activity more important than sharing the same taste?
 
-## Preference map
+## Food scale
 
-Choose four real people or pets. Say one preference for each, then ask your partner to challenge or extend one claim. Use a reason where possible.
+Put four foods on the scale `обожавам → волим → не волим → уопште не волим`: `сарма · пасуљ · ћевапи · пита · салата · сир · чај · кафа`. Compare two—`Више волим сарму него пасуљ.`—then ask your partner `А ти? Шта више волиш, чај или кафу?` · *A ti? Šta više voliš, čaj ili kafu?* Give a reason with `зато што`.
 
 If you use a photo, say `слика љубимца · slika ljubimca`—“a picture of a pet.” Compare `љубимац → љубимца`. This is a useful first genitive pattern; the `а` disappears before the ending. Learn the phrase and the change, not a complete case table.
 
@@ -64,9 +78,11 @@ If you use a photo, say `слика љубимца · slika ljubimca`—“a pic
 
 Choose two. Ask at least three questions before you talk about yourself.
 
-1. **At Baka’s table:** Baka offers food. Say what you adore and what you prefer, then ask `Шта волите да кувате?`
-2. **Meeting Marko’s friend:** Find out three things they like. Use `Да ли волиш ...?`, `Зашто?`, and `А шта још?`
-3. **A friend’s new dog:** Ask `Како се зове?`, `Да ли је миран?`, and `Шта воли да ради?`
+1. **At Baka’s table:** Baka offers food. Say what you adore and what you prefer, then ask `Шта волите да кувате?` and `А шта још?`
+2. **Meeting Marko’s friend:** Find out three things they like: `Шта волиш да радиш?`, `Да ли волиш ...?`, `Зашто?`
+3. **A friend’s new dog:** Ask `Како се зове?` (What’s its name?), `Да ли је миран?` (Is it calm?), and `Шта воли?` (What does it like?)
+
+When you ask about him, her, or it, drop the `-ш`: `волиш → воли`, `зовеш се → зове се`. You have seen this in the reading: `Бака обожава`, `Марко воли`.
 
 The teacher will push with an unexpected answer. Keep the conversation going with another question.
 

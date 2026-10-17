@@ -17,7 +17,7 @@ In a market role-play, Amaya can ask at least three prices, buy two items in spe
 2. **Numbers 0–10 — 5 min:** Count up, down, and by twos. Point at fingers or objects at random; speed matters more than spelling.
 3. **11–100 patterns — 6 min:** Show `-наест` and `-десет`, then play number ping-pong: you say a number, Amaya says the next one; switch to tens. Add `сто`, `двеста`, `триста`, `хиљада`.
 4. **Listening — 5 min:** Dictate your hidden prices and phone numbers; Amaya writes digits only. Then she dictates three to you. Read phone numbers in groups.
-5. **Hard ч, soft ћ — 3 min:** Mix `четири, четрнаест, четрдесет, продавачица` with `ћерка, хоћу, кућа, срећна`; Amaya points. Finish with `четири ћерке`.
+5. **Hard ч, soft ћ — 3 min:** Mix `четири, четрнаест, четрдесет, продавачица` with `ћерка, хоћу, кућа, срећна`; Amaya points. Finish with `четири ћерке`, then `Ђак има четири наранџе у џепу` for all four sounds.
 6. **Age and family numbers — 5 min:** Ask and answer `Колико имаш година?` and `Колико имаш браће и сестара?` about real people. Use `Ви` once.
 7. **Dialogue at the market — 5 min:** Listen with print hidden for the price and items; switch roles.
 8. **Numbers change the noun — 2 min:** Point out `два динара / две јабуке / пет јабука`. Name it as a pattern, not a rule to drill.

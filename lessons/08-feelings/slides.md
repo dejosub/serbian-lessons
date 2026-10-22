@@ -123,15 +123,17 @@ Read once for the emotional change. Check Latin only after a full attempt.
 
 ---
 
-# After something
+# Before and after
 
-**после** · *posle* — after
+| **пре** · *pre* — before | **после** · *posle* — after |
+|---|---|
+| пре посла · *pre posla* | после посла · *posle posla* — work |
+| пре ручка · *pre ručka* | после ручка · *posle ručka* — lunch |
+| пре учења · *pre učenja* | после учења · *posle učenja* — studying |
 
-Марко: **после посла** · *posle posla* — after work<br>
-Амаја: **после учења** · *posle učenja* — after studying<br>
-обоје: **после музике** · *posle muzike* — after music
+**након** · *nakon* — also “after”, a little more formal: **након музике**
 
-Learn these as whole chunks.
+Ask: **Шта радиш пре посла? А после?** · *Šta radiš pre posla? A posle?*
 
 ---
 

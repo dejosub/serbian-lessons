@@ -22,3 +22,5 @@
 | proud | поносна · ponosna | 8 |
 | I’m bored. | Досадно ми је. · Dosadno mi je. | 8 |
 | It’ll be fine. | Биће добро. · Biće dobro. | 8 |
+| before work | пре посла · pre posla | 8 |
+| after lunch | после ручка · posle ručka | 8 |

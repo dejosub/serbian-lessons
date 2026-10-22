@@ -70,7 +70,7 @@ Long words in Latin: Ипак = *Ipak* (still) · опушта = *opušta* · С
 
 *Danas je Amaya malo umorna. Mnogo je učila. Marko je radio. Ipak, srećna je jer uveče svira bas sa Markom. Muzika je opušta. Posle muzike oseća se mirno. Sutra idu kod bake i dede. Amaya je malo nervozna, ali je i ponosna: sada može da priča sa njima na srpskom.*
 
-Notice a practical genitive frame tied to the characters: Marko says `после посла · posle posla`; Amaya says `после учења · posle učenja`; both can say `после музике · posle muzike`. Learn these as complete time phrases.
+Before and after: `пре · pre` (before) and `после · posle` (after) take the same ending—`пре посла / после посла` (before / after work), `пре ручка / после ручка` (before / after lunch), `пре учења / после учења` (before / after studying). `након · nakon` also means after, a little more formally: `након музике`. Learn these as complete time phrases and ask `Шта радиш пре посла? А после?`
 
 ### Discuss
 

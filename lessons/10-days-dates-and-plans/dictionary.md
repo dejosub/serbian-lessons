@@ -160,6 +160,8 @@ Contains all taught vocabulary from Lessons 1–10. Use the “First” column t
 | Razumem. | Разумем. | I understand. | 8 |
 | Hoćeš li da pričamo? | Хоћеш ли да причамо? | Do you want to talk? | 8 |
 | posle posla / učenja / muzike | после посла / учења / музике | after work / studying / music; genitive | 8 |
+| pre / nakon | пре / након | before / after (more formal); + genitive | 8 |
+| pre ručka / posle ručka | пре ручка / после ручка | before / after lunch | 8 |
 | Kako se osećate? | Како се осећате? | How do you feel? polite / plural | 8 |
 | Šta se desilo? | Шта се десило? | What happened? | 8 |
 | nervozna / nervozan | нервозна / нервозан | nervous; female / male | 8 |

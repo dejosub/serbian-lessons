@@ -23,7 +23,7 @@ Lesson 7 ran long because of the sound work; plan 15 slides and keep the sound c
 7. **How strong? Why? — 4 min:** `мало`, `прилично`, `баш` through true statements; answer `Зашто?` once with `јер`.
 8. **Respond with care — 4 min:** `Шта се десило?` first, then `Жао ми је`, `Биће добро`, or `Баш ми је драго`.
 9. **Reading in Cyrillic — 6 min:** Read for Amaya’s emotional change; the Latin help covers the longer words.
-10. **After something — 2 min:** `после посла / после учења / после музике` as chunks. Name the genitive only if she asks.
+10. **Before and after — 3 min:** `пре / после посла`, `пре / после ручка`, `пре / после учења` as chunks; `након` as a more formal “after”. She asks you `Шта радиш пре посла? А после?` Name the genitive only if she asks.
 11. **Discussion — 4 min:** React to the reading; finish with what changes her mood.
 12. **Scenarios — 9 min:** Two scenarios with push moves.
 13. **Feeling interview — 5 min:** This morning, today, now; she asks you too.

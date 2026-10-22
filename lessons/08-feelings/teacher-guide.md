@@ -17,9 +17,9 @@ Lesson 7 ran long because of the sound work; plan 15 slides and keep the sound c
 1. **From Lesson 7: food scale — 4 min:** Amaya places four foods, compares two with `Више волим ... него ...`, and asks you `Шта више волиш, ... или ...?` Compare foods, not people.
 2. **From Lesson 7: at Baka’s table — 5 min:** Play Baka. Offer food twice; wait for three questions (`Шта волите да кувате?`, `Зашто?`, `А шта још?`).
 3. **Listen and point — 2 min:** Single words only, print hidden first. No sentences or tongue twisters.
-4. **Dialogue listening — 4 min:** Print hidden first. Identify two feelings and the reason.
-5. **Ask and answer — 3 min:** `Како се осећаш?` / `Како се осећате?` for Baka and Deda.
-6. **Feelings — 6 min:** Use the ten feelings in real or hypothetical situations; do not require disclosure.
+4. **Feelings — 6 min:** Teach the words first, with the Latin beside them. Use them in real or hypothetical situations; do not require disclosure.
+5. **Dialogue listening — 4 min:** Print hidden first. Identify two feelings and the reason.
+6. **Ask and answer — 3 min:** `Како се осећаш?` / `Како се осећате?` for Baka and Deda. She answers with a word from the feelings slide.
 7. **How strong? Why? — 4 min:** `мало`, `прилично`, `баш` through true statements; answer `Зашто?` once with `јер`.
 8. **Respond with care — 4 min:** `Шта се десило?` first, then `Жао ми је`, `Биће добро`, or `Баш ми је драго`.
 9. **Reading in Cyrillic — 6 min:** Read for Amaya’s emotional change; the Latin help covers the longer words.

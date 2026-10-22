@@ -46,6 +46,20 @@ Then you say three; the teacher points.
 
 ---
 
+# Feelings
+
+| Amaya says | |
+|---|---|
+| срећна · *srećna* — happy | нервозна · *nervozna* — nervous |
+| тужна · *tužna* — sad | изненађена · *iznenađena* — surprised |
+| узбуђена · *uzbuđena* — excited | поносна · *ponosna* — proud |
+| забринута · *zabrinuta* — worried | љута · *ljuta* — angry |
+| мирна · *mirna* — calm | **Досадно ми је.** · *Dosadno mi je.* — I’m bored. |
+
+You already know **уморна** · *umorna* — tired. Marko drops the **-а**: **срећан · уморан · поносан**. **Досадно ми је** is the same for everyone.
+
+---
+
 # Listen first
 
 **Амаја:** Како се осећаш данас?<br>
@@ -70,19 +84,7 @@ What two feelings does Marko name? Why is he happy?
 **Добро сам.** · *Dobro sam.* — I’m fine.<br>
 **Нисам баш добро.** · *Nisam baš dobro.* — I’m not so good.
 
----
-
-# Feelings
-
-| Amaya says | |
-|---|---|
-| срећна · *srećna* — happy | нервозна · *nervozna* — nervous |
-| тужна · *tužna* — sad | изненађена · *iznenađena* — surprised |
-| узбуђена · *uzbuđena* — excited | поносна · *ponosna* — proud |
-| забринута · *zabrinuta* — worried | љута · *ljuta* — angry |
-| мирна · *mirna* — calm | **Досадно ми је.** · *Dosadno mi je.* — I’m bored. |
-
-Marko drops the **-а**: **срећан · нервозан · поносан**. **Досадно ми је** is the same for everyone.
+Answer with a word from the table: **Срећна сам.** · **Мало сам уморна.** · **Нервозна сам.**
 
 ---
 

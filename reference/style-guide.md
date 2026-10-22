@@ -13,6 +13,8 @@ In Lessons 1–2, Latin may appear first. Lessons 3–4 remain Latin-led with gu
 
 From Lesson 6 onward, every Cyrillic reading slide ends with a small “Latin help” footer listing long or new words in Latin (for example `пријатељицу = prijateljicu`), and the handout repeats them on a “Long words in Latin” line under the reading. The learner reads in Cyrillic first and uses the footer for words that would otherwise turn reading into letter-by-letter decoding.
 
+On vocabulary and phrase slides, put the Latin directly beside each new Cyrillic word or phrase: `**среда** · *sreda* — Wednesday`. Do not leave new words in Cyrillic only. Avoid tongue twisters and fast sound sentences; practice hard/soft sounds with single words by ear.
+
 ## Conventions
 
 - Prefer short, natural Serbian over word-for-word English translations.

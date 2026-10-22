@@ -6,24 +6,25 @@ Without notes, Amaya can ask how someone feels (informally and politely), expres
 
 ## Before the lesson
 
-- Prepare three personally relevant moment prompts: this morning, during the day, now.
+- Lesson 7 ended after the reading (slide 12 of 19). Its food scale and Baka’s-table scenario open this lesson; the retell, `слика љубимца`, and open-conversation slides are dropped.
 - Ask Marko or another Serbian speaker to verify the family’s preferred natural responses.
-- Read the Lesson 7 session note and select two preference phrases to recycle.
 - Prepare one surprise for each scenario (see push moves).
 
 ## Sequence — 60 minutes
 
-1. **Cumulative conversation — 6 min:** Day, activities, preferences, and current feeling. Push with `А шта још?`
-2. **Sound check — 4 min:** With print hidden, Amaya sorts `осећам`, `срећна`, `узбуђена`, `изненађена`, `учила`, `мачка`, `џеп`, and `наранџа`, then the pairs `куче/куће`, `чути/ћути`, and `џак/ђак` into hard `ч/џ` or soft `ћ/ђ`. Then she says three and you point.
-3. **Dialogue listening — 4 min:** Identify two feelings, intensity, and reason.
-4. **Feelings set and more feelings — 8 min:** Use the ten feelings in real or hypothetical situations; do not require disclosure. Introduce `Како се осећате?` for Baka and Deda.
-5. **Intensity — 4 min:** Contrast `мало`, `прилично`, `веома`, and `баш` through true statements.
-6. **Reason pattern — 4 min:** Ask `Зашто?`; answer once with `јер`. Recycle known language after `јер`.
-7. **Empathetic responses — 5 min:** `Шта се десило?` first, then `Жао ми је`, `Биће добро`, or `Баш ми је драго`.
-8. **Cyrillic-led reading — 7 min:** Read for Amaya’s emotional change; Latin help at the bottom covers the longer words. Preserve the course facts—Amaya studies and Marko works—then notice `после учења / после посла / после музике` and name the genitive. Treat them as chunks.
-9. **Open discussion and retelling — 6 min:** React to the reading and discuss what changes mood and how it feels to visit family in another language.
-10. **Scenarios and feeling interview — 10 min:** Two scenarios with push moves; use the three-moment interview if time remains.
-11. **Exit conversation — 2 min:** Unscripted exchange meeting the target.
+This lesson is deliberately shorter (12 slides) after Lesson 7 ran long. If time is short, skip the third scenario in the handout, never the reading or discussion.
+
+1. **From Lesson 7: food scale — 4 min:** Amaya places four foods, compares two with `Више волим ... него ...`, and asks you `Шта више волиш, ... или ...?` Compare foods, not people.
+2. **From Lesson 7: at Baka’s table — 6 min:** Play Baka. Offer food twice; wait for three questions (`Шта волите да кувате?`, `Зашто?`, `А шта још?`).
+3. **Dialogue listening — 4 min:** Print hidden first. Identify two feelings and the reason.
+4. **Ask and answer — 3 min:** `Како се осећаш?` / `Како се осећате?` for Baka and Deda.
+5. **Feelings — 7 min:** Use the ten feelings in real or hypothetical situations; do not require disclosure.
+6. **How strong? Why? — 5 min:** `мало`, `прилично`, `баш` through true statements; answer `Зашто?` once with `јер`.
+7. **Respond with care — 5 min:** `Шта се десило?` first, then `Жао ми је`, `Биће добро`, or `Баш ми је драго`.
+8. **Reading in Cyrillic — 7 min:** Read for Amaya’s emotional change; the Latin help covers the longer words. `после музике` can be named as a chunk, nothing more.
+9. **Discussion — 5 min:** React to the reading; finish with what changes her mood.
+10. **Scenarios — 10 min:** Two scenarios with push moves.
+11. **Exit — 2 min:** Unscripted exchange meeting the target.
 
 ## Push moves
 
@@ -41,9 +42,9 @@ Offer fictional or low-stakes scenarios whenever the learner does not want to di
 
 ## Script and pronunciation
 
-Cyrillic leads familiar and instructional material. Focus pronunciation on expressive sentence rhythm and clear `ћ` in `осећам` and `срећна`; Latin remains available for new or difficult words, and long words in readings appear in Latin at the bottom of the slide.
+Cyrillic leads familiar and instructional material. Every new word on a slide has its Latin next to it; long words in the reading appear in Latin at the bottom of the slide.
 
-Include `ђ` in `узбуђена` and `изненађена` as the contrast and `ч/џ` in `учила`, `мачка`, `џеп`, and `наранџа` as the hard family. Model natural words first; use letter labels only after the listening choice. Treat stress as auditory imitation rather than a four-accent terminology test.
+There is no sound slide this time. If a minute is free, say four to six single words (`осећам`, `срећна`, `узбуђена`, `учила`, `мачка`, `џеп`) with print hidden and let her point to hard or soft. No tongue twisters or full sentences—Lesson 7 showed they are too much Cyrillic at this stage.
 
 ## Session note for Lesson 9
 

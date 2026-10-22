@@ -10,7 +10,7 @@ paginate: true
 
 ---
 
-# Cumulative conversation
+# Warm-up
 
 Ask how much something costs where your partner lives, how old someone in their family is, and how they feel today. Push once: **Зашто?**
 
@@ -18,51 +18,29 @@ Ask how much something costs where your partner lives, how old someone in their 
 
 # The week
 
-понедељак · уторак · среда · четвртак · петак · **субота · недеља**
+| Day | on ... |
+|---|---|
+| понедељак · *ponedeljak* — Monday | у понедељак |
+| уторак · *utorak* — Tuesday | у уторак |
+| среда · *sreda* — Wednesday | у среду |
+| четвртак · *četvrtak* — Thursday | у четвртак |
+| петак · *petak* — Friday | у петак |
+| **субота** · *subota* — Saturday | **у суботу** |
+| **недеља** · *nedelja* — Sunday; week | **у недељу** |
 
-**недеља** = Sunday *and* week · **викенд** = weekend
-
-**Који је данас дан?** — **Данас је ...**
-
-<div class="latin-help"><b>Latin help:</b> ponedeljak · utorak · sreda · četvrtak · petak · subota · nedelja · vikend · Koji je danas dan?</div>
+**Који је данас дан?** · *Koji je danas dan?* — **Данас је ...**
 
 ---
 
-# On Saturday
+# When?
 
-**у** + day: **у понедељак** · **у среду** · **у суботу** · **у недељу**
-
--а → -у: **субота → у суботу**. Days that end in a consonant stay the same.
+**јуче** · *juče* — yesterday · **данас** · *danas* — today · **сутра** · *sutra* — tomorrow<br>
+**ујутру** · *ujutru* — morning · **поподне** · *popodne* — afternoon · **увече** · *uveče* — evening<br>
+**викенд** · *vikend* — weekend
 
 > Шта радиш у суботу? — У суботу учим, а у недељу смо код баке и деде.
 
-<div class="latin-help"><b>Latin help:</b> u ponedeljak · u sredu · u subotu · u nedelju · Šta radiš u subotu?</div>
-
----
-
-# Yesterday, today, tomorrow
-
-**јуче · данас · сутра**<br>
-**ујутру · поподне · увече**<br>
-**следеће недеље** — next week
-
-> Сутра поподне радим. Јуче увече сам свирала бас.
-
-<div class="latin-help"><b>Latin help:</b> juče · danas · sutra · ujutru · popodne · uveče · sledeće nedelje</div>
-
----
-
-# Sound sort: the calendar
-
-The teacher reads; you point to **ч · ћ · џ · ђ**:
-
-четвртак · ручак · Божић · рођендан · хоћеш · Ђурђевдан · џепни календар
-
-Pairs: **куче – куће** · **џак – ђак**
-
-Then you read them; the teacher points.
-
-<div class="latin-help"><b>Latin help:</b> četvrtak · ručak (lunch) · Božić (Christmas) · rođendan (birthday) · hoćeš · Đurđevdan (St George’s Day, 6 May) · džepni kalendar (pocket calendar) · kuče – kuće · džak – đak</div>
+-а → -у after **у**: **субота → у суботу**. The other days stay the same.
 
 ---
 
@@ -70,7 +48,7 @@ Then you read them; the teacher points.
 
 **Марко:** Шта радиш у петак увече?<br>
 **Амаја:** Не знам још. Зашто?<br>
-**Марко:** У петак је џез концерт у парку. Хоћеш ли да идемо?<br>
+**Марко:** У петак је концерт у парку. Хоћеш ли да идемо?<br>
 **Амаја:** Може! У колико сати?<br>
 **Марко:** У осам.<br>
 **Амаја:** Важи. А у недељу је ручак код баке и деде.<br>
@@ -78,30 +56,33 @@ Then you read them; the teacher points.
 
 What is the plan? When? What else is happening this week?
 
+<div class="latin-help"><b>Latin help:</b> koncert u parku · Hoćeš li da idemo? (Do you want to go?) · Može! (Sure!) · U koliko sati? (At what time?) · Važi. (Deal.) · ručak (lunch)</div>
+
 ---
 
 # Make a plan
 
-**Хоћеш ли да идемо ...?** — Do you want to go ...?<br>
-**Можемо у суботу.** — We can on Saturday.<br>
-**У колико сати?** — At what time?<br>
-**Може! / Важи!** — Sure! / Deal!<br>
-**Не могу, жао ми је. Може ли у недељу?** — I can’t, sorry. How about Sunday?<br>
-**Не знам још. Јави ми!** — I don’t know yet. Let me know!
+**Хоћеш ли да идемо ...?** · *Hoćeš li da idemo ...?* — Do you want to go ...?<br>
+**Можемо у суботу.** · *Možemo u subotu.* — We can on Saturday.<br>
+**У колико сати?** · *U koliko sati?* — At what time?<br>
+**Може! / Важи!** · *Može! / Važi!* — Sure! / Deal!<br>
+**Не могу, жао ми је.** · *Ne mogu, žao mi je.* — I can’t, sorry.<br>
+**Може ли у недељу?** · *Može li u nedelju?* — How about Sunday?
 
 ---
 
-# Months
+# Months and birthdays
 
-јануар · фебруар · март · април · мај · јун<br>
-јул · август · септембар · октобар · новембар · децембар
+| 1–4 | 5–8 | 9–12 |
+|---|---|---|
+| јануар · *januar* | мај · *maj* | септембар · *septembar* |
+| фебруар · *februar* | јун · *jun* | октобар · *oktobar* |
+| март · *mart* | јул · *jul* | новембар · *novembar* |
+| април · *april* | август · *avgust* | децембар · *decembar* |
 
-**у** + month: **у августу** · **у децембру**
-
-**Када ти је рођендан?** — **У ...**<br>
-**Срећан рођендан!** — Happy birthday!
-
-<div class="latin-help"><b>Latin help:</b> u avgustu · u decembru · Kada ti je rođendan? · Srećan rođendan!</div>
+**у августу** · *u avgustu* — in August<br>
+**Када ти је рођендан?** · *Kada ti je rođendan?* — **У ...**<br>
+**Срећан рођендан!** · *Srećan rođendan!* — Happy birthday!
 
 ---
 
@@ -113,7 +94,7 @@ What is the plan? When? What else is happening this week?
 > Јави ми до петка.<br>
 > Воли вас бака
 
-<div class="latin-help"><b>Latin help:</b> Драга = Draga (dear) · правимо = pravimo (we’re making) · купује торту = kupuje tortu (buys a cake) · дођете / дођите = dođete / dođite (come) · Ако = Ako (if) · до петка = do petka (by Friday) · Воли вас = Voli vas (love you both)</div>
+<div class="latin-help"><b>Latin help:</b> Драга = Draga (dear) · правимо = pravimo (we’re making) · купује торту = kupuje tortu (buys a cake) · дођете / дођите = dođete / dođite (come) · Ако = Ako (if) · Јави ми = Javi mi (let me know) · до петка = do petka (by Friday) · Воли вас = Voli vas (love you both)</div>
 
 ---
 
@@ -123,29 +104,7 @@ What is the plan? When? What else is happening this week?
 - Када је ручак? Шта ако не могу у недељу?
 - Шта бака прави? А деда?
 - What would you bring to Baka’s birthday lunch?
-- How does your family celebrate birthdays?
-
----
-
-# Answer Baka
-
-Say—or write—a short reply:
-
-> Драга **бако**, срећан рођендан! Можемо у недељу. Долазимо у један. Шта да донесемо?
-
-When you speak *to* Baka, **бака → бако**. This form is only for calling or addressing someone.
-
-<div class="latin-help"><b>Latin help:</b> Draga bako · srećan rođendan · Možemo u nedelju · Dolazimo u jedan (we’re coming at one) · Šta da donesemo? (What should we bring?)</div>
-
----
-
-# Family holidays
-
-**Нова година** — 1 January, the big party<br>
-**Божић** — 7 January, Orthodox Christmas<br>
-**слава** — the family’s saint’s day, celebrated at home every year
-
-Ask Marko: **Када је ваша слава?** Which saint? What do you eat? Who comes?
+- Ask Marko: **Када је ваша слава?** · *Kada je vaša slava?*
 
 ---
 
@@ -161,22 +120,18 @@ Ask **Шта радиш у ...?** Say no at least once and suggest another day.
 
 # Scenario 2 — Call Baka
 
-Call to answer her message. Wish her a happy birthday, confirm the day and time, and ask what to bring.
+Answer her message. When you talk *to* Baka, **бака → бако**:
+
+> Драга **бако**, срећан рођендан! Можемо у недељу. Долазимо у један. Шта да донесемо?
 
 Use **ти** or **Ви**—whatever you use with her. Baka will change one detail. Ask until it is clear.
 
----
-
-# Scenario 3 — Birthday detective
-
-Find out the birthday month of three people. Then ask about one family holiday:
-
-**Када ти је рођендан?** · **Када је ваша слава?** · **Шта радите за Божић?**
-
-<div class="latin-help"><b>Latin help:</b> Kada je vaša slava? · Šta radite za Božić? (What do you do for Christmas?)</div>
+<div class="latin-help"><b>Latin help:</b> Draga bako · Dolazimo u jedan (we’re coming at one) · Šta da donesemo? (What should we bring?)</div>
 
 ---
 
-# Exit conversation
+# Exit — without notes
 
-Without notes: say what day it is, ask about someone’s weekend, propose a plan, decline one time, and agree on another.
+1. Say what day it is today.
+2. Ask about your partner’s weekend.
+3. Propose a plan, say no to one time, and agree on another.

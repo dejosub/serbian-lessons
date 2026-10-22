@@ -13,18 +13,18 @@ In a two-minute planning conversation, Amaya can ask about someone’s schedule,
 
 ## Sequence — 60 minutes
 
-1. **Cumulative conversation — 6 min:** Prices, ages, and feelings; push with `Зашто?`
-2. **The week — 5 min:** Say the days with a calendar in front of you; ask `Који је данас дан?` and `Шта радиш у ...?`
-3. **On Saturday — 4 min:** `у суботу / у среду / у недељу`; point out the `-а → -у` change once.
-4. **Yesterday, today, tomorrow — 4 min:** True sentences with `јуче`, `сутра`, `поподне`, `увече`, `следеће недеље`.
-5. **Sound sort — 3 min:** `четвртак, ручак, Божић, рођендан, хоћеш, Ђурђевдан, џепни календар`, then `куче/куће` and `џак/ђак`; Amaya points, then reads and you point.
-6. **Dialogue and plan phrases — 7 min:** Listen with print hidden; then role-switch and change the event, day, and time.
-7. **Months and birthdays — 4 min:** `Када ти је рођендан? — У ...` for everyone in the family.
-8. **Reading Baka’s message — 6 min:** Latin help covers the long words. Read once for the event, once for the options.
-9. **Discussion and reply — 6 min:** Answer Baka aloud; notice `бако` and `до петка` briefly.
-10. **Family holidays — 3 min:** Tell the real story of your slava in simple Serbian.
-11. **Scenarios — 10 min:** Find a time (busy-week cards) and Call Baka.
-12. **Exit — 2 min**
+This lesson is deliberately shorter (12 slides) after Lesson 7 ran long. Family holidays and the birthday-detective scenario stay in the handout for extra time or homework.
+
+1. **Warm-up — 4 min:** Prices, ages, and feelings; push with `Зашто?`
+2. **The week — 6 min:** Say the days with a calendar in front of you; ask `Који је данас дан?` and `Шта радиш у ...?` Point out `субота → у суботу` once.
+3. **When? — 5 min:** True sentences with `јуче`, `сутра`, `поподне`, `увече`, and `викенд`.
+4. **Dialogue — 5 min:** Listen with print hidden; then role-switch and change the event, day, and time.
+5. **Make a plan — 5 min:** Propose, accept, decline, counterpropose.
+6. **Months and birthdays — 5 min:** `Када ти је рођендан? — У ...` for everyone in the family.
+7. **Reading Baka’s message — 7 min:** Latin help covers the long words. Read once for the event, once for the options.
+8. **Discussion — 6 min:** End with `Када је ваша слава?`—tell the real story of your slava in simple Serbian.
+9. **Scenarios — 15 min:** Find a time (busy-week cards), then Call Baka with the `бако` reply.
+10. **Exit — 2 min**
 
 ## Push moves
 
@@ -38,7 +38,7 @@ In a two-minute planning conversation, Amaya can ask about someone’s schedule,
 
 ## Script and pronunciation
 
-Primarily Cyrillic, with Latin for days, months, and long words in the reading. Model question rhythm on `Када?`, `У колико сати?`, and `Хоћеш ли да идемо?`; let the voice rise on the important word. Keep the hard/soft check short—it is maintenance now.
+Primarily Cyrillic; every day, month, and plan phrase has its Latin next to it on the slide, and long words in the reading are in Latin at the bottom. Model question rhythm on `Када?`, `У колико сати?`, and `Хоћеш ли да идемо?`; let the voice rise on the important word. There is no sound slide and no tongue twister; if a minute is free, say `четвртак`, `ручак`, `Божић`, `рођендан` with print hidden and let her point to hard or soft.
 
 ## Session note for Lesson 11
 

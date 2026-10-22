@@ -8,7 +8,7 @@
 - buy something at a market by asking prices and quantities
 - ask someone to repeat when a number goes by too fast
 
-## Cumulative review
+## Warm-up
 
 Ask how your partner feels today and why, and what they like doing on the weekend. Push for one more detail with `А шта још?`
 
@@ -32,17 +32,13 @@ Two patterns do most of the work: `-наест` for 11–19 and `-десет` fo
 
 Phone numbers are said in small groups: `064 123 45 67` → `нула шездесет четири · сто двадесет три · четрдесет пет · шездесет седам`.
 
-## Hard ч, soft ћ
-
-`четири`, `четрнаест`, `четрдесет`, and `продавачица` have hard `ч`. `ћерка`, `хоћу`, `кућа`, and `срећна` have soft `ћ`. Say `четири ћерке`—one hard, one soft. Then all four sounds: `Ђак има четири наранџе у џепу.` · *Đak ima četiri narandže u džepu.* — The pupil has four oranges in his pocket.
-
 ## Age and family
 
 - `Колико имаш година? · Koliko imaš godina?` — How old are you?
-- `Колико имате година?` — polite
+- `Колико имате година? · Koliko imate godina?` — polite
 - `Имам тридесет година. · Imam trideset godina.` — I am thirty.
 - `Колико имаш браће и сестара? · Koliko imaš braće i sestara?` — How many brothers and sisters do you have?
-- `Имам једног брата и једну сестру.` — Lesson 3 chunks still work.
+- `Имам једног брата и једну сестру. · Imam jednog brata i jednu sestru.` — Lesson 3 chunks still work.
 
 ## Dialogue — At the market
 
@@ -112,9 +108,9 @@ Long words in Latin: пијацу = *pijacu* · купује = *kupuje* (buys) �
 4. What do people say when they hear you speak Serbian? What do you answer?
 5. Where do you buy food—at a market or a supermarket? Why?
 
-Retell the story with its numbers, then add one number the story does not mention.
-
 ## Scenarios
+
+In class: the market stall. Scenarios 2 and 3 are for extra time or for practice with Marko at home.
 
 1. **The market stall:** You have `1.000 динара` for Sunday lunch. Prices: јабуке 150 дин./кг · сир 900 дин./кг · хлеб 80 дин. · пита 250 дин. · кафа 400 дин. Ask at least three prices before you buy. The seller will push back.
 2. **A new friend:** At a concert you meet Marko’s friend. Find out their name, what they like, how many brothers and sisters they have, and their phone number. Read the number back in groups; use `Можете ли да поновите?` if needed.

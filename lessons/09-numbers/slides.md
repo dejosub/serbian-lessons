@@ -10,7 +10,7 @@ paginate: true
 
 ---
 
-# Cumulative conversation
+# Warm-up
 
 Ask how your partner feels today and why. Then ask what they like to do on the weekend—and push for one more detail: **А шта још?**
 
@@ -18,25 +18,25 @@ Ask how your partner feels today and why. Then ask what they like to do on the w
 
 # Count with me
 
-**0** нула · **1** један · **2** два · **3** три · **4** четири · **5** пет<br>
-**6** шест · **7** седам · **8** осам · **9** девет · **10** десет
+| 0–3 | 4–7 | 8–10 |
+|---|---|---|
+| **0** нула · *nula* | **4** четири · *četiri* | **8** осам · *osam* |
+| **1** један · *jedan* | **5** пет · *pet* | **9** девет · *devet* |
+| **2** два · *dva* | **6** шест · *šest* | **10** десет · *deset* |
+| **3** три · *tri* | **7** седам · *sedam* | |
 
 Count up, count down, then count by twos. The teacher points; you answer fast.
-
-<div class="latin-help"><b>Latin help:</b> nula · jedan · dva · tri · četiri · pet · šest · sedam · osam · devet · deset</div>
 
 ---
 
 # Two patterns do most of the work
 
-**-наест** = 11–19: једанаест · дванаест · петнаест · деветнаест<br>
-**-десет** = tens: двадесет · тридесет · четрдесет · педесет
+**-наест** *-naest* = 11–19: једанаест *jedanaest* · дванаест *dvanaest* · петнаест *petnaest*<br>
+**-десет** *-deset* = tens: двадесет *dvadeset* · тридесет *trideset* · четрдесет *četrdeset* · педесет *pedeset*
 
-**сто** = 100 · **двеста** = 200 · **триста** = 300 · **хиљада** = 1000
+**сто** *sto* = 100 · **двеста** *dvesta* = 200 · **триста** *trista* = 300 · **хиљада** *hiljada* = 1000
 
 > 25 = двадесет пет · 67 = шездесет седам · 150 = сто педесет
-
-<div class="latin-help"><b>Latin help:</b> jedanaest · dvanaest · petnaest · devetnaest · dvadeset · trideset · četrdeset · pedeset · sto · dvesta · trista · hiljada · šezdeset sedam</div>
 
 ---
 
@@ -50,28 +50,15 @@ Phone numbers in Serbia are said in small groups: **064 · 123 · 45 · 67**
 
 ---
 
-# Hard ч, soft ћ — numbers edition
-
-**ч:** четири · четрнаест · четрдесет · продавачица<br>
-**ћ:** ћерка · хоћу · кућа · срећна
-
-The teacher mixes them; point first. Then say **четири ћерке**—one hard, one soft.
-
-All four: **Ђак има четири наранџе у џепу.**
-
-<div class="latin-help"><b>Latin help:</b> Đak ima četiri narandže u džepu. (The pupil has four oranges in his pocket.)</div>
-
----
-
 # How old? How many?
 
-**Колико имаш година?** · *Koliko imaš godina?*<br>
-**Колико имате година?** — polite
+**Колико имаш година?** · *Koliko imaš godina?* — How old are you?<br>
+**Колико имате година?** · *Koliko imate godina?* — polite
 
 **Имам тридесет година.** · *Imam trideset godina.*
 
-**Колико имаш браће и сестара?**<br>
-*Koliko imaš braće i sestara?* — How many brothers and sisters do you have?
+**Колико имаш браће и сестара?** · *Koliko imaš braće i sestara?*<br>
+— How many brothers and sisters do you have?
 
 ---
 
@@ -86,30 +73,18 @@ All four: **Ђак има четири наранџе у џепу.**
 
 How much are the apples? What else does Amaya buy?
 
-<div class="latin-help"><b>Latin help:</b> Koliko koštaju jabuke? · Prodavačica (seller) · Dajte mi pola kila · Još nešto? · To je sve · Koliko je to?</div>
+<div class="latin-help"><b>Latin help:</b> Koliko koštaju jabuke? (How much are the apples?) · Prodavačica (seller) · Dajte mi pola kila (Give me half a kilo) · Još nešto? · To je sve · Koliko je to?</div>
 
 ---
 
 # Market phrases
 
-**Колико кошта?** — How much does it cost?<br>
-**Колико коштају?** — How much do they cost?<br>
-**Дајте ми ..., молим.** — Give me ..., please.<br>
-**Још нешто?** — Anything else?<br>
-**То је све.** — That’s all.<br>
-**скупо / јефтино** — expensive / cheap
-
----
-
-# Notice: numbers change the noun
-
-| 1 | 2, 3, 4 | 5 and up |
-|---|---|---|
-| један динар | два динара | пет динара |
-| једна јабука | две јабуке | пет јабука |
-| једна година | две године | тридесет година |
-
-Notice **два** динара but **две** јабуке. Don’t memorize a table—say real prices, and the endings will come.
+**Колико кошта?** · *Koliko košta?* — How much does it cost?<br>
+**Колико коштају?** · *Koliko koštaju?* — How much do they cost?<br>
+**Дајте ми ..., молим.** · *Dajte mi ..., molim.* — Give me ..., please.<br>
+**Још нешто?** · *Još nešto?* — Anything else?<br>
+**То је све.** · *To je sve.* — That’s all.<br>
+**скупо / јефтино** · *skupo / jeftino* — expensive / cheap
 
 ---
 
@@ -126,21 +101,13 @@ Notice **два** динара but **две** јабуке. Don’t memorize a t
 - Колико коштају јабуке? Is that cheap or expensive for you?
 - Why does the seller give Amaya another apple?
 - Како се осећа бака? А Амаја?
-- What do people say when they hear you speak Serbian? What do you answer?
+- What do people say when they hear you speak Serbian?
 
 **Хвала, још учим!** · *Hvala, još učim!* — Thanks, I’m still learning!
 
 ---
 
-# Retell with numbers
-
-пијаца → сир и хлеб → јабуке: 150 → два кила: 300 → још једна јабука → поносна бака
-
-Retell in Serbian. Add one number the story does not mention.
-
----
-
-# Scenario 1 — The market stall
+# Scenario — The market stall
 
 You have **1.000 динара** for Sunday lunch with Baka and Deda.
 
@@ -156,27 +123,8 @@ Ask at least three prices before you buy. The seller will push back—keep askin
 
 ---
 
-# Scenario 2 — A new friend
+# Exit — without notes
 
-**At a concert, you meet Marko’s friend.**
-
-Find out: name · what they like · brothers and sisters · phone number
-
-Read the phone number back in groups. If you are unsure: **Можете ли да поновите?** · *Možete li da ponovite?* — Can you repeat that?
-
----
-
-# Scenario 3 — Деда’s photo album
-
-Деда shows an old family photo. Use **Ви**.
-
-**Ко је ово?** · **Колико година има овде?** — How old is he/she here?<br>
-**Колико имате браће и сестара?**
-
-Ask three questions before you comment. React with feeling: **Баш лепо!**
-
----
-
-# Exit conversation
-
-Without notes: ask a price and buy two things, say your age or a family member’s age, and give a phone number in groups.
+1. Ask a price and buy two things.
+2. Say your age or a family member’s age.
+3. Give a phone number in groups.

@@ -6,13 +6,12 @@
 - name and strengthen or soften my own feelings
 - give one reason with `јер · jer`
 - ask what happened and respond naturally and with empathy
-- keep hard `ч/џ` and soft `ћ/ђ` apart in central feeling words
 
-## Cumulative review
+## From Lesson 7
 
-Ask how someone’s day was, where they were, what they did, what they liked, and how they feel now.
+**Food scale:** Put four foods on the scale `обожавам → волим → не волим → уопште не волим` · *obožavam → volim → ne volim → uopšte ne volim*. Compare two—`Више волим сарму него пасуљ.`—then ask `А ти? Шта више волиш, чај или кафу?` · *A ti? Šta više voliš, čaj ili kafu?*
 
-Before reading, listen and point: hard (`ч/џ`) or soft (`ћ/ђ`)? The teacher says `осећам`, `срећна`, `узбуђена`, `изненађена`, `учила`, `мачка`, `џеп`, and `наранџа`, then the pairs `куче/куће`, `чути/ћути`, and `џак/ђак`. Then you say three and the teacher points.
+**At Baka’s table:** Baka offers food. Say what you adore and what you prefer, then ask her at least three questions: `Шта волите да кувате?` · *Šta volite da kuvate?* · `Зашто?` · *Zašto?* · `А шта још?` · *A šta još?*
 
 ## Dialogue
 
@@ -52,12 +51,12 @@ Female-speaker forms end in `-a`: `срећна`, `нервозна`, `поно�
 
 ## Respond with care
 
-- `Шта се десило?` — What happened?
-- `Баш ми је драго.` — I’m really glad.
-- `Жао ми је.` — I’m sorry.
-- `Разумем.` — I understand.
-- `Биће добро.` — It’ll be fine.
-- `Хоћеш ли да причамо?` — Do you want to talk?
+- `Шта се десило?` · *Šta se desilo?* — What happened?
+- `Баш ми је драго.` · *Baš mi je drago.* — I’m really glad.
+- `Жао ми је.` · *Žao mi je.* — I’m sorry.
+- `Разумем.` · *Razumem.* — I understand.
+- `Биће добро.` · *Biće dobro.* — It’ll be fine.
+- `Хоћеш ли да причамо?` · *Hoćeš li da pričamo?* — Do you want to talk?
 
 ## Reading
 
@@ -67,18 +66,14 @@ Long words in Latin: Ипак = *Ipak* (still) · опушта = *opušta* · С
 
 *Danas je Amaya malo umorna. Mnogo je učila. Marko je radio. Ipak, srećna je jer uveče svira bas sa Markom. Muzika je opušta. Posle muzike oseća se mirno. Sutra idu kod bake i dede. Amaya je malo nervozna, ali je i ponosna: sada može da priča sa njima na srpskom.*
 
-Notice a practical genitive frame tied to the characters: Marko says `после посла · posle posla`; Amaya says `после учења · posle učenja`; both can say `после музике · posle muzike`. Learn these as complete time phrases. Keep `љубимац → љубимца` as the clearer disappearing-`а` example.
+Notice a practical genitive frame tied to the characters: Marko says `после посла · posle posla`; Amaya says `после учења · posle učenja`; both can say `после музике · posle muzike`. Learn these as complete time phrases.
 
-Discuss: How does her feeling change? What causes the change? Why is she nervous, and why is she proud? What changes your mood?
+Discuss: `Како се Амаја осећа на почетку? А на крају?` · *Kako se Amaja oseća na početku? A na kraju?* How does her feeling change? What causes the change? Why is she nervous, and why is she proud? What changes your mood?
 
 ## Scenarios — ask, then respond
 
-Choose two. Ask before you advise; respond before you share your own feeling.
+Ask before you advise; respond before you share your own feeling. If there is time, try the third one.
 
-1. **Marko comes home late from work.** Find out how he feels and `Шта се десило?` Respond, then offer something: `Хоћеш ли чај?`
+1. **Marko comes home late from work.** Find out how he feels and `Шта се десило?` Respond, then offer something: `Хоћеш ли чај?` · *Hoćeš li čaj?*
 2. **A phone call with Baka (Ви).** Ask `Како се осећате?` She is a little tired—find out why and respond with care.
 3. **Before a concert:** a friend is nervous and excited. Ask two questions and encourage them: `Биће добро!`
-
-## Conversation lab
-
-Ask about this morning, the middle of the day, and now. For each moment, give a feeling, an intensity, and a reason. Respond to your partner before asking the next question.

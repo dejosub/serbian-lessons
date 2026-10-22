@@ -6,7 +6,7 @@ Choose three activities, about ten minutes each.
 2. **Three-moment voice note:** Describe how you felt this morning, during the day, and now. Use two intensities and one `јер` reason.
 3. **Response practice:** Choose three fictional situations. Ask `Шта се десило?`, then respond with `Баш ми је драго`, `Жао ми је`, `Разумем`, `Биће добро`, or `Хоћеш ли да причамо?` Explain why the response fits.
 4. **Conversation with Marko:** Ask `Како се осећаш данас?` Follow with `Зашто?` and one question based on his answer. Respond before sharing your own feeling. Ask him which Serbian response sounds most natural in his family.
-5. **Listen and point:** Ask Marko to mix `осећам`, `срећна`, `узбуђена`, `изненађена`, `учила`, `мачка`, `џеп`, and `наранџа`, plus `куче/куће` and `чути/ћути` without showing them. Point to hard (`ч/џ`) or soft (`ћ/ђ`), then repeat the complete word naturally.
+5. **Listen and point:** Ask Marko to say `осећам`, `срећна`, `узбуђена`, `учила`, `мачка`, and `џеп` in a mixed order without showing them—single words only. Point to hard (`ч/џ`) or soft (`ћ/ђ`), then repeat the complete word naturally.
 
 ## Self-check
 

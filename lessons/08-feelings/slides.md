@@ -10,20 +10,28 @@ paginate: true
 
 ---
 
-# Cumulative conversation
+# From Lesson 7: food scale
 
-Ask how your partner’s day was, what they did, and what they like doing in the evening. React to one answer and ask **А шта још?**
+Put four foods on the scale: **обожавам → волим → не волим → уопште не волим**
+
+сарма · пасуљ · ћевапи · пита · салата · сир · чај · кафа
+
+Compare two: **Више волим сарму него пасуљ.**<br>
+Then ask: **А ти? Шта више волиш, чај или кафу?**
+
+<div class="latin-help"><b>Latin help:</b> obožavam → volim → ne volim → uopšte ne volim · Više volim sarmu nego pasulj. · A ti? Šta više voliš, čaj ili kafu? (And you? Which do you prefer, tea or coffee?)</div>
 
 ---
-# Listen before you look
 
-Hard **ч / џ** or soft **ћ / ђ**?
+# From Lesson 7: at Baka’s table
 
-Teacher says: **осећам** · **срећна** · **узбуђена** · **изненађена** · **учила** · **мачка** · **џеп** · **наранџа**
+Baka offers food. Say what you adore and what you prefer. Then ask her:
 
-One sound changes the word: **куче – куће** · **чути – ћути** · **џак – ђак**
+**Шта волите да кувате?** · *Šta volite da kuvate?* — What do you like to cook?<br>
+**Зашто?** · *Zašto?* — Why?<br>
+**А шта још?** · *A šta još?* — What else?
 
-Point first; read and echo second. Then you say three; the teacher points.
+Ask at least three questions before you talk about yourself.
 
 ---
 
@@ -37,81 +45,58 @@ Point first; read and echo second. Then you say three; the teacher points.
 
 What two feelings does Marko name? Why is he happy?
 
+<div class="latin-help"><b>Latin help:</b> Kako se osećaš? (How do you feel?) · umoran (tired) · srećan (happy) · jer (because) · večeras (tonight) · Baš mi je drago. (I’m really glad.)</div>
+
 ---
 
 # Ask and answer
 
-**Како се осећаш?**<br>
-*Kako se osećaš?* — How do you feel?
+**Како се осећаш?** · *Kako se osećaš?* — How do you feel?<br>
+**Како се осећате?** · *Kako se osećate?* — polite, for Baka or Deda
 
-**Како се осећате?** — polite, for Baka or Deda
+**Осећам се ...** · *Osećam se ...* — I feel ...
 
-**Осећам се ...**<br>
-*Osećam se ...* — I feel ...
-
-**Добро сам / Нисам баш добро.**<br>
-*Dobro sam / Nisam baš dobro.*
+**Добро сам.** · *Dobro sam.* — I’m fine.<br>
+**Нисам баш добро.** · *Nisam baš dobro.* — I’m not so good.
 
 ---
 
-# A useful feelings set
+# Feelings
 
-срећна · *srećna* — happy<br>
-тужна · *tužna* — sad<br>
-узбуђена · *uzbuđena* — excited<br>
-забринута · *zabrinuta* — worried<br>
-љута · *ljuta* — angry<br>
-мирна · *mirna* — calm
+| Amaya says | |
+|---|---|
+| срећна · *srećna* — happy | нервозна · *nervozna* — nervous |
+| тужна · *tužna* — sad | изненађена · *iznenađena* — surprised |
+| узбуђена · *uzbuđena* — excited | поносна · *ponosna* — proud |
+| забринута · *zabrinuta* — worried | љута · *ljuta* — angry |
+| мирна · *mirna* — calm | **Досадно ми је.** · *Dosadno mi je.* — I’m bored. |
 
-Female-speaker forms are shown. Listen for the final **-a**.
-
----
-
-# More feelings
-
-нервозна · *nervozna* — nervous<br>
-изненађена · *iznenađena* — surprised<br>
-поносна · *ponosna* — proud<br>
-**Досадно ми је.** · *Dosadno mi je.* — I’m bored.
-
-Marko says **нервозан · изненађен · поносан**. **Досадно ми је** is the same for everyone.
+Marko drops the **-а**: **срећан · нервозан · поносан**. **Досадно ми је** is the same for everyone.
 
 ---
 
-# How strong is it?
+# How strong? Why?
 
-**мало** · *malo* — a little<br>
-**прилично** · *prilično* — fairly<br>
-**веома / баш** · *veoma / baš* — very / really
+**мало** · *malo* — a little · **прилично** · *prilično* — fairly · **веома / баш** · *veoma / baš* — very / really
 
-> Мало сам забринута, али сам прилично узбуђена.
+**Зашто?** — **Јер ...** · *Jer ...* — Because ...
 
-Choose an intensity that is true.
+> Мало сам забринута, али сам прилично узбуђена.<br>
+> Срећна сам јер смо заједно.
 
----
-
-# Give a reason
-
-**Зашто?** · *Zašto?* — Why?<br>
-**Јер ...** · *Jer ...* — Because ...
-
-> Срећна сам јер смо заједно.<br>
-> Уморна сам јер сам много радила.
-
-One honest reason is enough.
+One true feeling and one reason are enough.
 
 ---
 
 # Respond with care
 
-**Шта се десило?** — What happened?<br>
-**Баш ми је драго.** — I’m really glad.<br>
-**Жао ми је.** — I’m sorry.<br>
-**Разумем.** — I understand.<br>
-**Биће добро.** — It’ll be fine.<br>
-**Хоћеш ли да причамо?** — Do you want to talk?
+**Шта се десило?** · *Šta se desilo?* — What happened?<br>
+**Баш ми је драго.** · *Baš mi je drago.* — I’m really glad.<br>
+**Жао ми је.** · *Žao mi je.* — I’m sorry.<br>
+**Разумем.** · *Razumem.* — I understand.<br>
+**Биће добро.** · *Biće dobro.* — It’ll be fine.
 
-Ask first, then match the response to the person.
+Ask first, then respond.
 
 ---
 
@@ -121,64 +106,32 @@ Ask first, then match the response to the person.
 
 Read once for the emotional change. Check Latin only after a full attempt.
 
-<div class="latin-help"><b>Latin help:</b> Ипак = Ipak (still) · опушта = opušta · Сутра = Sutra (tomorrow) · нервозна = nervozna · поносна = ponosna · са њима = sa njima (with them) · на српском = na srpskom</div>
-
----
-# After something
-
-**после + genitive**
-
-Марко: после посла · *posle posla*<br>
-Амаја: после учења · *posle učenja*<br>
-обоје: после музике · *posle muzike*
-
-Learn these as complete chunks. **Љубимац → љубимца** remains the clearer disappearing-**а** example.
+<div class="latin-help"><b>Latin help:</b> Ипак = Ipak (still) · опушта = opušta (relaxes) · После = Posle (after) · Сутра = Sutra (tomorrow) · нервозна = nervozna · поносна = ponosna · са њима = sa njima (with them) · на српском = na srpskom</div>
 
 ---
 
 # React and discuss
 
-- How does Amaya feel at the beginning and end?
+- Како се Амаја осећа на почетку? А на крају?
 - What changes her mood?
 - Зашто је нервозна? Зашто је поносна?
-- Does music affect you in the same way?
-- What helps when you feel tired or worried?
+- What helps you when you feel tired or worried?
 
-Retell the emotional arc in three sentences.
-
----
-
-# Expressive rhythm
-
-Say the key word clearly and let the response sound human:
-
-**Баш** ми је драго.<br>
-**Жао** ми је.<br>
-Мало сам **забринута**.
-
-Listen, echo, then personalize.
+<div class="latin-help"><b>Latin help:</b> Kako se Amaja oseća na početku? A na kraju? (How does Amaya feel at the beginning? And at the end?)</div>
 
 ---
 
 # Scenarios — ask, then respond
 
-1. **Marko comes home late from work.** Find out how he feels and what happened. Respond, then offer something: **Хоћеш ли чај?**
-2. **A phone call with Baka (Ви).** Ask **Како се осећате?** She is a little tired—find out why and respond with care.
-3. **Before a concert:** a friend is nervous and excited. Ask two questions and encourage them: **Биће добро!**
+1. **Marko comes home late from work.** Ask how he feels and **Шта се десило?** Then offer: **Хоћеш ли чај?** · *Hoćeš li čaj?*
+2. **A phone call with Baka (Ви).** Ask **Како се осећате?** She is a little tired—ask why and respond.
 
 The teacher adds one surprise. Keep asking.
 
 ---
 
-# Feeling interview
+# Exit — without notes
 
-Ask about three moments: this morning, during the day, and now.
-
-For each: feeling + intensity + reason.<br>
-Respond naturally and ask one follow-up.
-
----
-
-# Exit conversation
-
-Without notes, ask how your partner feels, explain two of your own feelings with one reason, and respond empathetically.
+1. Ask the teacher how he feels.
+2. Say two true feelings: **мало / прилично / баш ...**
+3. Give one reason with **јер**, and respond to his answer.

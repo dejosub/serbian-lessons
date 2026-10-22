@@ -8,7 +8,7 @@
 - make a plan, accept it, decline politely, and suggest another time
 - understand and answer a short message from Baka
 
-## Cumulative review
+## Warm-up
 
 Ask how much something costs where your partner lives, how old someone in their family is, and how they feel today. Push once with `Зашто?`
 
@@ -36,17 +36,13 @@ After `у`, days ending in `-а` change to `-у` (`субота → у субо�
 
 ## Months
 
-јануар · фебруар · март · април · мај · јун · јул · август · септембар · октобар · новембар · децембар
+јануар *januar* · фебруар *februar* · март *mart* · април *april* · мај *maj* · јун *jun* · јул *jul* · август *avgust* · септембар *septembar* · октобар *oktobar* · новембар *novembar* · децембар *decembar*
 
 `у августу · u avgustu` — in August · `у децембру · u decembru` — in December. Add `-у` after `у`; `мај → у мају`.
 
 `Када ти је рођендан? · Kada ti je rođendan?` — When is your birthday? · `Срећан рођендан! · Srećan rođendan!` — Happy birthday!
 
 Optional enrichment: exact dates use ordinal numbers—`петнаестог августа` (on 15 August). Recognize them; we will practice them later.
-
-## Sound sort
-
-Hard `ч/џ` or soft `ћ/ђ`? `четвртак · ручак · Божић · рођендан · хоћеш · Ђурђевдан · џепни календар`, then the pairs `куче/куће` and `џак/ђак`. (`Ђурђевдан` is St George’s Day, 6 May; `џепни календар` is a pocket calendar.) The teacher reads first; then you read and the teacher points.
 
 ## Dialogue — Friday night
 
@@ -56,8 +52,8 @@ Hard `ч/џ` or soft `ћ/ђ`? `четвртак · ручак · Божић · �
 **Амаја:** Не знам још. Зашто?  
 *Ne znam još. Zašto?* — I don’t know yet. Why?
 
-**Марко:** У петак је џез концерт у парку. Хоћеш ли да идемо?  
-*U petak je džez koncert u parku. Hoćeš li da idemo?* — There’s a jazz concert in the park on Friday. Do you want to go?
+**Марко:** У петак је концерт у парку. Хоћеш ли да идемо?  
+*U petak je koncert u parku. Hoćeš li da idemo?* — There’s a concert in the park on Friday. Do you want to go?
 
 **Амаја:** Може! У колико сати?  
 *Može! U koliko sati?* — Sure! At what time?
@@ -119,6 +115,8 @@ When you speak *to* someone, some names and family words change: `бака → �
 - `слава` — each family celebrates its patron saint’s day at home every year, with guests and special food. Ask Marko: `Када је ваша слава?`
 
 ## Scenarios
+
+In class: scenarios 1 and 2. Scenario 3 is for extra time or for practice with Marko at home.
 
 1. **Find a time:** You and your partner each have a busy week. Find a time for a walk in the park, a concert, and lunch with Baka and Deda. Say no at least once and suggest another day.
 2. **Call Baka:** Answer her message. Wish her a happy birthday, confirm the day and time, and ask what to bring. Baka will change one detail—ask until it is clear.

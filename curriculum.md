@@ -29,7 +29,14 @@ After Lesson 6, the learner asked for more scenarios and question-asking, a litt
 - 7–30 new items per lesson, with closed sets such as numbers, days, and colors at the upper end
 - grammar shown as one-slide patterns attached to useful chunks
 - a Latin-help footer under every Cyrillic reading slide, and a matching line in the handout
-- a hard `ч/џ` vs. soft `ћ/ђ` listening and production exercise in Lesson 7, maintained briefly through Lesson 11
+- a hard `ч/џ` vs. soft `ћ/ђ` listening and production exercise in Lesson 7
+
+After Lesson 7, which reached slide 12 of 19 in one session, the notes asked for shorter lessons, Latin next to every new word, and no tongue twisters. From Lesson 8:
+
+- about 12 slides per 60-minute lesson; extra scenarios live in the handout or homework
+- every new word or phrase on a slide shows its Latin beside it (`среда · sreda — Wednesday`); the Latin-help footer stays for long words in readings
+- no tongue twisters or sound sentences; hard/soft practice is an optional minute of single words, by ear, with print hidden
+- Lesson 8 opens with the unfinished Lesson 7 food scale and Baka’s-table scenario
 
 ## Proposed ordering rationale
 
@@ -38,7 +45,7 @@ After Lesson 6, the learner asked for more scenarios and question-asking, a litt
 3. **Colors before school:** the school lesson can naturally reuse numbers and colors with books, pens, classroom objects, schedules, and subjects.
 4. **Deferred outcomes afterward:** location language, expanded past narration, the family meal, and cumulative conversation remain in the plan rather than being displaced.
 
-Do not generate Lessons 12–16 until requested. Reassess the ordering after each new session note; in particular, the school theme may move earlier if it becomes immediately relevant.
+Generate at most three lessons ahead of the last lesson taught; adjust them from each session note. Reassess the ordering after each new session note; in particular, the school theme may move earlier if it becomes immediately relevant.
 
 ## Script progression
 

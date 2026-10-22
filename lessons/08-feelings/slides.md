@@ -84,7 +84,7 @@ What two feelings does Marko name? Why is he happy?
 **Добро сам.** · *Dobro sam.* — I’m fine.<br>
 **Нисам баш добро.** · *Nisam baš dobro.* — I’m not so good.
 
-Answer with a word from the table: **Срећна сам.** · **Мало сам уморна.** · **Нервозна сам.**
+Answer with one of the feelings you just learned: **Срећна сам.** · **Мало сам уморна.** · **Нервозна сам.**
 
 ---
 

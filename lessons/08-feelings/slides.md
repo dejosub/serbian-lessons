@@ -35,6 +35,17 @@ Ask at least three questions before you talk about yourself.
 
 ---
 
+# Listen and point
+
+Hard **ч / џ** or soft **ћ / ђ**? The teacher says single words; you point.
+
+осећам · *osećam* · срећна · *srećna* · узбуђена · *uzbuđena*<br>
+учила · *učila* · мачка · *mačka* · џеп · *džep*
+
+Then you say three; the teacher points.
+
+---
+
 # Listen first
 
 **Амаја:** Како се осећаш данас?<br>
@@ -110,6 +121,18 @@ Read once for the emotional change. Check Latin only after a full attempt.
 
 ---
 
+# After something
+
+**после** · *posle* — after
+
+Марко: **после посла** · *posle posla* — after work<br>
+Амаја: **после учења** · *posle učenja* — after studying<br>
+обоје: **после музике** · *posle muzike* — after music
+
+Learn these as whole chunks.
+
+---
+
 # React and discuss
 
 - Како се Амаја осећа на почетку? А на крају?
@@ -127,6 +150,16 @@ Read once for the emotional change. Check Latin only after a full attempt.
 2. **A phone call with Baka (Ви).** Ask **Како се осећате?** She is a little tired—ask why and respond.
 
 The teacher adds one surprise. Keep asking.
+
+---
+
+# Feeling interview
+
+Ask about three moments: **јутрос** · *jutros* — this morning · **данас** · *danas* — today · **сада** · *sada* — now
+
+For each: feeling + **мало / прилично / баш** + **јер ...**
+
+Respond, then ask one more: **Шта се десило?** · **Зашто?**
 
 ---
 

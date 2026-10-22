@@ -50,6 +50,17 @@ Phone numbers in Serbia are said in small groups: **064 · 123 · 45 · 67**
 
 ---
 
+# Hard ч, soft ћ — numbers edition
+
+The teacher says single words; you point to **ч** or **ћ**.
+
+**ч:** четири · *četiri* · четрнаест · *četrnaest* · четрдесет · *četrdeset*<br>
+**ћ:** ћерка · *ćerka* · хоћу · *hoću* · кућа · *kuća*
+
+Then you say three; the teacher points.
+
+---
+
 # How old? How many?
 
 **Колико имаш година?** · *Koliko imaš godina?* — How old are you?<br>
@@ -88,6 +99,18 @@ How much are the apples? What else does Amaya buy?
 
 ---
 
+# Notice: numbers change the noun
+
+| 1 | 2, 3, 4 | 5 and up |
+|---|---|---|
+| један динар | два динара | пет динара |
+| једна јабука | две јабуке | пет јабука |
+| једна година | две године | тридесет година |
+
+**два** динара but **две** јабуке. Don’t memorize a table—say real prices, and the endings will come.
+
+---
+
 # Read: Morning at the market
 
 > Ујутру Амаја и бака иду на пијацу. Пијаца је велика и жива. Бака купује сир и хлеб. Амаја пита продавачицу: „Колико коштају јабуке?” — „Сто педесет динара кило.” — „Дајте ми два кила, молим.” Продавачица мери јабуке: „Триста динара. Још нешто?” — „То је све, хвала.” Онда продавачица даје Амаји још једну јабуку: „Ово је за вас. Лепо говорите српски!” Бака је поносна. Амаја је мало изненађена, али веома срећна.
@@ -107,7 +130,7 @@ How much are the apples? What else does Amaya buy?
 
 ---
 
-# Scenario — The market stall
+# Scenario 1 — The market stall
 
 You have **1.000 динара** for Sunday lunch with Baka and Deda.
 
@@ -120,6 +143,17 @@ You have **1.000 динара** for Sunday lunch with Baka and Deda.
 | кафа | 400 дин. |
 
 Ask at least three prices before you buy. The seller will push back—keep asking.
+
+---
+
+# Scenario 2 — A new friend
+
+At a concert, you meet Marko’s friend. Find out: name · what they like · brothers and sisters · phone number
+
+**Који је твој број телефона?** · *Koji je tvoj broj telefona?* — What’s your phone number?<br>
+**Можеш ли да поновиш?** · *Možeš li da ponoviš?* — Can you repeat that?
+
+Read the number back in groups.
 
 ---
 

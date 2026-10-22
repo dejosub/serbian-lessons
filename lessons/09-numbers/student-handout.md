@@ -32,6 +32,10 @@ Two patterns do most of the work: `-наест` for 11–19 and `-десет` fo
 
 Phone numbers are said in small groups: `064 123 45 67` → `нула шездесет четири · сто двадесет три · четрдесет пет · шездесет седам`.
 
+## Hard ч, soft ћ
+
+The teacher says single words; point to `ч` or `ћ`: `четири · četiri`, `четрнаест · četrnaest`, `четрдесет · četrdeset`, `ћерка · ćerka`, `хоћу · hoću`, `кућа · kuća`.
+
 ## Age and family
 
 - `Колико имаш година? · Koliko imaš godina?` — How old are you?
@@ -110,7 +114,7 @@ Long words in Latin: пијацу = *pijacu* · купује = *kupuje* (buys) �
 
 ## Scenarios
 
-In class: the market stall. Scenarios 2 and 3 are for extra time or for practice with Marko at home.
+In class: the market stall and a new friend. Scenario 3 is for extra time or for practice with Marko at home.
 
 1. **The market stall:** You have `1.000 динара` for Sunday lunch. Prices: јабуке 150 дин./кг · сир 900 дин./кг · хлеб 80 дин. · пита 250 дин. · кафа 400 дин. Ask at least three prices before you buy. The seller will push back.
 2. **A new friend:** At a concert you meet Marko’s friend. Find out their name, what they like, how many brothers and sisters they have, and their phone number. Read the number back in groups; use `Можете ли да поновите?` if needed.

@@ -12,19 +12,22 @@ Without notes, Amaya can ask how someone feels (informally and politely), expres
 
 ## Sequence — 60 minutes
 
-This lesson is deliberately shorter (12 slides) after Lesson 7 ran long. If time is short, skip the third scenario in the handout, never the reading or discussion.
+Lesson 7 ran long because of the sound work; plan 15 slides and keep the sound check to single words.
 
 1. **From Lesson 7: food scale — 4 min:** Amaya places four foods, compares two with `Више волим ... него ...`, and asks you `Шта више волиш, ... или ...?` Compare foods, not people.
-2. **From Lesson 7: at Baka’s table — 6 min:** Play Baka. Offer food twice; wait for three questions (`Шта волите да кувате?`, `Зашто?`, `А шта још?`).
-3. **Dialogue listening — 4 min:** Print hidden first. Identify two feelings and the reason.
-4. **Ask and answer — 3 min:** `Како се осећаш?` / `Како се осећате?` for Baka and Deda.
-5. **Feelings — 7 min:** Use the ten feelings in real or hypothetical situations; do not require disclosure.
-6. **How strong? Why? — 5 min:** `мало`, `прилично`, `баш` through true statements; answer `Зашто?` once with `јер`.
-7. **Respond with care — 5 min:** `Шта се десило?` first, then `Жао ми је`, `Биће добро`, or `Баш ми је драго`.
-8. **Reading in Cyrillic — 7 min:** Read for Amaya’s emotional change; the Latin help covers the longer words. `после музике` can be named as a chunk, nothing more.
-9. **Discussion — 5 min:** React to the reading; finish with what changes her mood.
-10. **Scenarios — 10 min:** Two scenarios with push moves.
-11. **Exit — 2 min:** Unscripted exchange meeting the target.
+2. **From Lesson 7: at Baka’s table — 5 min:** Play Baka. Offer food twice; wait for three questions (`Шта волите да кувате?`, `Зашто?`, `А шта још?`).
+3. **Listen and point — 2 min:** Single words only, print hidden first. No sentences or tongue twisters.
+4. **Dialogue listening — 4 min:** Print hidden first. Identify two feelings and the reason.
+5. **Ask and answer — 3 min:** `Како се осећаш?` / `Како се осећате?` for Baka and Deda.
+6. **Feelings — 6 min:** Use the ten feelings in real or hypothetical situations; do not require disclosure.
+7. **How strong? Why? — 4 min:** `мало`, `прилично`, `баш` through true statements; answer `Зашто?` once with `јер`.
+8. **Respond with care — 4 min:** `Шта се десило?` first, then `Жао ми је`, `Биће добро`, or `Баш ми је драго`.
+9. **Reading in Cyrillic — 6 min:** Read for Amaya’s emotional change; the Latin help covers the longer words.
+10. **After something — 2 min:** `после посла / после учења / после музике` as chunks. Name the genitive only if she asks.
+11. **Discussion — 4 min:** React to the reading; finish with what changes her mood.
+12. **Scenarios — 9 min:** Two scenarios with push moves.
+13. **Feeling interview — 5 min:** This morning, today, now; she asks you too.
+14. **Exit — 2 min:** Unscripted exchange meeting the target.
 
 ## Push moves
 
@@ -44,7 +47,7 @@ Offer fictional or low-stakes scenarios whenever the learner does not want to di
 
 Cyrillic leads familiar and instructional material. Every new word on a slide has its Latin next to it; long words in the reading appear in Latin at the bottom of the slide.
 
-There is no sound slide this time. If a minute is free, say four to six single words (`осећам`, `срећна`, `узбуђена`, `учила`, `мачка`, `џеп`) with print hidden and let her point to hard or soft. No tongue twisters or full sentences—Lesson 7 showed they are too much Cyrillic at this stage.
+The sound check uses six single words (`осећам`, `срећна`, `узбуђена`, `учила`, `мачка`, `џеп`) with print hidden first. No tongue twisters or full sentences—Lesson 7 showed they are too much Cyrillic at this stage.
 
 ## Session note for Lesson 9
 

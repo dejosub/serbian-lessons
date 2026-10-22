@@ -44,6 +44,17 @@ Ask how much something costs where your partner lives, how old someone in their 
 
 ---
 
+# Sound sort: the calendar
+
+The teacher says single words; you point to **ч · ћ · џ · ђ**.
+
+четвртак · *četvrtak* · ручак · *ručak* · Божић · *Božić*<br>
+рођендан · *rođendan* · хоћеш · *hoćeš* · Ђурђевдан · *Đurđevdan* (St George’s Day)
+
+Then you say three; the teacher points.
+
+---
+
 # Listen: Friday night
 
 **Марко:** Шта радиш у петак увече?<br>
@@ -86,6 +97,16 @@ What is the plan? When? What else is happening this week?
 
 ---
 
+# Family holidays
+
+**Нова година** · *Nova godina* — 1 January, the big party<br>
+**Божић** · *Božić* — 7 January, Orthodox Christmas<br>
+**слава** · *slava* — the family’s saint’s day, celebrated at home every year
+
+Ask Marko: **Када је ваша слава?** · *Kada je vaša slava?* Which saint? What do you eat? Who comes?
+
+---
+
 # Read: A message from Baka
 
 > Драга Амаја,<br>
@@ -104,7 +125,7 @@ What is the plan? When? What else is happening this week?
 - Када је ручак? Шта ако не могу у недељу?
 - Шта бака прави? А деда?
 - What would you bring to Baka’s birthday lunch?
-- Ask Marko: **Када је ваша слава?** · *Kada je vaša slava?*
+- How does your family celebrate birthdays?
 
 ---
 
@@ -127,6 +148,16 @@ Answer her message. When you talk *to* Baka, **бака → бако**:
 Use **ти** or **Ви**—whatever you use with her. Baka will change one detail. Ask until it is clear.
 
 <div class="latin-help"><b>Latin help:</b> Draga bako · Dolazimo u jedan (we’re coming at one) · Šta da donesemo? (What should we bring?)</div>
+
+---
+
+# Scenario 3 — Birthday detective
+
+Find out the birthday month of three people. Then ask about one family holiday:
+
+**Када ти је рођендан?** · *Kada ti je rođendan?*<br>
+**Када је ваша слава?** · *Kada je vaša slava?*<br>
+**Шта радите за Божић?** · *Šta radite za Božić?* — What do you do for Christmas?
 
 ---
 

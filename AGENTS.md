@@ -22,7 +22,7 @@ After any change that can affect flash cards—including creating, revising, ren
 
 ## Lesson design
 
-Generate at most three lessons ahead of the last lesson taught (the last `notes/lesson-NN.txt` with content); the session notes adjust upcoming lessons as the course goes. Plan about 12 slides for a 60-minute lesson.
+Generate at most three lessons ahead of the last lesson taught (the last `notes/lesson-NN.txt` with content); the session notes adjust upcoming lessons as the course goes. Plan about 15 slides for a 60-minute lesson.
 
 ## Family language preferences
 

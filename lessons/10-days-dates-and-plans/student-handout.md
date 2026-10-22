@@ -44,6 +44,10 @@ After `у`, days ending in `-а` change to `-у` (`субота → у субо�
 
 Optional enrichment: exact dates use ordinal numbers—`петнаестог августа` (on 15 August). Recognize them; we will practice them later.
 
+## Sound sort
+
+The teacher says single words; point to `ч · ћ · џ · ђ`: `четвртак · četvrtak`, `ручак · ručak`, `Божић · Božić`, `рођендан · rođendan`, `хоћеш · hoćeš`, `Ђурђевдан · Đurđevdan` (St George’s Day, 6 May).
+
 ## Dialogue — Friday night
 
 **Марко:** Шта радиш у петак увече?  
@@ -115,8 +119,6 @@ When you speak *to* someone, some names and family words change: `бака → �
 - `слава` — each family celebrates its patron saint’s day at home every year, with guests and special food. Ask Marko: `Када је ваша слава?`
 
 ## Scenarios
-
-In class: scenarios 1 and 2. Scenario 3 is for extra time or for practice with Marko at home.
 
 1. **Find a time:** You and your partner each have a busy week. Find a time for a walk in the park, a concert, and lunch with Baka and Deda. Say no at least once and suggest another day.
 2. **Call Baka:** Answer her message. Wish her a happy birthday, confirm the day and time, and ask what to bring. Baka will change one detail—ask until it is clear.

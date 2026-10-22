@@ -43,11 +43,11 @@ Before a masculine noun you will often hear `-и`: `плави џемпер`, `�
 
 ## Vowel-less words
 
-`црн · црвен · Србија · српски · четрдесет` — here `р` carries the syllable by itself: `цр-вен`, `ср-пски`, `Ср-би-ја`. Do not add a vowel.
+`црн · crn`, `црвен · crven`, `Србија · Srbija`, `српски · srpski`, `четрдесет · četrdeset` — here `р` carries the syllable by itself: `цр-вен`, `ср-пски`, `Ср-би-ја`. Do not add a vowel.
 
 ## Sound check
 
-Hard `ч/џ` or soft `ћ/ђ`? `наранџаст · смеђ · љубичаст · одећа · џеп · чарапе · рођендан · Божић`. Then: `Смеђе куче је испред беле куће.` · *Smeđe kuče je ispred bele kuće.* — The brown puppy is in front of the white house. (`смеђ` is another word for brown; `чарапе` are socks.)
+Hard `ч/џ` or soft `ћ/ђ`? The teacher says single words: `наранџаст · narandžast`, `смеђ · smeđ` (another word for brown), `одећа · odeća`, `џеп · džep` (pocket), `чарапе · čarape` (socks), `Божић · Božić`. Then you say three and the teacher points.
 
 ## Dialogue — What should I wear?
 

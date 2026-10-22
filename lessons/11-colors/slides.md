@@ -27,11 +27,9 @@ Point to things in the room. The teacher names the color; you repeat it, then yo
 
 # Colors
 
-<div class="swatches"><span><i style="background:#c62828"></i>црвен</span><span><i style="background:#1e5aa8"></i>плав</span><span><i style="background:#2e7d32"></i>зелен</span><span><i style="background:#f2c200"></i>жут</span><span><i style="background:#ffffff"></i>бео</span><span><i style="background:#1b1b1b"></i>црн</span><span><i style="background:#8a8f94"></i>сив</span><span><i style="background:#7b4a26"></i>браон</span><span><i style="background:#f48fb1"></i>розе</span><span><i style="background:#7b3fa0"></i>љубичаст</span><span><i style="background:#f07c00"></i>наранџаст</span></div>
+<div class="swatches"><span><i style="background:#c62828"></i>црвен<small>crven</small></span><span><i style="background:#1e5aa8"></i>плав<small>plav</small></span><span><i style="background:#2e7d32"></i>зелен<small>zelen</small></span><span><i style="background:#f2c200"></i>жут<small>žut</small></span><span><i style="background:#ffffff"></i>бео<small>beo</small></span><span><i style="background:#1b1b1b"></i>црн<small>crn</small></span><span><i style="background:#8a8f94"></i>сив<small>siv</small></span><span><i style="background:#7b4a26"></i>браон<small>braon</small></span><span><i style="background:#f48fb1"></i>розе<small>roze</small></span><span><i style="background:#7b3fa0"></i>љубичаст<small>ljubičast</small></span><span><i style="background:#f07c00"></i>наранџаст<small>narandžast</small></span></div>
 
-**светло-** light · **тамно-** dark: **светлоплав · тамнозелен**
-
-<div class="latin-help"><b>Latin help:</b> crven · plav · zelen · žut · beo · crn · siv · braon · roze · ljubičast · narandžast · svetloplav · tamnozelen</div>
+**светло-** · *svetlo-* light · **тамно-** · *tamno-* dark: **светлоплав** · *svetloplav* · **тамнозелен** · *tamnozelen*
 
 ---
 
@@ -50,23 +48,20 @@ Point to things in the room. The teacher names the color; you repeat it, then yo
 
 # Vowel-less words
 
-**црн · црвен · Србија · српски · четрдесет**
+**црн** · *crn* · **црвен** · *crven* · **Србија** · *Srbija* · **српски** · *srpski* · **четрдесет** · *četrdeset*
 
 In Serbian, **р** can carry a syllable by itself: **цр-вен**, **ср-пски**, **Ср-би-ја**. Don’t add a vowel—let the **р** do the work.
-
-<div class="latin-help"><b>Latin help:</b> crn · crven · Srbija · srpski · četrdeset</div>
 
 ---
 
 # Sound check
 
-Hard **ч / џ** or soft **ћ / ђ**?
+Hard **ч / џ** or soft **ћ / ђ**? The teacher says single words; you point.
 
-наранџаст · смеђ · љубичаст · одећа · џеп · чарапе · рођендан · Божић
+наранџаст · *narandžast* · смеђ · *smeđ* (brown) · одећа · *odeća*<br>
+џеп · *džep* (pocket) · чарапе · *čarape* (socks) · Божић · *Božić*
 
-The teacher reads; you point. Then you read; the teacher points. Finish fast: **Смеђе куче је испред беле куће.**
-
-<div class="latin-help"><b>Latin help:</b> smeđ (brown, like браон) · čarape (socks) · džep (pocket) · Smeđe kuče je ispred bele kuće. (The brown puppy is in front of the white house.)</div>
+Then you say three; the teacher points.
 
 ---
 
@@ -86,16 +81,14 @@ The teacher reads; you point. Then you read; the teacher points. Finish fast: **
 
 # Clothes
 
-**одећа** — clothes · **мајица** — T-shirt · **јакна** — jacket<br>
-**хаљина** — dress · **џемпер** — sweater
+**одећа** · *odeća* — clothes · **мајица** · *majica* — T-shirt · **јакна** · *jakna* — jacket<br>
+**хаљина** · *haljina* — dress · **џемпер** · *džemper* — sweater
 
-**Шта носиш данас?** — **Носим ...**
+**Шта носиш данас?** · *Šta nosiš danas?* — **Носим ...** · *Nosim ...*
 
 > Носим плаву мајицу и црну јакну.
 
-**Пристаје ти!** — It suits you!
-
-<div class="latin-help"><b>Latin help:</b> odeća · majica · jakna · haljina · Šta nosiš danas? · Nosim plavu majicu i crnu jaknu. · Pristaje ti!</div>
+**Пристаје ти!** · *Pristaje ti!* — It suits you!
 
 ---
 
@@ -115,11 +108,6 @@ The teacher reads; you point. Then you read; the teacher points. Finish fast: **
 - Које боје видиш у свом граду у јесен?
 - Која ти је омиљена боја? Зашто?
 
----
-
-# Retell in colors
-
-ручак → Калемегдан → јесен: жуто, црвено, наранџасто → две реке → плав? сив? зелен? → розе небо
 
 ---
 
@@ -127,11 +115,11 @@ The teacher reads; you point. Then you read; the teacher points. Finish fast: **
 
 You need a jacket for a winter visit to Serbia.
 
-**Имате ли ову јакну у плавој боји?** · **Могу ли да пробам?** · **Колико кошта?**
+**Имате ли ову јакну у плавој боји?** · *Imate li ovu jaknu u plavoj boji?* — Do you have this jacket in blue?<br>
+**Могу ли да пробам?** · *Mogu li da probam?* — Can I try it on?<br>
+**Колико кошта?** · *Koliko košta?*
 
 The seller has a problem for you. Ask, compare, decide.
-
-<div class="latin-help"><b>Latin help:</b> Imate li ovu jaknu u plavoj boji? (Do you have this jacket in blue?) · Mogu li da probam? (Can I try it on?)</div>
 
 ---
 
@@ -139,11 +127,12 @@ The seller has a problem for you. Ask, compare, decide.
 
 The teacher thinks of something at home, at the table, or at the market. Ask yes/no questions:
 
-**Да ли је велико?** · **Да ли се једе?** · **Које је боје?** · **Да ли је код куће?**
+**Да ли је велико?** · *Da li je veliko?* — Is it big?<br>
+**Да ли се једе?** · *Da li se jede?* — Can you eat it?<br>
+**Које је боје?** · *Koje je boje?* — What color is it?<br>
+**Да ли је код куће?** · *Da li je kod kuće?* — Is it at home?
 
 Find it in ten questions. Then switch roles.
-
-<div class="latin-help"><b>Latin help:</b> Da li je veliko? · Da li se jede? (Can you eat it?) · Koje je boje?</div>
 
 ---
 

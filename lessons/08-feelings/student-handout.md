@@ -13,6 +13,10 @@
 
 **At Baka’s table:** Baka offers food. Say what you adore and what you prefer, then ask her at least three questions: `Шта волите да кувате?` · *Šta volite da kuvate?* · `Зашто?` · *Zašto?* · `А шта још?` · *A šta još?*
 
+## Listen and point
+
+Hard (`ч/џ`) or soft (`ћ/ђ`)? The teacher says single words: `осећам · osećam`, `срећна · srećna`, `узбуђена · uzbuđena`, `учила · učila`, `мачка · mačka`, `џеп · džep`. Point first; then you say three and the teacher points.
+
 ## Dialogue
 
 **Амаја:** Како се осећаш данас?  
@@ -77,3 +81,7 @@ Ask before you advise; respond before you share your own feeling. If there is ti
 1. **Marko comes home late from work.** Find out how he feels and `Шта се десило?` Respond, then offer something: `Хоћеш ли чај?` · *Hoćeš li čaj?*
 2. **A phone call with Baka (Ви).** Ask `Како се осећате?` She is a little tired—find out why and respond with care.
 3. **Before a concert:** a friend is nervous and excited. Ask two questions and encourage them: `Биће добро!`
+
+## Feeling interview
+
+Ask about `јутрос · jutros` (this morning), `данас · danas` (today), and `сада · sada` (now). For each moment, give a feeling, an intensity, and a reason with `јер`. Respond to your partner before asking the next question.

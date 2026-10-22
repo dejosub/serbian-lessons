@@ -102,12 +102,10 @@ Then you say three; the teacher points.
 
 # React and discuss
 
-- Које је боје небо? А дрвеће?
-- Зашто Марко и Амаја не виде исту боју?
-- Is the Danube blue? Look at a photo together.
-- Које боје видиш у свом граду у јесен?
-- Која ти је омиљена боја? Зашто?
-
+- **Које је боје небо? А дрвеће?**<br>*Koje je boje nebo? A drveće?* — What color is the sky? And the trees?
+- **Зашто Марко и Амаја не виде исту боју?**<br>*Zašto Marko i Amaja ne vide istu boju?* — Why don’t Marko and Amaya see the same color?
+- **Да ли је Дунав плав? Погледајте слику.**<br>*Da li je Dunav plav? Pogledajte sliku.* — Is the Danube blue? Look at a photo.
+- **Која ти је омиљена боја? Зашто?**<br>*Koja ti je omiljena boja? Zašto?* — What is your favorite color? Why?
 
 ---
 

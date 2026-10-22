@@ -121,11 +121,10 @@ Ask Marko: **Када је ваша слава?** · *Kada je vaša slava?* Whic
 
 # React and discuss
 
-- Зашто бака прави ручак?
-- Када је ручак? Шта ако не могу у недељу?
-- Шта бака прави? А деда?
-- What would you bring to Baka’s birthday lunch?
-- How does your family celebrate birthdays?
+- **Зашто бака прави ручак?**<br>*Zašto baka pravi ručak?* — Why is Baka making lunch?
+- **Када је ручак? Шта ако не могу у недељу?**<br>*Kada je ručak? Šta ako ne mogu u nedelju?* — When is lunch? What if they can’t come on Sunday?
+- **Шта да донесемо баки?**<br>*Šta da donesemo baki?* — What should we bring Baka?
+- **Како славите рођендане?**<br>*Kako slavite rođendane?* — How does your family celebrate birthdays?
 
 ---
 

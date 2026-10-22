@@ -121,10 +121,10 @@ How much are the apples? What else does Amaya buy?
 
 # React and discuss
 
-- Колико коштају јабуке? Is that cheap or expensive for you?
-- Why does the seller give Amaya another apple?
-- Како се осећа бака? А Амаја?
-- What do people say when they hear you speak Serbian?
+- **Колико коштају јабуке? Да ли је то скупо?**<br>*Koliko koštaju jabuke? Da li je to skupo?* — How much are the apples? Is that expensive?
+- **Зашто продавачица даје Амаји још једну јабуку?**<br>*Zašto prodavačica daje Amaji još jednu jabuku?* — Why does the seller give Amaya another apple?
+- **Како се осећа бака? А Амаја?**<br>*Kako se oseća baka? A Amaja?* — How does Baka feel? And Amaya?
+- **Шта кажу људи кад говориш српски?**<br>*Šta kažu ljudi kad govoriš srpski?* — What do people say when you speak Serbian?
 
 **Хвала, још учим!** · *Hvala, još učim!* — Thanks, I’m still learning!
 

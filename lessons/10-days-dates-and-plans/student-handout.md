@@ -98,11 +98,11 @@ Long words in Latin: Драга = *Draga* (dear) · правимо = *pravimo* (
 
 ### Discuss
 
-1. Зашто бака прави ручак?
-2. Када је ручак? Шта ако не могу у недељу?
-3. Шта бака прави? А деда?
-4. What would you bring to Baka’s birthday lunch?
-5. How does your family celebrate birthdays? Is a birthday lunch at home normal for you?
+1. `Зашто бака прави ручак?` · *Zašto baka pravi ručak?* — Why is Baka making lunch?
+2. `Када је ручак? Шта ако не могу у недељу?` · *Kada je ručak? Šta ako ne mogu u nedelju?* — When is lunch? What if they can’t come on Sunday?
+3. `Шта да донесемо баки?` · *Šta da donesemo baki?* — What should we bring Baka?
+4. `Како славите рођендане?` · *Kako slavite rođendane?* — How does your family celebrate birthdays?
+5. `Шта бака прави? А деда?` · *Šta baka pravi? A deda?* — What is Baka making? And Deda?
 
 ### Answer Baka
 

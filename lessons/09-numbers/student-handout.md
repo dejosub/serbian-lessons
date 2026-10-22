@@ -106,11 +106,11 @@ Long words in Latin: пијацу = *pijacu* · купује = *kupuje* (buys) �
 
 ### Discuss
 
-1. Колико коштају јабуке? Is that cheap or expensive for you?
-2. Why does the seller give Amaya another apple?
-3. Како се осећа бака? А Амаја?
-4. What do people say when they hear you speak Serbian? What do you answer?
-5. Where do you buy food—at a market or a supermarket? Why?
+1. `Колико коштају јабуке? Да ли је то скупо?` · *Koliko koštaju jabuke? Da li je to skupo?* — How much are the apples? Is that expensive?
+2. `Зашто продавачица даје Амаји још једну јабуку?` · *Zašto prodavačica daje Amaji još jednu jabuku?* — Why does the seller give Amaya another apple?
+3. `Како се осећа бака? А Амаја?` · *Kako se oseća baka? A Amaja?* — How does Baka feel? And Amaya?
+4. `Шта кажу људи кад говориш српски?` · *Šta kažu ljudi kad govoriš srpski?* — What do people say when you speak Serbian?
+5. `Где купујеш храну—на пијаци или у продавници? Зашто?` · *Gde kupuješ hranu—na pijaci ili u prodavnici? Zašto?* — Where do you buy food—at a market or in a shop? Why?
 
 ## Scenarios
 

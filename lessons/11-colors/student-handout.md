@@ -98,11 +98,11 @@ Long words in Latin: шетају по Калемегдану = *šetaju po Kale
 
 ### Discuss
 
-1. Које је боје небо? А дрвеће?
-2. Зашто Марко и Амаја не виде исту боју?
-3. Is the Danube blue? Look at a photo together and decide.
-4. Које боје видиш у свом граду у јесен?
-5. Која ти је омиљена боја? Зашто?
+1. `Које је боје небо? А дрвеће?` · *Koje je boje nebo? A drveće?* — What color is the sky? And the trees?
+2. `Зашто Марко и Амаја не виде исту боју?` · *Zašto Marko i Amaja ne vide istu boju?* — Why don’t Marko and Amaya see the same color?
+3. `Да ли је Дунав плав? Погледајте слику.` · *Da li je Dunav plav? Pogledajte sliku.* — Is the Danube blue? Look at a photo.
+4. `Која ти је омиљена боја? Зашто?` · *Koja ti je omiljena boja? Zašto?* — What is your favorite color? Why?
+5. `Које боје видиш у свом граду у јесен?` · *Koje boje vidiš u svom gradu u jesen?* — What colors do you see in your town in autumn?
 
 Retell the walk in colors: ручак → Калемегдан → јесен → две реке → плав? сив? зелен? → розе небо.
 

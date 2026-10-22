@@ -72,7 +72,12 @@ Long words in Latin: Ипак = *Ipak* (still) · опушта = *opušta* · С
 
 Notice a practical genitive frame tied to the characters: Marko says `после посла · posle posla`; Amaya says `после учења · posle učenja`; both can say `после музике · posle muzike`. Learn these as complete time phrases.
 
-Discuss: `Како се Амаја осећа на почетку? А на крају?` · *Kako se Amaja oseća na početku? A na kraju?* How does her feeling change? What causes the change? Why is she nervous, and why is she proud? What changes your mood?
+### Discuss
+
+1. `Како се Амаја осећа на почетку? А на крају?` · *Kako se Amaja oseća na početku? A na kraju?* — How does Amaya feel at the start? And at the end?
+2. `Зашто је нервозна? Зашто је поносна?` · *Zašto je nervozna? Zašto je ponosna?* — Why is she nervous? Why is she proud?
+3. `Шта јој помаже?` · *Šta joj pomaže?* — What helps her?
+4. `А теби? Шта ти помаже кад си уморна?` · *A tebi? Šta ti pomaže kad si umorna?* — And you? What helps you when you’re tired?
 
 ## Scenarios — ask, then respond
 

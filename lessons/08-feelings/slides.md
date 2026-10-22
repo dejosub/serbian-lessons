@@ -137,12 +137,10 @@ Learn these as whole chunks.
 
 # React and discuss
 
-- Како се Амаја осећа на почетку? А на крају?
-- What changes her mood?
-- Зашто је нервозна? Зашто је поносна?
-- What helps you when you feel tired or worried?
-
-<div class="latin-help"><b>Latin help:</b> Kako se Amaja oseća na početku? A na kraju? (How does Amaya feel at the beginning? And at the end?)</div>
+- **Како се Амаја осећа на почетку? А на крају?**<br>*Kako se Amaja oseća na početku? A na kraju?* — How does Amaya feel at the start? And at the end?
+- **Зашто је нервозна? Зашто је поносна?**<br>*Zašto je nervozna? Zašto je ponosna?* — Why is she nervous? Why is she proud?
+- **Шта јој помаже?**<br>*Šta joj pomaže?* — What helps her?
+- **А теби? Шта ти помаже кад си уморна?**<br>*A tebi? Šta ti pomaže kad si umorna?* — And you? What helps you when you’re tired?
 
 ---
 

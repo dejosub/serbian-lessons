@@ -8,6 +8,8 @@ Whenever a new lesson is created, generate all three publication formats in that
 2. A formatted, self-contained HTML slide deck named `presentation.html`.
 3. A formatted PDF slide deck named `lesson-NN-slides.pdf`, exported from `presentation.html`.
 
+Whenever a new lesson is generated, also create an empty session-notes file `notes/lesson-NN.txt` for it if one does not already exist.
+
 Do not consider a new lesson complete until all three formats exist and the PDF export has been verified as a non-empty file. Keep the Markdown and HTML content synchronized. Use two-digit lesson numbers in file and directory names.
 
 Every slide PDF must contain exactly one slide per PDF page. Slide HTML must define an explicit print page size, zero print margins, a fixed slide width and height, and a forced page break after each slide. If slides contain photographs or other raster assets, verify after export that the images visibly render on the relevant PDF pages; file existence and non-zero size alone are not sufficient.
@@ -23,6 +25,8 @@ After any change that can affect flash cards—including creating, revising, ren
 ## Lesson design
 
 Generate at most three lessons ahead of the last lesson taught (the last `notes/lesson-NN.txt` with content); the session notes adjust upcoming lessons as the course goes. Plan about 15 slides for a 60-minute lesson.
+
+Every lesson has exactly one slide dedicated to grammar, titled `Граматика · Gramatika: ...`, following the grammar track in `curriculum.md`. It formalizes language the learner already uses, one topic at a time, singular before plural, without full paradigms. The student handout repeats it and carries the cumulative grammar map, adding one row per lesson; the teacher guide gives it about 5 minutes.
 
 ## Family language preferences
 

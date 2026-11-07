@@ -33,16 +33,17 @@ Point to things in the room. The teacher names the color; you repeat it, then yo
 
 ---
 
-# Three endings
+# Граматика · *Gramatika*: род и слагање · *rod i slaganje*
 
-| он | она | оно |
-|---|---|---|
-| Џемпер је **плав**. | Јакна је **плава**. | Небо је **плаво**. |
-| Сир је **бео**. | Кафа је **црна**. | Дрвеће је **зелено**. |
+| | он | она | оно |
+|---|---|---|---|
+| ко? шта? | Џемпер је **плав**. | Јакна је **плава**. | Небо је **плаво**. |
+| | Сир је **бео**. | Кафа је **црна**. | Дрвеће је **зелено**. |
+| акузатив | Носим **плави** џемпер. | Носим **плаву** јакну. | Волим **плаво** небо. |
 
-**Браон** and **розе** never change. Before a masculine noun you often hear **-и**: **плави џемпер**.
+The adjective takes the noun’s gender (**род**). In the accusative only feminine changes, **-а → -у**—like **кафу** in Lesson 10. **Браон** and **розе** never change.
 
-<div class="latin-help"><b>Latin help:</b> Džemper je plav · Jakna je plava · Nebo (sky) je plavo · Sir je beo · Kafa je crna · Drveće (trees) je zeleno · plavi džemper</div>
+<div class="latin-help"><b>Latin help:</b> Džemper je plav · Jakna je plava · Nebo (sky) je plavo · Sir je beo · Kafa je crna · Drveće (trees) je zeleno · Nosim plavi džemper · Nosim plavu jaknu · Volim plavo nebo</div>
 
 ---
 
@@ -51,17 +52,6 @@ Point to things in the room. The teacher names the color; you repeat it, then yo
 **црн** · *crn* · **црвен** · *crven* · **Србија** · *Srbija* · **српски** · *srpski* · **четрдесет** · *četrdeset*
 
 In Serbian, **р** can carry a syllable by itself: **цр-вен**, **ср-пски**, **Ср-би-ја**. Don’t add a vowel—let the **р** do the work.
-
----
-
-# Sound check
-
-Hard **ч / џ** or soft **ћ / ђ**? The teacher says single words; you point.
-
-наранџаст · *narandžast* · смеђ · *smeđ* (brown) · одећа · *odeća*<br>
-џеп · *džep* (pocket) · чарапе · *čarape* (socks) · Божић · *Božić*
-
-Then you say three; the teacher points.
 
 ---
 

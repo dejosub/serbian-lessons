@@ -16,14 +16,14 @@ In a two-minute planning conversation, Amaya can ask about someone’s schedule,
 1. **Warm-up — 4 min:** Prices, ages, and feelings; push with `Зашто?`
 2. **The week — 5 min:** Say the days with a calendar in front of you; ask `Који је данас дан?` and `Шта радиш у ...?` Point out `субота → у суботу` once.
 3. **When? — 4 min:** True sentences with `јуче`, `сутра`, `поподне`, `увече`, and `викенд`.
-4. **Sound sort — 2 min:** Single words only, print hidden first. No sentences or tongue twisters.
+4. **Grammar slide: the accusative — 5 min:** Name it from what she already says: `Волим кафу`, `једну сестру`, `у суботу`. She makes three true sentences with `Волим ...`, `Имам ...`, and `У ...` + day; mention `брата` once. Add the row to the grammar map; singular only.
 5. **Dialogue — 4 min:** Listen with print hidden; then role-switch and change the event, day, and time.
-6. **Make a plan — 4 min:** Propose, accept, decline, counterpropose.
+6. **Make a plan — 5 min:** Propose, accept, decline, counterpropose.
 7. **Months and birthdays — 4 min:** `Када ти је рођендан? — У ...` for everyone in the family.
 8. **Family holidays — 3 min:** Tell the real story of your slava in simple Serbian.
 9. **Reading Baka’s message — 6 min:** Latin help covers the long words. Read once for the event, once for the options.
 10. **Discussion — 4 min**
-11. **Scenarios — 18 min:** Find a time (busy-week cards), Call Baka with the `бако` reply, and Birthday detective if time remains.
+11. **Scenarios — 14 min:** Find a time (busy-week cards), Call Baka with the `бако` reply, and Birthday detective if time remains.
 12. **Exit — 2 min**
 
 ## Push moves
@@ -34,11 +34,11 @@ In a two-minute planning conversation, Amaya can ask about someone’s schedule,
 
 ## Boundaries
 
-`у` + day and `у` + month are chunks. Name the accusative (days) and locative (months) only if she asks; do not tabulate. Accept `у субота` once, then recast. The vocative `бако` is for recognition and one useful phrase, not a new topic.
+The accusative is the grammar focus: name it, singular only. `у` + month stays a chunk; call it the locative only as a preview of Lesson 13. Accept `у субота` once, then recast. The vocative `бако` is for recognition and one useful phrase, not a new topic.
 
 ## Script and pronunciation
 
-Primarily Cyrillic; every day, month, and plan phrase has its Latin next to it on the slide, and long words in the reading are in Latin at the bottom. Model question rhythm on `Када?`, `У колико сати?`, and `Хоћеш ли да идемо?`; let the voice rise on the important word. The sound sort uses single words only—no tongue twisters.
+Primarily Cyrillic; every day, month, and plan phrase has its Latin next to it on the slide, and long words in the reading are in Latin at the bottom. Model question rhythm on `Када?`, `У колико сати?`, and `Хоћеш ли да идемо?`; let the voice rise on the important word.
 
 ## Session note for Lesson 11
 

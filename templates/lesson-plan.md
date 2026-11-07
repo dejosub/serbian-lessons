@@ -22,9 +22,9 @@ Limit to 10–15 useful items. Show Latin, Cyrillic, English, and a brief usage 
 
 One focused contrast or feature with listen-and-repeat examples.
 
-## Pattern
+## Grammar slide
 
-Explain one pattern from examples. Avoid a full paradigm unless it directly helps the outcome.
+Exactly one slide titled `Граматика · Gramatika: ...`, taken from the grammar track in `curriculum.md`. Formalize one pattern the learner already uses; avoid a full paradigm. Add one row to the cumulative grammar map in the handout.
 
 ## Practice
 

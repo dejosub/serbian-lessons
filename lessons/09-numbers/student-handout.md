@@ -32,10 +32,6 @@ Two patterns do most of the work: `-наест` for 11–19 and `-десет` fo
 
 Phone numbers are said in small groups: `064 123 45 67` → `нула шездесет четири · сто двадесет три · четрдесет пет · шездесет седам`.
 
-## Hard ч, soft ћ
-
-The teacher says single words; point to `ч` or `ћ`: `четири · četiri`, `четрнаест · četrnaest`, `четрдесет · četrdeset`, `ћерка · ćerka`, `хоћу · hoću`, `кућа · kuća`.
-
 ## Age and family
 
 - `Колико имаш година? · Koliko imaš godina?` — How old are you?
@@ -88,7 +84,7 @@ The teacher says single words; point to `ч` or `ћ`: `четири · četiri`,
 
 `Продавац` loses its `а` just like `љубимац`: `продавац → продавца`.
 
-## Notice: numbers change the noun
+## Grammar — the genitive · генитив
 
 | 1 | 2, 3, 4 | 5 and up |
 |---|---|---|
@@ -96,7 +92,15 @@ The teacher says single words; point to `ч` or `ћ`: `четири · četiri`,
 | једна јабука | две јабуке | пет јабука |
 | једна година | две године | тридесет година |
 
-`Два` goes with masculine nouns, `две` with feminine ones. Notice the pattern in real prices; there is no need to memorize a table today.
+After a number, the noun is in the genitive, the “of” case. After `2, 3, 4` it is genitive singular (`динара`, `јабуке`); from `5` up it is genitive plural (`динара`, `јабука`). `Два` goes with masculine nouns, `две` with feminine ones. You already use the genitive after small words: `пре посла · pre posla`, `после ручка · posle ručka`, `Колико година?` Say real prices; there is no need to memorize a table.
+
+### Grammar map
+
+This map grows by one row each lesson.
+
+| Lesson | Pattern | Answers | You already say |
+|---|---|---|---|
+| 9 | генитив · *genitiv* (genitive) | колико? · after a number, `пре`, `после`, `до` | `два динара`, `пет јабука`, `после ручка` |
 
 ## Reading — Morning at the market
 

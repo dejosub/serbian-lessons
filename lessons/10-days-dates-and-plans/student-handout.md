@@ -26,13 +26,32 @@ Ask how much something costs where your partner lives, how old someone in their 
 
 `Који је данас дан? — Данас је уторак.` Days are not capitalized. `Недеља` means both Sunday and week: `следеће недеље` — next week. `Викенд · vikend` — weekend; `за викенд` — on the weekend.
 
-After `у`, days ending in `-а` change to `-у` (`субота → у суботу`); the others stay the same. This is the same accusative ending as `једну сестру` in Lesson 3.
-
 ## When?
 
 `Када? · Kada?` — When? · `јуче · juče` — yesterday · `данас · danas` — today · `сутра · sutra` — tomorrow · `ујутру · ujutru` — in the morning · `поподне · popodne` — in the afternoon · `увече · uveče` — in the evening
 
 > Сутра поподне радим. Јуче увече сам свирала бас.
+
+## Grammar — the accusative · акузатив
+
+The accusative answers `шта? / кога?` (what? / whom?) after verbs such as `волим`, `имам`, `пијем`, and it follows `у` with days.
+
+| | Dictionary form | Accusative |
+|---|---|---|
+| feminine `-а → -у` | `кафа`, `сестра`, `субота` | `Волим кафу.` `Имам сестру.` `у суботу` |
+| masculine thing — no change | `сир`, `петак` | `Волим сир.` `у петак` |
+| masculine person or animal — add `-а` | `брат` | `Имам брата.` |
+
+Neuter nouns do not change either. `у августу` looks similar but is a different case, the locative (Lesson 13).
+
+### Grammar map
+
+This map grows by one row each lesson.
+
+| Lesson | Pattern | Answers | You already say |
+|---|---|---|---|
+| 9 | генитив · *genitiv* (genitive) | колико? · after a number, `пре`, `после`, `до` | `два динара`, `пет јабука`, `после ручка` |
+| 10 | акузатив · *akuzativ* (accusative) | шта? кога? · `у` + day | `Волим кафу.`, `Имам сестру.`, `у суботу` |
 
 ## Months
 
@@ -43,10 +62,6 @@ After `у`, days ending in `-а` change to `-у` (`субота → у субо�
 `Када ти је рођендан? · Kada ti je rođendan?` — When is your birthday? · `Срећан рођендан! · Srećan rođendan!` — Happy birthday!
 
 Optional enrichment: exact dates use ordinal numbers—`петнаестог августа` (on 15 August). Recognize them; we will practice them later.
-
-## Sound sort
-
-The teacher says single words; point to `ч · ћ · џ · ђ`: `четвртак · četvrtak`, `ручак · ručak`, `Божић · Božić`, `рођендан · rođendan`, `хоћеш · hoćeš`, `Ђурђевдан · Đurđevdan` (St George’s Day, 6 May).
 
 ## Dialogue — Friday night
 

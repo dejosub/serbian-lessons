@@ -17,15 +17,14 @@ In a market role-play, Amaya can ask at least three prices, buy two items in spe
 2. **Numbers 0–10 — 4 min:** Count up, down, and by twos. Point at fingers or objects at random; speed matters more than spelling.
 3. **11–100 patterns — 6 min:** Show `-наест` and `-десет`, then play number ping-pong: you say a number, Amaya says the next one; switch to tens. Add `сто`, `двеста`, `триста`, `хиљада`.
 4. **Listening — 5 min:** Dictate your hidden prices and phone numbers; Amaya writes digits only. Then she dictates three to you. Read phone numbers in groups.
-5. **Hard ч, soft ћ — 2 min:** Single words only, print hidden first. No sentences or tongue twisters.
-6. **Age and family numbers — 4 min:** Ask and answer `Колико имаш година?` and `Колико имаш браће и сестара?` about real people. Use `Ви` once.
-7. **Dialogue at the market — 4 min:** Listen with print hidden for the price and items; switch roles.
-8. **Market phrases — 2 min**
-9. **Numbers change the noun — 2 min:** Point out `два динара / две јабуке / пет јабука`. Name it as a pattern, not a rule to drill.
-10. **Reading in Cyrillic — 6 min:** Latin help covers the long words. Read once for the story, once for the numbers.
-11. **Discussion — 5 min:** Include `Лепо говорите српски! — Хвала, још учим.`
-12. **Scenarios — 14 min:** Market stall, then a new friend.
-13. **Exit — 2 min**
+5. **Age and family numbers — 4 min:** Ask and answer `Колико имаш година?` and `Колико имаш браће и сестара?` about real people. Use `Ви` once.
+6. **Dialogue at the market — 4 min:** Listen with print hidden for the price and items; switch roles.
+7. **Market phrases — 2 min**
+8. **Grammar slide: the genitive — 5 min:** Name the genitive as the “of” case: after `2, 3, 4` genitive singular, from `5` genitive plural. Connect it to `пре посла`, `после ручка`, and `Колико година?` from earlier lessons. She says three real prices (one each with 1, 2–4, and 5+) and you recast once. Start the grammar map in the handout; no full paradigm.
+9. **Reading in Cyrillic — 6 min:** Latin help covers the long words. Read once for the story, once for the numbers.
+10. **Discussion — 5 min:** Include `Лепо говорите српски! — Хвала, још учим.`
+11. **Scenarios — 13 min:** Market stall, then a new friend.
+12. **Exit — 2 min**
 
 ## Push moves
 
@@ -38,11 +37,11 @@ At the market stall, add complications:
 
 ## Boundaries
 
-Numbers are the new language; Latin help stays on every slide that introduces them. Accept `два/две` or noun-ending slips if the number is clear—correct them once in a recast and move on. Teach `година/године/годину` only through the ages that come up.
+Numbers are the new language; Latin help stays on every slide that introduces them. The genitive after numbers is the grammar focus: recast `два/две` and noun-ending slips once, then move on if the number is clear. Teach `година/године/годину` only through the ages that come up.
 
 ## Script and pronunciation
 
-Primarily Cyrillic; every number word and new phrase has its Latin next to it on the slide, and long words in the reading are in Latin at the bottom. The sound check uses single words only—no tongue twisters. Model number stress by repeating natural groups (`шездесет четири`, `сто педесет`) rather than single digits. `четрдесет` previews the vowel-less `р` that appears again in Lesson 11.
+Primarily Cyrillic; every number word and new phrase has its Latin next to it on the slide, and long words in the reading are in Latin at the bottom. Model number stress by repeating natural groups (`шездесет четири`, `сто педесет`) rather than single digits. `четрдесет` previews the vowel-less `р` that appears again in Lesson 11.
 
 ## Session note for Lesson 10
 

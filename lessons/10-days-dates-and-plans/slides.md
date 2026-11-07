@@ -40,18 +40,21 @@ Ask how much something costs where your partner lives, how old someone in their 
 
 > Шта радиш у суботу? — У суботу учим, а у недељу смо код баке и деде.
 
--а → -у after **у**: **субота → у суботу**. The other days stay the same.
-
 ---
 
-# Sound sort: the calendar
+# Граматика · *Gramatika*: акузатив · *akuzativ*
 
-The teacher says single words; you point to **ч · ћ · џ · ђ**.
+The **accusative** (акузатив) answers **шта? / кога?** · *šta? / koga?* — what? / whom?—and **у** + day.
 
-четвртак · *četvrtak* · ручак · *ručak* · Божић · *Božić*<br>
-рођендан · *rođendan* · хоћеш · *hoćeš* · Ђурђевдан · *Đurđevdan* (St George’s Day)
+| | ко? шта? | акузатив |
+|---|---|---|
+| feminine **-а → -у** | кафа · сестра · субота | Волим кафу. · Имам сестру. · у суботу |
+| masculine thing: no change | сир · петак | Волим сир. · у петак |
+| masculine person: **+ а** | брат | Имам брата. |
 
-Then you say three; the teacher points.
+**у августу** looks similar, but it is another case (locative)—coming in Lesson 13.
+
+<div class="latin-help"><b>Latin help:</b> ko? šta? · Volim kafu · Imam sestru · u subotu · Volim sir · u petak · Imam brata · u avgustu</div>
 
 ---
 

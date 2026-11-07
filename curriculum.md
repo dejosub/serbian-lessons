@@ -15,11 +15,27 @@ The first six lessons form the starter course. Lessons are developed in small ba
 | 9 | Use numbers for ages, family, phone numbers, and market purchases | cardinal numbers; `koliko`; number + noun chunks | number stress and connected groups; primarily Cyrillic with Latin for numbers |
 | 10 | Talk about days, months, birthdays, and family holidays; make, decline, and agree on a plan | `u subotu`, `u avgustu`; `hoćeš li da idemo`, `možemo`; vocative `bako` | question rhythm; reading a family message in Cyrillic |
 | 11 | Describe colors of clothes, food, and places; shop for clothes; ask yes/no questions to identify objects | color adjectives with masculine, feminine, and neuter agreement; `nosim` + accusative | vowel-less `r`; primarily Cyrillic |
-| 12 (proposed) | Communicate in a school or learning setting: identify materials, discuss subjects, and ask for or offer help | books, pens/pencils, lessons, classroom; `učim/predajem`; student/teacher language | classroom instructions and natural question rhythm |
-| 13 (proposed) | Say where people live and where objects and familiar places are | `u` + location chunks; `gde` review | primarily Cyrillic; read real signs in both scripts |
+| 12 (proposed) | Communicate in a school or learning setting: identify materials, discuss subjects, and ask for or offer help | books, pens/pencils, lessons, classroom; `učim/predajem`; present-tense verb groups | classroom instructions and natural question rhythm |
+| 13 (proposed) | Say where people live and where objects and familiar places are | locative with `u/na` + place; `gde` review | primarily Cyrillic; read real signs in both scripts |
 | 14 (proposed) | Talk briefly about yesterday with more independence | consolidate and extend the past tense | unstressed helper forms |
 | 15 (proposed) | Participate naturally at a family meal | offers, requests, preferences, and politeness | natural reductions |
 | 16 (proposed) | Hold a five-minute family conversation across familiar topics | consolidation and repair strategies | both scripts; assessment |
+
+## Grammar track
+
+From Lesson 9, every lesson has exactly one grammar slide, titled `Граматика · Gramatika: ...`. Amaya is a linguist and has asked for grammar since Lesson 4; by Lesson 8 she had met gender, nominative vs. accusative, the genitive, and past-tense chunks informally. The slide formalizes language she already uses rather than introducing new forms: use it in the lesson, notice the pattern, name it, then use it again in conversation. Singular comes before plural; cases are taught by function (what?, where?, of/after) rather than as full paradigms. The handout carries a cumulative grammar map that gains one row per lesson. Correct only the current grammar focus during speaking.
+
+| Lesson | Grammar slide | Why here |
+|---|---|---|
+| 9 | Genitive after numbers (`два динара`, `пет јабука`); link to `пре/после` | Numbers require it |
+| 10 | Accusative, singular: object and `у` + day (`Волим кафу`, `у суботу`, `брата`) | Most familiar case, used since Lesson 4 |
+| 11 | Gender and adjective agreement; adjective in the accusative (`плаву јакну`) | Colors are mostly agreement |
+| 12 | Present-tense verb groups `-ам / -им / -ем` | School: `учим`, `читам`, `пишем` |
+| 13 | Locative with `у/на` + place | Location lesson |
+| 14 | Past tense formally (`сам/си/је` + `-о/-ла`) | Expanded past narration |
+| later | Future with `ћу`; dative (`мени је`, `дајте ми`); instrumental (`са`); genitive in full; plurals | As topics call for them |
+
+The vocative (`бако`) and verbal aspect stay recognition-only for now.
 
 ## Adaptations from session notes
 
@@ -37,6 +53,8 @@ After Lesson 7, which reached slide 12 of 19 in one session (unusually, much of 
 - every new word or phrase on a slide shows its Latin beside it (`среда · sreda — Wednesday`); the Latin-help footer stays for long words in readings
 - no tongue twisters or sound sentences; hard/soft practice is a short check of single words, by ear first, with Latin beside each word
 - Lesson 8 opens with the unfinished Lesson 7 food scale and Baka’s-table scenario
+
+Lesson 8 (15 slides) finished in exactly one hour, confirming the 15-slide plan. The notes also said the `ч/ћ` and `џ/ђ` pairs need no further practice, so Lessons 9–11 drop their sound checks and give the time to conversation; Lesson 11 keeps the vowel-less `р`.
 
 ## Proposed ordering rationale
 

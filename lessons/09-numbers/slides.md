@@ -50,17 +50,6 @@ Phone numbers in Serbia are said in small groups: **064 · 123 · 45 · 67**
 
 ---
 
-# Hard ч, soft ћ — numbers edition
-
-The teacher says single words; you point to **ч** or **ћ**.
-
-**ч:** четири · *četiri* · четрнаест · *četrnaest* · четрдесет · *četrdeset*<br>
-**ћ:** ћерка · *ćerka* · хоћу · *hoću* · кућа · *kuća*
-
-Then you say three; the teacher points.
-
----
-
 # How old? How many?
 
 **Колико имаш година?** · *Koliko imaš godina?* — How old are you?<br>
@@ -99,15 +88,20 @@ How much are the apples? What else does Amaya buy?
 
 ---
 
-# Notice: numbers change the noun
+# Граматика · *Gramatika*: генитив · *genitiv*
 
 | 1 | 2, 3, 4 | 5 and up |
 |---|---|---|
-| један динар | два динара | пет динара |
-| једна јабука | две јабуке | пет јабука |
-| једна година | две године | тридесет година |
+| један динар | два динар**а** | пет динар**а** |
+| једна јабука | две јабук**е** | пет јабук**а** |
+| једна година | две годин**е** | тридесет годин**а** |
 
-**два** динара but **две** јабуке. Don’t memorize a table—say real prices, and the endings will come.
+After a number the noun is in the **genitive** (генитив)—the “of” case: *two of dinar*.<br>
+**2, 3, 4** → genitive singular · **5 and up** → genitive plural · **два** + masculine, **две** + feminine
+
+You already know it: **пре посла** · **после ручка** · **Колико година?**
+
+<div class="latin-help"><b>Latin help:</b> dva dinara · dve jabuke · pet jabuka · trideset godina · pre posla (before work) · posle ručka (after lunch) · Koliko godina?</div>
 
 ---
 

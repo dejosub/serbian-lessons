@@ -33,21 +33,29 @@ Ask about your partner’s weekend plans—day, time, and who with—and how muc
 
 `Плав` also means blond: `плава коса` — blond hair. `Бео` is irregular: `бео џемпер`, but `бела мајица`.
 
-## Three endings
+## Grammar — gender and agreement · род и слагање
+
+An adjective takes the gender (`род`) of its noun:
 
 - `Џемпер је плав.` — masculine, no ending
 - `Јакна је плава.` — feminine, `-а`
 - `Небо је плаво.` — neuter, `-о`; also `место`, `дрвеће`
 
-Before a masculine noun you will often hear `-и`: `плави џемпер`, `сиви џемпер`. After `носим`, feminine `-а` becomes `-у`, just like `једну сестру`: `Носим плаву јакну.`
+Before a masculine noun you will often hear `-и`: `плави џемпер`, `сиви џемпер`. After `носим`, feminine `-а` becomes `-у`, just like `кафу` and `сестру` in Lesson 10: `Носим плаву јакну.` Masculine things and neuter nouns do not change: `Носим плави џемпер.` `Волим плаво небо.`
+
+### Grammar map
+
+This map grows by one row each lesson.
+
+| Lesson | Pattern | Answers | You already say |
+|---|---|---|---|
+| 9 | генитив · *genitiv* (genitive) | колико? · after a number, `пре`, `после`, `до` | `два динара`, `пет јабука`, `после ручка` |
+| 10 | акузатив · *akuzativ* (accusative) | шта? кога? · `у` + day | `Волим кафу.`, `Имам сестру.`, `у суботу` |
+| 11 | род и слагање · *rod i slaganje* (gender and agreement) | which ending? | `плав џемпер`, `плава јакна`, `плаво небо`, `Носим плаву јакну.` |
 
 ## Vowel-less words
 
 `црн · crn`, `црвен · crven`, `Србија · Srbija`, `српски · srpski`, `четрдесет · četrdeset` — here `р` carries the syllable by itself: `цр-вен`, `ср-пски`, `Ср-би-ја`. Do not add a vowel.
-
-## Sound check
-
-Hard `ч/џ` or soft `ћ/ђ`? The teacher says single words: `наранџаст · narandžast`, `смеђ · smeđ` (another word for brown), `одећа · odeća`, `џеп · džep` (pocket), `чарапе · čarape` (socks), `Божић · Božić`. Then you say three and the teacher points.
 
 ## Dialogue — What should I wear?
 

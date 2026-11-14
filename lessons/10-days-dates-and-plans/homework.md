@@ -7,6 +7,8 @@ Choose three activities, about ten minutes each.
 3. **Calendar in Serbian:** For one week, say the day aloud every morning: `Данас је ...` Add one plan: `Увече ...`
 4. **Conversation with Marko:** Plan something real for next week. Ask `Шта радиш у ...?`, propose a day and time, and make Marko say no at least once. Agree on a plan and finish with `Важи!`
 5. **Family holidays:** Ask Marko `Када је ваша слава?` and `Шта радите за Божић?` Note three new facts and retell them in Serbian.
+6. **Игра коло:** Listen to the song (https://www.youtube.com/watch?v=NPcCZ5-8doI), then read the rhyme aloud twice, the second time along with the recording. Then say in Serbian which day you like and what you do on it.
+7. **From Lesson 9 — a new friend with Marko:** Marko is a friend you meet at a concert. Find out his name, what he likes, how many brothers and sisters he has, and his phone number; read the number back in groups.
 
 ## Self-check
 

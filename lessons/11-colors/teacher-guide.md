@@ -2,7 +2,7 @@
 
 ## Target
 
-Amaya can describe the colors of clothes, food, and places with correct masculine, feminine, and neuter endings in common phrases; complete a polite clothes-shop exchange; and identify a hidden object by asking yes/no questions.
+Amaya can describe the colors of clothes, food, and places with correct masculine, feminine, and neuter endings in common phrases; complete a polite clothes-shop exchange; and say what people are wearing in a family photo.
 
 ## Before the lesson
 
@@ -14,16 +14,24 @@ Amaya can describe the colors of clothes, food, and places with correct masculin
 
 ## Sequence — 60 minutes
 
-1. **Cumulative conversation — 6 min:** Weekend plans, times, and prices; push with `А шта још?`
-2. **Color hook — 5 min:** Touch objects and ask `Које је боје?`; Amaya repeats, then asks you.
-3. **Colors, then grammar slide: gender and agreement — 7 min:** Go through the swatches; then name `род` and `слагање` and sort real objects into `-`, `-а`, `-о`. Point to the accusative row and connect `плаву јакну` to `кафу` from Lesson 10. Add the row to the grammar map. Mention `плави џемпер` once; do not drill definite forms.
-4. **Vowel-less `р` — 3 min:** `црн, црвен, Србија, српски, четрдесет`; say `цр-вен` without an inserted vowel.
-5. **Dialogue and role switch — 5 min:** Listen with print hidden: what is she wearing in the end? Switch roles and choose different clothes.
-6. **Clothes and wearing — 5 min:** `Шта носиш данас? — Носим ...` about both of you; notice `плаву јакну`.
-7. **Reading in Cyrillic — 6 min:** Latin help covers the long words. Read once for the place and season, once for the colors.
-8. **Discussion — 6 min:** Look at the photo together and decide what color the Danube is.
-9. **Scenarios — 14 min:** Clothes shop with one problem; then What am I thinking of? with both roles.
-10. **Exit — 3 min**
+1. **Cumulative conversation — 5 min:** Weekend plans, times, and prices; push with `А шта још?` Listen for the accusative from Lesson 10.
+2. **Color hook — 4 min:** Touch objects and ask `Које је боје?`; Amaya repeats, then asks you.
+3. **Colors — 4 min:** Go through the swatches, then `светло-` and `тамно-`.
+4. **Grammar slide: gender and agreement — 12 min:** Name `род` and `слагање`, then work through the example bank one noun at a time: she gives each real object a color with the right ending (`-`, `-а`, `-о`). Finish with the accusative row: the jacket is what the wearing happens to, so it is the object, as `кафу` was in Lesson 10. Add the row to the grammar map. Mention `плави џемпер` once; do not drill definite forms.
+5. **Vowel-less `р` — 3 min:** `црн, црвен, Србија, српски, четрдесет`; say `цр-вен` without an inserted vowel.
+6. **Dialogue and role switch — 5 min:** Listen with print hidden: what is she wearing in the end? Switch roles and choose different clothes.
+7. **Clothes and wearing — 4 min:** `Шта носиш данас? — Носим ...` about both of you; notice `плаву јакну`.
+8. **Reading in Cyrillic — 6 min:** Latin help covers the long words. Read once for the place and season, once for the colors.
+9. **Discussion — 5 min:** Look at the photo together and decide what color the Danube is.
+10. **Scenarios — 9 min:** Clothes shop with one problem; the family photo if time remains. What am I thinking of? is in the handout and homework.
+11. **Exit — 3 min**
+
+## Grammar example bank — gender and agreement
+
+- masculine, no ending: `џемпер`, `сир`, `хлеб`, `пасуљ`, `парк`, `пас`, `чај`, `Дунав`
+- feminine, `-а`: `јакна`, `кафа`, `вода`, `пита`, `сарма`, `јабука`, `мачка`, `кућа`
+- neuter, `-о` or `-е`: `небо`, `место`, `дрвеће`
+- accusative, only feminine changes: `Носим плаву јакну.` `Имам белу мачку.` `Волим зелени чај.`
 
 ## Push moves
 

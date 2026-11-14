@@ -24,9 +24,9 @@ After any change that can affect flash cards—including creating, revising, ren
 
 ## Lesson design
 
-Generate at most three lessons ahead of the last lesson taught (the last `notes/lesson-NN.txt` with content); the session notes adjust upcoming lessons as the course goes. Plan about 15 slides for a 60-minute lesson.
+Generate at most three lessons ahead of the last lesson taught (the last `notes/lesson-NN.txt` with content); the session notes adjust upcoming lessons as the course goes. Plan about 13–14 slides for a 60-minute lesson; the grammar slide alone takes 10–12 minutes.
 
-Every lesson has exactly one slide dedicated to grammar, titled `Граматика · Gramatika: ...`, following the grammar track in `curriculum.md`. It formalizes language the learner already uses, one topic at a time, singular before plural, without full paradigms. The student handout repeats it and carries the cumulative grammar map, adding one row per lesson; the teacher guide gives it about 5 minutes.
+Every lesson has exactly one slide dedicated to grammar, titled `Граматика · Gramatika: ...`, following the grammar track in `curriculum.md`. It formalizes language the learner already uses, one topic at a time, singular before plural, without full paradigms. Whenever a case is explained, lead with the role the noun usually plays in the sentence (for example, the accusative is the direct object, the person or thing the action happens to) and give the case question (`шта? / кога?`) only as a secondary hint: a learner cannot reliably hear which question a word answers. The student handout repeats it and carries the cumulative grammar map, adding one row per lesson; the teacher guide gives it 10–12 minutes and an example bank of 10–15 familiar words to work through one at a time.
 
 ## Family language preferences
 

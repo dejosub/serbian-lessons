@@ -8,9 +8,9 @@
 - make a plan, accept it, decline politely, and suggest another time
 - understand and answer a short message from Baka
 
-## Warm-up
+## Warm-up — at the market
 
-Ask how much something costs where your partner lives, how old someone in their family is, and how they feel today. Push once with `Зашто?`
+Shop for Sunday lunch with `1.000 динара`: `јабуке 150 дин./кг`, `сир 900 дин./кг`, `хлеб 80 дин.`, `пита 250 дин.`, `кафа 400 дин.` Ask at least three prices before you buy: `Колико кошта ...? · Koliko košta ...?`, `Дајте ми ..., молим. · Dajte mi ..., molim.`, `То је све. · To je sve.`
 
 ## The week
 
@@ -26,6 +26,36 @@ Ask how much something costs where your partner lives, how old someone in their 
 
 `Који је данас дан? — Данас је уторак.` Days are not capitalized. `Недеља` means both Sunday and week: `следеће недеље` — next week. `Викенд · vikend` — weekend; `за викенд` — on the weekend.
 
+## Игра коло · Igra kolo — a children’s rhyme
+
+> Игра коло наоколо: понедељак, момак јак, коловођа лак.<br>
+> До њега је уторак. У средини реда ситно везе среда.<br>
+> Четвртак се клати, њега петак прати. А субота сама преплиће ногама.<br>
+> На крају у венцу недеља на кецу. Откад су се састали, нису с колом престали.
+
+*Igra kolo naokolo: ponedeljak, momak jak, kolovođa lak.*<br>
+*Do njega je utorak. U sredini reda sitno veze sreda.*<br>
+*Četvrtak se klati, njega petak prati. A subota sama prepliće nogama.*<br>
+*Na kraju u vencu nedelja na kecu. Otkad su se sastali, nisu s kolom prestali.*
+
+Listen to it sung: [www.youtube.com/watch?v=NPcCZ5-8doI](https://www.youtube.com/watch?v=NPcCZ5-8doI)
+
+The kolo goes round and round: Monday, a strong young man, is the light-footed leader. Next to him is Tuesday; in the middle of the line, Wednesday does small, fancy steps. Thursday sways and Friday follows him. Saturday, on her own, crosses her feet. Last in the ring is Sunday. Since they got together, they haven’t stopped dancing.
+
+| Serbian | Latin | English |
+|---|---|---|
+| коло · наоколо | kolo · naokolo | circle dance · round and round |
+| момак јак | momak jak | a strong young man |
+| коловођа лак | kolovođa lak | a light-footed leader—the first dancer in the kolo |
+| до њега · у средини реда | do njega · u sredini reda | next to him · in the middle of the line |
+| ситно везе | sitno veze | does small, fancy steps |
+| се клати · прати | se klati · prati | sways · follows |
+| преплиће ногама | prepliće nogama | crosses her feet |
+| у венцу · на кецу | u vencu · na kecu | in the ring · the last dancer in the kolo |
+| нису престали | nisu prestali | they haven’t stopped |
+
+Notice that the rhyme makes `понедељак`, `уторак`, `четвртак`, and `петак` boys (`он`) and `среда`, `субота`, and `недеља` girls (`она`)—the same gender you will meet with colors in Lesson 11. These words are for enjoying the rhyme, not for memorizing.
+
 ## When?
 
 `Када? · Kada?` — When? · `јуче · juče` — yesterday · `данас · danas` — today · `сутра · sutra` — tomorrow · `ујутру · ujutru` — in the morning · `поподне · popodne` — in the afternoon · `увече · uveče` — in the evening
@@ -34,24 +64,25 @@ Ask how much something costs where your partner lives, how old someone in their 
 
 ## Grammar — the accusative · акузатив
 
-The accusative answers `шта? / кога?` (what? / whom?) after verbs such as `волим`, `имам`, `пијем`, and it follows `у` with days.
+The accusative marks the **direct object**: the person or thing the action happens to. In `Амаја воли кафу`, Amaya does the loving (subject, dictionary form), and the coffee is what the loving happens to (object, accusative). Verbs such as `волим`, `имам`, `носим`, and `Дајте ми ...` usually take one. After `у`, a day in the accusative says *when*: `у суботу`. The question `шта? / кога?` (what? / whom?) is only a hint.
 
-| | Dictionary form | Accusative |
-|---|---|---|
-| feminine `-а → -у` | `кафа`, `сестра`, `субота` | `Волим кафу.` `Имам сестру.` `у суботу` |
-| masculine thing — no change | `сир`, `петак` | `Волим сир.` `у петак` |
-| masculine person or animal — add `-а` | `брат` | `Имам брата.` |
+| | Singular | Accusative | Plural | Accusative |
+|---|---|---|---|---|
+| женски род · *ženski rod* — feminine | `кафа`, `сестра`, `субота` | `Волим кафу.` `Имам сестру.` `у суботу` | `јабуке` | `Дајте ми јабуке.` |
+| мушки род · *muški rod* — masculine thing | `сир`, `петак` | `Волим сир.` `у петак` | `ћевапи` | `Волим ћевапе.` |
+| мушки род — masculine person or animal | `брат`, `пас` | `Имам брата.` `Имам пса.` | `пси` | `Волим псе.` |
+| средњи род · *srednji rod* — neuter | `место` | `Волим ово место.` | `места` | `Волим ова места.` |
 
-Neuter nouns do not change either. `у августу` looks similar but is a different case, the locative (Lesson 13).
+In the singular, only feminine `-а → -у` and masculine people and animals (`+ а`) change. In the plural, only masculine changes, `-и → -е`; feminine and neuter plurals look the same as in the dictionary. `у августу` looks similar but is a different case, the locative (Lesson 13).
 
 ### Grammar map
 
 This map grows by one row each lesson.
 
-| Lesson | Pattern | Answers | You already say |
+| Lesson | Pattern | Role in the sentence | You already say |
 |---|---|---|---|
-| 9 | генитив · *genitiv* (genitive) | колико? · after a number, `пре`, `после`, `до` | `два динара`, `пет јабука`, `после ручка` |
-| 10 | акузатив · *akuzativ* (accusative) | шта? кога? · `у` + day | `Волим кафу.`, `Имам сестру.`, `у суботу` |
+| 9 | генитив · *genitiv* (genitive) | “of”: the noun after a number, or after `пре`, `после`, `до` | `два динара`, `пет јабука`, `после ручка` |
+| 10 | акузатив · *akuzativ* (accusative) | direct object: what the action happens to; `у` + day = when | `Волим кафу.`, `Имам сестру.`, `у суботу` |
 
 ## Months
 

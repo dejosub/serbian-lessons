@@ -35,15 +35,15 @@ Point to things in the room. The teacher names the color; you repeat it, then yo
 
 # Граматика · *Gramatika*: род и слагање · *rod i slaganje*
 
-| | он | она | оно |
+| | мушки род · он | женски род · она | средњи род · оно |
 |---|---|---|---|
-| ко? шта? | Џемпер је **плав**. | Јакна је **плава**. | Небо је **плаво**. |
+| subject | Џемпер је **плав**. | Јакна је **плава**. | Небо је **плаво**. |
 | | Сир је **бео**. | Кафа је **црна**. | Дрвеће је **зелено**. |
-| акузатив | Носим **плави** џемпер. | Носим **плаву** јакну. | Волим **плаво** небо. |
+| object (акузатив) | Носим **плави** џемпер. | Носим **плаву** јакну. | Волим **плаво** небо. |
 
-The adjective takes the noun’s gender (**род**). In the accusative only feminine changes, **-а → -у**—like **кафу** in Lesson 10. **Браон** and **розе** never change.
+The adjective takes the noun’s gender (**род**). In the accusative—the thing you wear or like, the object—only feminine changes, **-а → -у**—like **кафу** in Lesson 10. **Браон** and **розе** never change.
 
-<div class="latin-help"><b>Latin help:</b> Džemper je plav · Jakna je plava · Nebo (sky) je plavo · Sir je beo · Kafa je crna · Drveće (trees) je zeleno · Nosim plavi džemper · Nosim plavu jaknu · Volim plavo nebo</div>
+<div class="latin-help"><b>Latin help:</b> Džemper je plav · Jakna je plava · Nebo (sky) je plavo · Sir je beo · Kafa je crna · Drveće (trees) je zeleno · Nosim plavi džemper · Nosim plavu jaknu · Volim plavo nebo · muški / ženski / srednji rod (masculine / feminine / neuter)</div>
 
 ---
 
@@ -108,19 +108,6 @@ You need a jacket for a winter visit to Serbia.
 **Колико кошта?** · *Koliko košta?*
 
 The seller has a problem for you. Ask, compare, decide.
-
----
-
-# Scenario 2 — What am I thinking of?
-
-The teacher thinks of something at home, at the table, or at the market. Ask yes/no questions:
-
-**Да ли је велико?** · *Da li je veliko?* — Is it big?<br>
-**Да ли се једе?** · *Da li se jede?* — Can you eat it?<br>
-**Које је боје?** · *Koje je boje?* — What color is it?<br>
-**Да ли је код куће?** · *Da li je kod kuće?* — Is it at home?
-
-Find it in ten questions. Then switch roles.
 
 ---
 

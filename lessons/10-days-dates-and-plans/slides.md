@@ -10,9 +10,21 @@ paginate: true
 
 ---
 
-# Warm-up
+# Warm-up: at the market
 
-Ask how much something costs where your partner lives, how old someone in their family is, and how they feel today. Push once: **Зашто?**
+You have **1.000 динара** for Sunday lunch with Baka and Deda.
+
+| Шта? | Колико? |
+|---|---|
+| јабуке | 150 дин. / кг |
+| сир | 900 дин. / кг |
+| хлеб | 80 дин. |
+| пита | 250 дин. |
+| кафа | 400 дин. |
+
+**Колико кошта ...?** · *Koliko košta ...?* · **Дајте ми ..., молим.** · *Dajte mi ..., molim.* · **То је све.** · *To je sve.*
+
+Ask at least three prices before you buy. The seller will push back—keep asking.
 
 ---
 
@@ -32,6 +44,22 @@ Ask how much something costs where your partner lives, how old someone in their 
 
 ---
 
+# Игра коло · *Igra kolo* — a children’s rhyme
+
+> Игра коло наоколо: понедељак, момак јак, коловођа лак.<br>
+> До њега је уторак. У средини реда ситно везе среда.<br>
+> Четвртак се клати, њега петак прати. А субота сама преплиће ногама.<br>
+> На крају у венцу недеља на кецу. Откад су се састали, нису с колом престали.
+
+**Који дан води коло?** · *Koji dan vodi kolo?* — Which day leads the kolo?<br>
+**Који дан волиш? Зашто?** · *Koji dan voliš? Zašto?* — Which day do you like? Why?
+
+▶ Listen: [www.youtube.com/watch?v=NPcCZ5-8doI](https://www.youtube.com/watch?v=NPcCZ5-8doI)
+
+<div class="latin-help"><b>Latin help:</b> kolo (circle dance) · naokolo (round and round) · momak jak (a strong young man) · kolovođa lak (a light-footed leader, first in the kolo) · do njega (next to him) · u sredini reda (in the middle of the line) · sitno veze (does small, fancy steps) · se klati (sways) · prati (follows) · sama (on her own) · prepliće nogama (crosses her feet) · u vencu (in the ring) · na kecu (last in the kolo) · otkad su se sastali (since they got together) · nisu prestali (they haven’t stopped)</div>
+
+---
+
 # When?
 
 **јуче** · *juče* — yesterday · **данас** · *danas* — today · **сутра** · *sutra* — tomorrow<br>
@@ -44,17 +72,21 @@ Ask how much something costs where your partner lives, how old someone in their 
 
 # Граматика · *Gramatika*: акузатив · *akuzativ*
 
-The **accusative** (акузатив) answers **шта? / кога?** · *šta? / koga?* — what? / whom?—and **у** + day.
+The **accusative** (акузатив) is the **direct object**: the person or thing the action happens to.<br>
+Амаја (who acts) **воли** (the action) **кафу** (what it happens to). With **у** + day it says **when**: у суботу.
 
-| | ко? шта? | акузатив |
+| | једнина · singular | множина · plural |
 |---|---|---|
-| feminine **-а → -у** | кафа · сестра · субота | Волим кафу. · Имам сестру. · у суботу |
-| masculine thing: no change | сир · петак | Волим сир. · у петак |
-| masculine person: **+ а** | брат | Имам брата. |
+| женски род · feminine | кафа → **кафу** · у суботу | јабуке → **јабуке** |
+| мушки род · masculine: thing | сир → **сир** · у петак | ћевапи → **ћевапе** |
+| мушки род · masculine: person / animal | брат → **брата** | пси → **псе** |
+| средњи род · neuter | место → **место** | места → **места** |
 
-**у августу** looks similar, but it is another case (locative)—coming in Lesson 13.
+Singular: only feminine **-а → -у** and masculine people **+ а**. Plural: only masculine **-и → -е**.
 
-<div class="latin-help"><b>Latin help:</b> ko? šta? · Volim kafu · Imam sestru · u subotu · Volim sir · u petak · Imam brata · u avgustu</div>
+Who does it is never accusative; what or whom it touches is. Question hint: **шта? / кога?** · **у августу** is another case (Lesson 13).
+
+<div class="latin-help"><b>Latin help:</b> Amaja voli kafu · jednina / množina · šta? / koga? (what? / whom?) · kafu · u subotu · sir · u petak · brata · mesto · jabuke · ćevape · psi → pse (dogs) · mesta · ženski / muški / srednji rod · u avgustu</div>
 
 ---
 
@@ -100,16 +132,6 @@ What is the plan? When? What else is happening this week?
 
 ---
 
-# Family holidays
-
-**Нова година** · *Nova godina* — 1 January, the big party<br>
-**Божић** · *Božić* — 7 January, Orthodox Christmas<br>
-**слава** · *slava* — the family’s saint’s day, celebrated at home every year
-
-Ask Marko: **Када је ваша слава?** · *Kada je vaša slava?* Which saint? What do you eat? Who comes?
-
----
-
 # Read: A message from Baka
 
 > Драга Амаја,<br>
@@ -150,16 +172,6 @@ Answer her message. When you talk *to* Baka, **бака → бако**:
 Use **ти** or **Ви**—whatever you use with her. Baka will change one detail. Ask until it is clear.
 
 <div class="latin-help"><b>Latin help:</b> Draga bako · Dolazimo u jedan (we’re coming at one) · Šta da donesemo? (What should we bring?)</div>
-
----
-
-# Scenario 3 — Birthday detective
-
-Find out the birthday month of three people. Then ask about one family holiday:
-
-**Када ти је рођендан?** · *Kada ti je rođendan?*<br>
-**Када је ваша слава?** · *Kada je vaša slava?*<br>
-**Шта радите за Божић?** · *Šta radite za Božić?* — What do you do for Christmas?
 
 ---
 

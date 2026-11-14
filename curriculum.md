@@ -23,12 +23,14 @@ The first six lessons form the starter course. Lessons are developed in small ba
 
 ## Grammar track
 
-From Lesson 9, every lesson has exactly one grammar slide, titled `Граматика · Gramatika: ...`. Amaya is a linguist and has asked for grammar since Lesson 4; by Lesson 8 she had met gender, nominative vs. accusative, the genitive, and past-tense chunks informally. The slide formalizes language she already uses rather than introducing new forms: use it in the lesson, notice the pattern, name it, then use it again in conversation. Singular comes before plural; cases are taught by function (what?, where?, of/after) rather than as full paradigms. The handout carries a cumulative grammar map that gains one row per lesson. Correct only the current grammar focus during speaking.
+From Lesson 9, every lesson has exactly one grammar slide, titled `Граматика · Gramatika: ...`. Amaya is a linguist and has asked for grammar since Lesson 4; by Lesson 8 she had met gender, nominative vs. accusative, the genitive, and past-tense chunks informally. The slide formalizes language she already uses rather than introducing new forms: use it in the lesson, notice the pattern, name it, then use it again in conversation. Singular comes before plural; cases are explained by their role in the sentence (direct object, place, quantity or before/after), with the question word only as a secondary hint, rather than as full paradigms. The handout carries a cumulative grammar map that gains one row per lesson. Correct only the current grammar focus during speaking.
+
+Lesson 9 reached only its grammar slide (slide 9 of 14): working through many familiar nouns in the genitive took much of the hour, and both teacher and learner enjoyed it. From Lesson 10, the grammar slide gets 10–12 minutes with an example bank of familiar words in the teacher guide, and lessons plan 13–14 slides. Lesson 10 opens with the unfinished Lesson 9 market stall as a self-contained warm-up (without relying on the Lesson 9 reading), adds the children’s rhyme `Игра коло` for the days of the week, and moves Family holidays and Birthday detective to the handout and homework. Lesson 11 moves What am I thinking of? to the handout and homework.
 
 | Lesson | Grammar slide | Why here |
 |---|---|---|
 | 9 | Genitive after numbers (`два динара`, `пет јабука`); link to `пре/после` | Numbers require it |
-| 10 | Accusative, singular: object and `у` + day (`Волим кафу`, `у суботу`, `брата`) | Most familiar case, used since Lesson 4 |
+| 10 | Accusative, singular and plural: direct object and `у` + day (`Волим кафу`, `у суботу`, `брата`, `ћевапе`) | Most familiar case, used since Lesson 4 |
 | 11 | Gender and adjective agreement; adjective in the accusative (`плаву јакну`) | Colors are mostly agreement |
 | 12 | Present-tense verb groups `-ам / -им / -ем` | School: `учим`, `читам`, `пишем` |
 | 13 | Locative with `у/на` + place | Location lesson |

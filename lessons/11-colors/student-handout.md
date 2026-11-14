@@ -7,7 +7,7 @@
 - describe what I and other people are wearing
 - make colors agree with masculine, feminine, and neuter nouns
 - shop for clothes politely: ask for a color, try something on, and ask the price
-- ask yes/no questions to identify a hidden object
+- say what people are wearing in a family photo
 
 ## Cumulative review
 
@@ -37,9 +37,9 @@ Ask about your partner’s weekend plans—day, time, and who with—and how muc
 
 An adjective takes the gender (`род`) of its noun:
 
-- `Џемпер је плав.` — masculine, no ending
-- `Јакна је плава.` — feminine, `-а`
-- `Небо је плаво.` — neuter, `-о`; also `место`, `дрвеће`
+- `Џемпер је плав.` — мушки род · *muški rod* (masculine), no ending
+- `Јакна је плава.` — женски род · *ženski rod* (feminine), `-а`
+- `Небо је плаво.` — средњи род · *srednji rod* (neuter), `-о`; also `место`, `дрвеће`
 
 Before a masculine noun you will often hear `-и`: `плави џемпер`, `сиви џемпер`. After `носим`, feminine `-а` becomes `-у`, just like `кафу` and `сестру` in Lesson 10: `Носим плаву јакну.` Masculine things and neuter nouns do not change: `Носим плави џемпер.` `Волим плаво небо.`
 
@@ -47,11 +47,11 @@ Before a masculine noun you will often hear `-и`: `плави џемпер`, `�
 
 This map grows by one row each lesson.
 
-| Lesson | Pattern | Answers | You already say |
+| Lesson | Pattern | Role in the sentence | You already say |
 |---|---|---|---|
-| 9 | генитив · *genitiv* (genitive) | колико? · after a number, `пре`, `после`, `до` | `два динара`, `пет јабука`, `после ручка` |
-| 10 | акузатив · *akuzativ* (accusative) | шта? кога? · `у` + day | `Волим кафу.`, `Имам сестру.`, `у суботу` |
-| 11 | род и слагање · *rod i slaganje* (gender and agreement) | which ending? | `плав џемпер`, `плава јакна`, `плаво небо`, `Носим плаву јакну.` |
+| 9 | генитив · *genitiv* (genitive) | “of”: the noun after a number, or after `пре`, `после`, `до` | `два динара`, `пет јабука`, `после ручка` |
+| 10 | акузатив · *akuzativ* (accusative) | direct object: what the action happens to; `у` + day = when | `Волим кафу.`, `Имам сестру.`, `у суботу` |
+| 11 | род и слагање · *rod i slaganje* (gender and agreement) | the adjective copies the noun’s gender | `плав џемпер`, `плава јакна`, `плаво небо`, `Носим плаву јакну.` |
 
 ## Vowel-less words
 

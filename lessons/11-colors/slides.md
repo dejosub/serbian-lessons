@@ -10,9 +10,16 @@ paginate: true
 
 ---
 
-# Cumulative conversation
+# Warm-up: make a plan
 
-Ask about your partner’s weekend plans: what day, what time, and with whom. Then ask how much something costs. Push: **А шта још?**
+**Шта радиш у суботу?** · *Šta radiš u subotu?* — What are you doing on Saturday?<br>
+**Хоћеш ли да идемо ...?** · *Hoćeš li da idemo ...?* — Do you want to go ...?<br>
+**У колико сати?** · *U koliko sati?* — At what time?<br>
+**Може! / Важи!** · *Može! / Važi!* — Sure! / Deal!<br>
+**Не могу, жао ми је.** · *Ne mogu, žao mi je.* — I can’t, I’m sorry.<br>
+**Може ли у недељу?** · *Može li u nedelju?* — How about Sunday?
+
+Plan a walk, a concert, or lunch with Baka and Deda this week. Your partner says no once—suggest another day.
 
 ---
 
@@ -33,6 +40,18 @@ Point to things in the room. The teacher names the color; you repeat it, then yo
 
 ---
 
+# Одакле реч? · *Odakle reč?* — Where color words come from
+
+**црвен** · *crven* ← **црв** · *crv* — worm: red dye was once made from tiny insects.<br>
+**наранџаст** · *narandžast* ← **наранџа** · *narandža* — an orange · **љубичаст** · *ljubičast* ← **љубичица** · *ljubičica* — a violet. **-аст** · *-ast* = “like, -ish”.<br>
+**плав** · *plav* once meant “pale”—so **плава коса** · *plava kosa* is blond hair.<br>
+**светло + плав → светлоплав** · **тамно + зелен → тамнозелен**: two words joined by **-о-**.<br>
+**браон** ← German *braun* · **розе** ← French *rose*: borrowed words, so they never change.
+
+Guess first: what is **ружичаст** · *ružičast*? (**ружа** · *ruža* — a rose)
+
+---
+
 # Граматика · *Gramatika*: род и слагање · *rod i slaganje*
 
 | | мушки род · он | женски род · она | средњи род · оно |
@@ -41,7 +60,7 @@ Point to things in the room. The teacher names the color; you repeat it, then yo
 | | Сир је **бео**. | Кафа је **црна**. | Дрвеће је **зелено**. |
 | object (акузатив) | Носим **плави** џемпер. | Носим **плаву** јакну. | Волим **плаво** небо. |
 
-The adjective takes the noun’s gender (**род**). In the accusative—the thing you wear or like, the object—only feminine changes, **-а → -у**—like **кафу** in Lesson 10. **Браон** and **розе** never change.
+The adjective takes the noun’s gender (**род**). In the accusative—the thing you wear or like, the object—feminine changes, **-а → -у**, like **кафу** in Lesson 10; masculine things and neuter stay the same. **Браон** and **розе** never change.
 
 <div class="latin-help"><b>Latin help:</b> Džemper je plav · Jakna je plava · Nebo (sky) je plavo · Sir je beo · Kafa je crna · Drveće (trees) je zeleno · Nosim plavi džemper · Nosim plavu jaknu · Volim plavo nebo · muški / ženski / srednji rod (masculine / feminine / neuter)</div>
 
@@ -111,7 +130,7 @@ The seller has a problem for you. Ask, compare, decide.
 
 ---
 
-# Scenario 3 — The family photo
+# Scenario 2 — The family photo
 
 Look at a real family photo. Ask about one person:
 
@@ -123,4 +142,4 @@ Then describe one person without saying the name; your partner guesses who it is
 
 # Exit conversation
 
-Without notes: name five colors around you, describe what you are wearing, ask about a favorite color and why, and ask three questions to guess an object.
+Without notes: name five colors around you, describe what you are wearing, ask about a favorite color and why, and plan Sunday at Baka’s: day, time, and what to wear.

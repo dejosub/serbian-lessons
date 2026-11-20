@@ -64,5 +64,17 @@
         "title":  "Colors",
         "source":  "lessons/11-colors/flashcards.html",
         "version":  "d0be3a0ef222"
+    },
+    {
+        "number":  "12",
+        "title":  "School And Learning",
+        "source":  "lessons/12-school-and-learning/flashcards.html",
+        "version":  "b1f0181c2571"
+    },
+    {
+        "number":  "13",
+        "title":  "Where We Live",
+        "source":  "lessons/13-where-we-live/flashcards.html",
+        "version":  "e426e56edf35"
     }
 ]

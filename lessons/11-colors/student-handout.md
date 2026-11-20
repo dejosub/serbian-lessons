@@ -2,16 +2,27 @@
 
 ## Today I can ...
 
+- make a plan for the week: propose, say no, and agree on another day
 - name eleven colors and say light or dark
+- explain where some color words come from
 - ask what color something is and what someone’s favorite color is
 - describe what I and other people are wearing
 - make colors agree with masculine, feminine, and neuter nouns
 - shop for clothes politely: ask for a color, try something on, and ask the price
 - say what people are wearing in a family photo
 
-## Cumulative review
+## Warm-up — make a plan
 
-Ask about your partner’s weekend plans—day, time, and who with—and how much something costs. Push with `А шта још?`
+These phrases are from Lesson 10. Plan a walk, a concert, or lunch with Baka and Deda this week; your partner says no once, so suggest another day.
+
+| Serbian Cyrillic | Latin | English |
+|---|---|---|
+| Шта радиш у суботу? | Šta radiš u subotu? | What are you doing on Saturday? |
+| Хоћеш ли да идемо ...? | Hoćeš li da idemo ...? | Do you want to go ...? (together) |
+| У колико сати? — У осам. | U koliko sati? — U osam. | At what time? — At eight. |
+| Може! / Важи! | Može! / Važi! | Sure! / Deal! |
+| Не могу, жао ми је. | Ne mogu, žao mi je. | I can’t, I’m sorry. |
+| Може ли у недељу? | Može li u nedelju? | How about Sunday? |
 
 ## Colors
 
@@ -33,6 +44,16 @@ Ask about your partner’s weekend plans—day, time, and who with—and how muc
 
 `Плав` also means blond: `плава коса` — blond hair. `Бео` is irregular: `бео џемпер`, but `бела мајица`.
 
+## Where color words come from · Одакле реч?
+
+- `црвен · crven` comes from `црв · crv` (worm): red dye was once made from tiny insects.
+- `наранџаст · narandžast` comes from `наранџа · narandža` (an orange) and `љубичаст · ljubičast` from `љубичица · ljubičica` (a violet). The ending `-аст · -ast` means “like, -ish”—so `ружичаст · ružičast`, from `ружа · ruža` (a rose), is another word for pink.
+- `плав · plav` once meant “pale”, which is why it still means blond.
+- `светлоплав` and `тамнозелен` are compounds: two words joined by `-о-`, like `светло + плав`.
+- `браон` (German *braun*) and `розе` (French *rose*) are borrowed, which is why they never change.
+
+Days work the same way (Lesson 10): `понедељак` is the day after `недеља`, `четвртак` and `петак` are the fourth and fifth days, and `среда` is the middle of the week.
+
 ## Grammar — gender and agreement · род и слагање
 
 An adjective takes the gender (`род`) of its noun:
@@ -41,7 +62,7 @@ An adjective takes the gender (`род`) of its noun:
 - `Јакна је плава.` — женски род · *ženski rod* (feminine), `-а`
 - `Небо је плаво.` — средњи род · *srednji rod* (neuter), `-о`; also `место`, `дрвеће`
 
-Before a masculine noun you will often hear `-и`: `плави џемпер`, `сиви џемпер`. After `носим`, feminine `-а` becomes `-у`, just like `кафу` and `сестру` in Lesson 10: `Носим плаву јакну.` Masculine things and neuter nouns do not change: `Носим плави џемпер.` `Волим плаво небо.`
+Before a masculine noun you will often hear `-и`: `плави џемпер`, `сиви џемпер`. After `носим`, feminine `-а` becomes `-у`, just like `кафу` and `сестру` in Lesson 10: `Носим плаву јакну.` Masculine things and neuter nouns do not change: `Носим плави џемпер.` `Волим плаво небо.` (Masculine people and animals change, as `брата` and `пса` did in Lesson 10; colors with them come later.)
 
 ### Grammar map
 

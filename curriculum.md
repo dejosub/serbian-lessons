@@ -1,6 +1,6 @@
 # Evolving curriculum
 
-The first six lessons form the starter course. Lessons are developed in small batches, and the sequence changes when session notes or learner requests show a stronger real-life need. Lessons 1–11 have been generated; Lessons 12 onward below are a proposed plan only.
+The first six lessons form the starter course. Lessons are developed in small batches, and the sequence changes when session notes or learner requests show a stronger real-life need. Lessons 1–13 have been generated; Lessons 14 onward below are a proposed plan only.
 
 | Lesson | Communication outcome | Main language pattern | Pronunciation / script |
 |---|---|---|---|
@@ -15,8 +15,8 @@ The first six lessons form the starter course. Lessons are developed in small ba
 | 9 | Use numbers for ages, family, phone numbers, and market purchases | cardinal numbers; `koliko`; number + noun chunks | number stress and connected groups; primarily Cyrillic with Latin for numbers |
 | 10 | Talk about days, months, birthdays, and family holidays; make, decline, and agree on a plan | `u subotu`, `u avgustu`; `hoćeš li da idemo`, `možemo`; vocative `bako` | question rhythm; reading a family message in Cyrillic |
 | 11 | Describe colors of clothes, food, and places; shop for clothes; ask yes/no questions to identify objects | color adjectives with masculine, feminine, and neuter agreement; `nosim` + accusative | vowel-less `r`; primarily Cyrillic |
-| 12 (proposed) | Communicate in a school or learning setting: identify materials, discuss subjects, and ask for or offer help | books, pens/pencils, lessons, classroom; `učim/predajem`; present-tense verb groups | classroom instructions and natural question rhythm |
-| 13 (proposed) | Say where people live and where objects and familiar places are | locative with `u/na` + place; `gde` review | primarily Cyrillic; read real signs in both scripts |
+| 12 | Communicate in a school or learning setting: identify materials, discuss subjects, and ask for or offer help | books, notebooks, pencils, subjects, grades; `čitam / učim / pišem`; `Kako se kaže ...?`, `Šta znači ...?` | natural question rhythm; primarily Cyrillic |
+| 13 | Say where people live and where places are, ask the way, and say when birthdays are | locative with `u/na` + place; `u avgustu`; `Gde živiš?`, `Gde se nalazi ...?` | primarily Cyrillic; read real signs in both scripts |
 | 14 (proposed) | Talk briefly about yesterday with more independence | consolidate and extend the past tense | unstressed helper forms |
 | 15 (proposed) | Participate naturally at a family meal | offers, requests, preferences, and politeness | natural reductions |
 | 16 (proposed) | Hold a five-minute family conversation across familiar topics | consolidation and repair strategies | both scripts; assessment |
@@ -38,6 +38,18 @@ Lesson 9 reached only its grammar slide (slide 9 of 14): working through many fa
 | later | Future with `ћу`; dative (`мени је`, `дајте ми`); instrumental (`са`); genitive in full; plurals | As topics call for them |
 
 The vocative (`бако`) and verbal aspect stay recognition-only for now.
+
+Lesson 10 again reached only its grammar slide (slide 6 of 14), and the notes say the grammar slide was very successful: keep one per lesson. The rest of Lesson 10 is redistributed: Lesson 11 opens with the plan phrases as a self-contained warm-up, Baka’s message moves to the Lesson 11 homework, and months, birthdays, and Birthday detective move to Lesson 13, where `у августу` is the locative.
+
+## Word origins
+
+Amaya enjoys etymology; in Lesson 10 the roots of the weekday names went over well. From Lesson 11, every lesson has one short slide titled `Одакле реч? · Odakle reč?` that explains where a few of the lesson’s words come from—compounds (`светлоплав`, `Београд` = `бео + град`), word families from one root (`учити → учитељ, ученик, учионица`), suffixes (`-аст`, `-ница`), and loans (`школа`, `библиотека`, `Калемегдан`). It takes about four minutes: the learner guesses first, then the teacher explains. Only include origins that are well established.
+
+| Lesson | Word origins |
+|---|---|
+| 11 | `црвен ← црв`; `-аст` (`наранџаст`, `љубичаст`, `ружичаст`); `плав` “pale”; `светло-/тамно-` compounds; borrowed `браон`, `розе` |
+| 12 | `учити → учитељ, ученик, учионица, учење`; `оловка ← олово`; `свеска ← свезати`; `предмет`, a loan translation of Latin *objectum*; `школа ←` Greek *scholē* |
+| 13 | `Београд = бео + град`; `Калемегдан ←` Turkish *kale* + *meydan*; `-ница / -ара` places; `библиотека`, `апотека` and Greek *thēkē* |
 
 ## Adaptations from session notes
 
@@ -65,7 +77,7 @@ Lesson 8 (15 slides) finished in exactly one hour, confirming the 15-slide plan.
 3. **Colors before school:** the school lesson can naturally reuse numbers and colors with books, pens, classroom objects, schedules, and subjects.
 4. **Deferred outcomes afterward:** location language, expanded past narration, the family meal, and cumulative conversation remain in the plan rather than being displaced.
 
-Generate at most three lessons ahead of the last lesson taught; adjust them from each session note. (Lesson 11 was generated before this rule and is kept.) Reassess the ordering after each new session note; in particular, the school theme may move earlier if it becomes immediately relevant.
+Generate at most three lessons ahead of the last lesson taught; adjust them from each session note. Reassess the ordering after each new session note; in particular, the school theme may move earlier if it becomes immediately relevant.
 
 ## Script progression
 

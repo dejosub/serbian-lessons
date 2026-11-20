@@ -96,9 +96,9 @@ Baka will change one detail. Ask until it is clear.
 
 # Одакле реч? · *Odakle reč?* — Where color words come from
 
-**црвен** · *crven* ← **црв** · *crv* — worm: red dye was once made from tiny insects.<br>
+**црвен** · *crven* ← **црв** · *crv* — worm: red dye was made from tiny insects that people called “worms”.<br>
 **наранџаст** · *narandžast* ← **наранџа** · *narandža* — an orange · **љубичаст** · *ljubičast* ← **љубичица** · *ljubičica* — a violet. **-аст** · *-ast* = “like, -ish”.<br>
-**плав** · *plav* once meant “pale”—so **плава коса** · *plava kosa* is blond hair.<br>
+**плав** · *plav* once meant “pale, light yellow”—so **плава коса** · *plava kosa* is blond hair.<br>
 **светло + плав → светлоплав** · **тамно + зелен → тамнозелен**: two words joined by **-о-**.<br>
 **браон** ← German *braun* · **розе** ← French *rose*: borrowed words, so they never change.
 

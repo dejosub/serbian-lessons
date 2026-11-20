@@ -118,9 +118,9 @@ When you speak *to* someone, some names and family words change: `бака → �
 
 ## Where color words come from · Одакле реч?
 
-- `црвен · crven` comes from `црв · crv` (worm): red dye was once made from tiny insects.
+- `црвен · crven` comes from `црв · crv` (worm): red dye was made from tiny insects that people called “worms”, and the old verb for dyeing something red was built from the same word.
 - `наранџаст · narandžast` comes from `наранџа · narandža` (an orange) and `љубичаст · ljubičast` from `љубичица · ljubičica` (a violet). The ending `-аст · -ast` means “like, -ish”—so `ружичаст · ružičast`, from `ружа · ruža` (a rose), is another word for pink.
-- `плав · plav` once meant “pale”, which is why it still means blond.
+- `плав · plav` once meant “pale, light yellow”, which is why it still means blond. Russian `половый` (pale yellow) and English *fallow* (pale brown) come from the same old root.
 - `светлоплав` and `тамнозелен` are compounds: two words joined by `-о-`, like `светло + плав`.
 - `браон` (German *braun*) and `розе` (French *rose*) are borrowed, which is why they never change.
 

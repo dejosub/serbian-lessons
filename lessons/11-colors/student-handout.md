@@ -98,17 +98,17 @@ When you speak *to* someone, some names and family words change: `бака → �
 
 ## Colors
 
-| Color | он | она | оно | Latin |
+| Color | она | он | оно | Latin |
 |---|---|---|---|---|
-| red | црвен | црвена | црвено | crven |
-| blue; blond | плав | плава | плаво | plav |
-| green | зелен | зелена | зелено | zelen |
-| yellow | жут | жута | жуто | žut |
-| white | бео | бела | бело | beo / bela |
-| black | црн | црна | црно | crn |
-| gray | сив | сива | сиво | siv |
-| purple | љубичаст | љубичаста | љубичасто | ljubičast |
-| orange | наранџаст | наранџаста | наранџасто | narandžast |
+| red | црвена | црвен | црвено | crven |
+| blue; blond | плава | плав | плаво | plav |
+| green | зелена | зелен | зелено | zelen |
+| yellow | жута | жут | жуто | žut |
+| white | бела | бео | бело | beo / bela |
+| black | црна | црн | црно | crn |
+| gray | сива | сив | сиво | siv |
+| purple | љубичаста | љубичаст | љубичасто | ljubičast |
+| orange | наранџаста | наранџаст | наранџасто | narandžast |
 | brown | браон | браон | браон | braon |
 | pink | розе | розе | розе | roze |
 

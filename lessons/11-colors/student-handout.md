@@ -16,25 +16,25 @@ This lesson finishes the calendar and plans from Lesson 10, then moves on to col
 
 ## Dialogue — Friday night
 
-**Марко:** Шта радиш у петак увече?  
+**Марко:** Шта радиш у петак увече?<br>
 *Šta radiš u petak uveče?* — What are you doing on Friday evening?
 
-**Амаја:** Не знам још. Зашто?  
+**Амаја:** Не знам још. Зашто?<br>
 *Ne znam još. Zašto?* — I don’t know yet. Why?
 
-**Марко:** У петак је концерт у парку. Хоћеш ли да идемо?  
+**Марко:** У петак је концерт у парку. Хоћеш ли да идемо?<br>
 *U petak je koncert u parku. Hoćeš li da idemo?* — There’s a concert in the park on Friday. Do you want to go?
 
-**Амаја:** Може! У колико сати?  
+**Амаја:** Може! У колико сати?<br>
 *Može! U koliko sati?* — Sure! At what time?
 
-**Марко:** У осам.  
+**Марко:** У осам.<br>
 *U osam.* — At eight.
 
-**Амаја:** Важи. А у недељу је ручак код баке и деде.  
+**Амаја:** Важи. А у недељу је ручак код баке и деде.<br>
 *Važi. A u nedelju je ručak kod bake i dede.* — Deal. And on Sunday there’s lunch at Grandma and Grandpa’s.
 
-**Марко:** Да, у један.  
+**Марко:** Да, у један.<br>
 *Da, u jedan.* — Yes, at one.
 
 ## Make a plan
@@ -70,10 +70,10 @@ Optional enrichment: exact dates use ordinal numbers—`петнаестог а�
 
 ## Reading — A message from Baka
 
-> Драга Амаја,  
-> како сте ти и Марко? Ми смо добро, само је деда мало уморан.  
-> У недељу ми је рођендан! Правимо ручак у један сат. Ја правим сарму, а деда купује торту. Да ли можете да дођете? Ако не можете у недељу, дођите у суботу увече — имамо много сарме!  
-> Јави ми до петка.  
+> Драга Амаја,<br>
+> како сте ти и Марко? Ми смо добро, само је деда мало уморан.<br>
+> У недељу ми је рођендан! Правимо ручак у један сат. Ја правим сарму, а деда купује торту. Да ли можете да дођете? Ако не можете у недељу, дођите у суботу увече — имамо много сарме!<br>
+> Јави ми до петка.<br>
 > Воли вас бака
 
 Long words in Latin: Драга = *Draga* (dear) · правимо = *pravimo* (we’re making) · купује торту = *kupuje tortu* (buys a cake) · дођете / дођите = *dođete / dođite* (come) · Ако = *Ako* (if) · до петка = *do petka* (by Friday) · Воли вас = *Voli vas* (love you both)
@@ -152,25 +152,25 @@ This map grows by one row each lesson.
 
 ## Dialogue — What should I wear?
 
-**Амаја:** Шта да носим у недељу код баке?  
+**Амаја:** Шта да носим у недељу код баке?<br>
 *Šta da nosim u nedelju kod bake?* — What should I wear on Sunday at Grandma’s?
 
-**Марко:** Можда плаву хаљину?  
+**Марко:** Можда плаву хаљину?<br>
 *Možda plavu haljinu?* — Maybe the blue dress?
 
-**Амаја:** Плава ми се не свиђа много. Више волим зелену.  
+**Амаја:** Плава ми се не свиђа много. Више волим зелену.<br>
 *Plava mi se ne sviđa mnogo. Više volim zelenu.* — I don’t like the blue one much. I prefer the green one.
 
-**Марко:** Зелена ти пристаје! А ја носим сиви џемпер.  
+**Марко:** Зелена ти пристаје! А ја носим сиви џемпер.<br>
 *Zelena ti pristaje! A ja nosim sivi džemper.* — The green one suits you! And I’m wearing the gray sweater.
 
-**Амаја:** Опет сиви? Које је боје твој други џемпер?  
+**Амаја:** Опет сиви? Које је боје твој други џемпер?<br>
 *Opet sivi? Koje je boje tvoj drugi džemper?* — The gray one again? What color is your other sweater?
 
-**Марко:** Црн.  
+**Марко:** Црн.<br>
 *Crn.* — Black.
 
-**Амаја:** Онда сиви!  
+**Амаја:** Онда сиви!<br>
 *Onda sivi!* — Then the gray one!
 
 ## Useful language

@@ -7,7 +7,7 @@
 - stop someone politely and ask the way
 - read real Serbian signs in both scripts
 - say where someone or something is with `у` and `на` (the locative)
-- say when birthdays are: `у августу`
+- say where people are right now: `Марко је на послу.`
 
 ## Warm-up — school talk
 
@@ -69,7 +69,7 @@ The locative says **where** someone or something is, or where something happens.
 | женски род · *ženski rod* — feminine, `-а → -и` | `школа`, `пијаца`, `кућа`, `Србија` | `у школи`, `на пијаци`, `у кући`, `у Србији` |
 | мушки род · *muški rod* — masculine, `+ у` | `град`, `парк`, `Београд`, `стан` | `у граду`, `у парку`, `у Београду`, `у стану` |
 | средњи род · *srednji rod* — neuter, `-о → -у` | `село`, `место` | `на селу`, `на месту` |
-| months | `август`, `мај` | `у августу`, `у мају` |
+| months (Lesson 11) | `август`, `мај` | `у августу`, `у мају` |
 
 - `у` is for inside: `у кући`, `у граду`, `у стану`.
 - `на` is for surfaces, open places, and events: `на столу`, `на пијаци`, `на селу`, `на послу`, `на концерту`, `на Калемегдану`.
@@ -88,13 +88,20 @@ This map grows by one row each lesson.
 | 12 | садашње време · *sadašnje vreme* (present tense) | the ending shows who does the action | `читам`, `учим`, `пишем` |
 | 13 | локатив · *lokativ* (locative) | place: where someone or something is; `у` + month = when | `у Београду`, `на пијаци`, `на столу`, `у августу` |
 
-## Months and birthdays
+## Where is everyone?
 
-јануар *januar* · фебруар *februar* · март *mart* · април *april* · мај *maj* · јун *jun* · јул *jul* · август *avgust* · септембар *septembar* · октобар *oktobar* · новембар *novembar* · децембар *decembar*
+It is Saturday, ten in the morning. Say where each one is, then ask `Где си ти у суботу у десет? · Gde si ti u subotu u deset?`
 
-`у августу · u avgustu` — in August · `у децембру · u decembru` — in December. Months are not capitalized. This `-у` is the locative ending you just met.
+| Ко? | Где? | Locative |
+|---|---|---|
+| Марко | посао | `Марко је на послу.` |
+| бака | пијаца | `Бака је на пијаци.` |
+| деда | пекара | `Деда је у пекари.` |
+| Амаја | библиотека | `Амаја је у библиотеци.` |
+| мачка | кућа | `Мачка је у кући.` |
+| кафа | сто | `Кафа је на столу.` |
 
-`Када ти је рођендан? · Kada ti je rođendan?` — When is your birthday? — `У ...` · `Срећан рођендан! · Srećan rođendan!` — Happy birthday!
+Notice `у суботу` (when: accusative, Lesson 10) next to `на послу` (where: locative).
 
 ## Dialogue — Excuse me, where is ...?
 
@@ -140,8 +147,7 @@ Retell: село → кућа и двориште → пекара и пошта
 ## Scenarios
 
 1. **Ask the way (Ви):** You are in Belgrade with a map. Find a pharmacy, a bakery, and the bus station: `Извините, где се налази ...?`, `Да ли је далеко?` The person may not know or may send you the wrong way—ask again.
-2. **Birthday detective:** Find out three family members’ birthday months and where they live: `Када ти је рођендан?`, `Где живи ...?` Then report: `Марков рођендан је у ... Он живи у ...`
-3. **My street:** Describe where you live to someone who has never visited: city, street, building or house, and two places nearby.
+2. **My street:** Describe your street while your partner draws a map, then swap: `Живим у улици ...`, `У мојој улици је ...`, `Близу је ...`, `Лево је ... / Десно је ...` Check the map together.
 
 ## Cultural note
 

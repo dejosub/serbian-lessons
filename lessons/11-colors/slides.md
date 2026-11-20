@@ -1,38 +1,92 @@
 ---
 marp: true
-title: "Serbian 11: Colors"
+title: "Serbian 11: Plans, months, and colors"
 paginate: true
 ---
 
 # Serbian 11
-## Које је боје? · Koje je boje?
-### Colors in clothes, food, and places
+## Када? · Које је боје? · *Kada? · Koje je boje?*
+### Plans, months, and colors
 
 ---
 
-# Warm-up: make a plan
+# Listen: Friday night
 
-**Шта радиш у суботу?** · *Šta radiš u subotu?* — What are you doing on Saturday?<br>
+**Марко:** Шта радиш у петак увече?<br>
+**Амаја:** Не знам још. Зашто?<br>
+**Марко:** У петак је концерт у парку. Хоћеш ли да идемо?<br>
+**Амаја:** Може! У колико сати?<br>
+**Марко:** У осам.<br>
+**Амаја:** Важи. А у недељу је ручак код баке и деде.<br>
+**Марко:** Да, у један.
+
+What is the plan? When? What else is happening this week?
+
+<div class="latin-help"><b>Latin help:</b> koncert u parku · Hoćeš li da idemo? (Do you want to go?) · Može! (Sure!) · U koliko sati? (At what time?) · Važi. (Deal.) · ručak (lunch)</div>
+
+---
+
+# Make a plan
+
 **Хоћеш ли да идемо ...?** · *Hoćeš li da idemo ...?* — Do you want to go ...?<br>
+**Можемо у суботу.** · *Možemo u subotu.* — We can on Saturday.<br>
 **У колико сати?** · *U koliko sati?* — At what time?<br>
 **Може! / Важи!** · *Može! / Važi!* — Sure! / Deal!<br>
 **Не могу, жао ми је.** · *Ne mogu, žao mi je.* — I can’t, I’m sorry.<br>
 **Може ли у недељу?** · *Može li u nedelju?* — How about Sunday?
 
-Plan a walk, a concert, or lunch with Baka and Deda this week. Your partner says no once—suggest another day.
+You each have a busy week. Find a time for a walk, a concert, and lunch with Baka and Deda. Ask **Шта радиш у ...?** · *Šta radiš u ...?* Say no once and suggest another day.
 
 ---
 
-# What color is it?
+# Months and birthdays
 
-**Које је боје?** · *Koje je boje?* — What color is it?<br>
-**Која ти је омиљена боја?** · *Koja ti je omiljena boja?* — What is your favorite color?
+| 1–4 | 5–8 | 9–12 |
+|---|---|---|
+| јануар · *januar* | мај · *maj* | септембар · *septembar* |
+| фебруар · *februar* | јун · *jun* | октобар · *oktobar* |
+| март · *mart* | јул · *jul* | новембар · *novembar* |
+| април · *april* | август · *avgust* | децембар · *decembar* |
 
-Point to things in the room. The teacher names the color; you repeat it, then you ask.
+**у августу** · *u avgustu* — in August<br>
+**Када ти је рођендан?** · *Kada ti je rođendan?* — **У ...**<br>
+**Срећан рођендан!** · *Srećan rođendan!* — Happy birthday!
+
+Find out three birthday months: yours, Marko’s, and one more person’s.
+
+---
+
+# Read: A message from Baka
+
+> Драга Амаја,<br>
+> како сте ти и Марко? Ми смо добро, само је деда мало уморан.<br>
+> У недељу ми је рођендан! Правимо ручак у један сат. Ја правим сарму, а деда купује торту. Да ли можете да дођете? Ако не можете у недељу, дођите у суботу увече — имамо много сарме!<br>
+> Јави ми до петка.<br>
+> Воли вас бака
+
+<div class="latin-help"><b>Latin help:</b> Драга = Draga (dear) · правимо = pravimo (we’re making) · купује торту = kupuje tortu (buys a cake) · дођете / дођите = dođete / dođite (come) · Ако = Ako (if) · Јави ми = Javi mi (let me know) · до петка = do petka (by Friday) · Воли вас = Voli vas (love you both)</div>
+
+---
+
+# React and reply
+
+**Када је ручак? Шта ако не могу у недељу?** · *Kada je ručak? Šta ako ne mogu u nedelju?* — When is lunch? What if they can’t come on Sunday?<br>
+**Шта да донесемо баки?** · *Šta da donesemo baki?* — What should we bring Baka?<br>
+**Како славите рођендане?** · *Kako slavite rođendane?* — How does your family celebrate birthdays?
+
+Now call Baka. When you talk *to* her, **бака → бако**:
+
+> Драга **бако**, срећан рођендан! Можемо у недељу. Долазимо у један. Шта да донесемо?
+
+Baka will change one detail. Ask until it is clear.
+
+<div class="latin-help"><b>Latin help:</b> slavite (you celebrate) · Draga bako · Dolazimo u jedan (we’re coming at one) · Šta da donesemo? (What should we bring?)</div>
 
 ---
 
 # Colors
+
+**Које је боје?** · *Koje je boje?* — What color is it? · **Која ти је омиљена боја?** · *Koja ti je omiljena boja?* — What is your favorite color?
 
 <div class="swatches"><span><i style="background:#c62828"></i>црвен<small>crven</small></span><span><i style="background:#1e5aa8"></i>плав<small>plav</small></span><span><i style="background:#2e7d32"></i>зелен<small>zelen</small></span><span><i style="background:#f2c200"></i>жут<small>žut</small></span><span><i style="background:#ffffff"></i>бео<small>beo</small></span><span><i style="background:#1b1b1b"></i>црн<small>crn</small></span><span><i style="background:#8a8f94"></i>сив<small>siv</small></span><span><i style="background:#7b4a26"></i>браон<small>braon</small></span><span><i style="background:#f48fb1"></i>розе<small>roze</small></span><span><i style="background:#7b3fa0"></i>љубичаст<small>ljubičast</small></span><span><i style="background:#f07c00"></i>наранџаст<small>narandžast</small></span></div>
 
@@ -66,28 +120,6 @@ The adjective takes the noun’s gender (**род**). In the accusative—the th
 
 ---
 
-# Vowel-less words
-
-**црн** · *crn* · **црвен** · *crven* · **Србија** · *Srbija* · **српски** · *srpski* · **четрдесет** · *četrdeset*
-
-In Serbian, **р** can carry a syllable by itself: **цр-вен**, **ср-пски**, **Ср-би-ја**. Don’t add a vowel—let the **р** do the work.
-
----
-
-# Listen: What should I wear?
-
-**Амаја:** Шта да носим у недељу код баке?<br>
-**Марко:** Можда плаву хаљину?<br>
-**Амаја:** Плава ми се не свиђа много. Више волим зелену.<br>
-**Марко:** Зелена ти пристаје! А ја носим сиви џемпер.<br>
-**Амаја:** Опет сиви? Које је боје твој други џемпер?<br>
-**Марко:** Црн.<br>
-**Амаја:** Онда сиви!
-
-<div class="latin-help"><b>Latin help:</b> Šta da nosim? (What should I wear?) · haljinu (dress) · pristaje ti (it suits you) · opet (again) · drugi (other)</div>
-
----
-
 # Clothes
 
 **одећа** · *odeća* — clothes · **мајица** · *majica* — T-shirt · **јакна** · *jakna* — jacket<br>
@@ -97,7 +129,7 @@ In Serbian, **р** can carry a syllable by itself: **цр-вен**, **ср-пс�
 
 > Носим плаву мајицу и црну јакну.
 
-**Пристаје ти!** · *Pristaje ti!* — It suits you!
+**Шта да носим?** · *Šta da nosim?* — What should I wear? · **Пристаје ти!** · *Pristaje ti!* — It suits you!
 
 ---
 
@@ -118,7 +150,7 @@ In Serbian, **р** can carry a syllable by itself: **цр-вен**, **ср-пс�
 
 ---
 
-# Scenario 1 — In a clothes shop (Ви)
+# Scenario — In a clothes shop (Ви)
 
 You need a jacket for a winter visit to Serbia.
 
@@ -130,16 +162,8 @@ The seller has a problem for you. Ask, compare, decide.
 
 ---
 
-# Scenario 2 — The family photo
+# Exit — without notes
 
-Look at a real family photo. Ask about one person:
-
-**Ко је ово?** · **Шта носи?** · **Које је боје ...?**
-
-Then describe one person without saying the name; your partner guesses who it is.
-
----
-
-# Exit conversation
-
-Without notes: name five colors around you, describe what you are wearing, ask about a favorite color and why, and plan Sunday at Baka’s: day, time, and what to wear.
+1. Say today’s day and month, and when your birthday is.
+2. Propose a plan, say no to one time, and agree on another.
+3. Describe what you are wearing, and say your favorite color and why.

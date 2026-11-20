@@ -82,7 +82,7 @@ It always comes after a small word: **у** (in, inside) or **на** (on, at: ope
 | женски род · feminine **-а → -и** | школа · пијаца · кућа · Србија | у **школи** · на **пијаци** · у **кући** · у **Србији** |
 | мушки род · masculine **+ у** | град · парк · Београд · стан | у **граду** · у **парку** · у **Београду** · у **стану** |
 | средњи род · neuter **-о → -у** | село · место | на **селу** · на **месту** |
-| months, too! | август | у **августу** |
+| months (Lesson 11) | август | у **августу** |
 
 Watch: **к → ц** before **-и**: река → на **реци**. Where to is accusative: **Идем у школу.** · Where: **У школи сам.** · Hint: **где?**
 
@@ -90,19 +90,20 @@ Watch: **к → ц** before **-и**: река → на **реци**. Where to is
 
 ---
 
-# Months and birthdays
+# Где је ко? · *Gde je ko?* — Where is everyone?
 
-| 1–4 | 5–8 | 9–12 |
+It is Saturday, ten in the morning. Say where each one is: **Марко је на послу.**
+
+| Ко? · *Ko?* | Где? · *Gde?* | Latin |
 |---|---|---|
-| јануар · *januar* | мај · *maj* | септембар · *septembar* |
-| фебруар · *februar* | јун · *jun* | октобар · *oktobar* |
-| март · *mart* | јул · *jul* | новембар · *novembar* |
-| април · *april* | август · *avgust* | децембар · *decembar* |
+| Марко | посао → **на послу** | posao → na poslu |
+| бака | пијаца | pijaca |
+| деда | пекара | pekara |
+| Амаја | библиотека | biblioteka |
+| мачка | кућа | kuća |
+| кафа | сто | sto → na stolu |
 
-**у августу** · *u avgustu* — in August (locative!)<br>
-**Када ти је рођендан?** · *Kada ti je rođendan?* — **У ...**<br>
-**Срећан рођендан!** · *Srećan rođendan!* — Happy birthday!
-
+Then ask: **Где си ти у суботу у десет?** · *Gde si ti u subotu u deset?* — Where are you on Saturday at ten?
 ---
 
 # Listen: Excuse me, where is ...?
@@ -149,21 +150,22 @@ The person you ask may not know—or may send you the wrong way. Ask again.
 
 ---
 
-# Scenario 2 — Birthday detective
+# Scenario 2 — My street
 
-Find out about three people in the family:
+Describe your street while your partner draws a map. Then swap.
 
-**Када ти је рођендан?** · *Kada ti je rođendan?* — **У ...**<br>
-**Где живи ...?** · *Gde živi ...?* — Where does ... live? — **У ... / На ...**
+**Живим у улици ...** · *Živim u ulici ...* — I live on ... Street.<br>
+**У мојој улици је ...** · *U mojoj ulici je ...* — On my street there is ...<br>
+**Близу је ... / Далеко је ...** · *Blizu je ... / Daleko je ...* — ... is near / far.<br>
+**Лево је ... / Десно је ...** · *Levo je ... / Desno je ...* — On the left / right is ...
 
-Then tell your partner: **Марков рођендан је у ... Он живи у ...**
+Check the map together: is everything in the right place?
 
-<div class="latin-help"><b>Latin help:</b> Markov rođendan (Marko’s birthday) je u ... · On živi u ...</div>
-
+<div class="latin-help"><b>Latin help:</b> u mojoj ulici (on my street — use it as a ready-made phrase)</div>
 ---
 
 # Exit — without notes
 
 1. Say where you live and what is near your home.
 2. Stop someone politely and ask where a place is.
-3. Say when two family birthdays are.
+3. Say where three people are right now.

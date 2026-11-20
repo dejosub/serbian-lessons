@@ -1,28 +1,100 @@
-# Lesson 11 — Које је боје? · Colors
+# Lesson 11 — Када? · Које је боје? · Plans, months, and colors
+
+This lesson finishes the calendar and plans from Lesson 10, then moves on to colors.
 
 ## Today I can ...
 
-- make a plan for the week: propose, say no, and agree on another day
-- name eleven colors and say light or dark
-- explain where some color words come from
-- ask what color something is and what someone’s favorite color is
-- describe what I and other people are wearing
+- understand a short conversation about weekend plans
+- make a plan, accept it, decline politely, and suggest another time
+- name the months and ask and answer when someone’s birthday is
+- understand and answer a short message from Baka
+- name eleven colors, say light or dark, and explain where some color words come from
 - make colors agree with masculine, feminine, and neuter nouns
-- shop for clothes politely: ask for a color, try something on, and ask the price
-- say what people are wearing in a family photo
+- describe what I am wearing and shop for clothes politely
 
-## Warm-up — make a plan
+## Part 1 — Plans and the calendar
 
-These phrases are from Lesson 10. Plan a walk, a concert, or lunch with Baka and Deda this week; your partner says no once, so suggest another day.
+## Dialogue — Friday night
+
+**Марко:** Шта радиш у петак увече?  
+*Šta radiš u petak uveče?* — What are you doing on Friday evening?
+
+**Амаја:** Не знам још. Зашто?  
+*Ne znam još. Zašto?* — I don’t know yet. Why?
+
+**Марко:** У петак је концерт у парку. Хоћеш ли да идемо?  
+*U petak je koncert u parku. Hoćeš li da idemo?* — There’s a concert in the park on Friday. Do you want to go?
+
+**Амаја:** Може! У колико сати?  
+*Može! U koliko sati?* — Sure! At what time?
+
+**Марко:** У осам.  
+*U osam.* — At eight.
+
+**Амаја:** Важи. А у недељу је ручак код баке и деде.  
+*Važi. A u nedelju je ručak kod bake i dede.* — Deal. And on Sunday there’s lunch at Grandma and Grandpa’s.
+
+**Марко:** Да, у један.  
+*Da, u jedan.* — Yes, at one.
+
+## Make a plan
 
 | Serbian Cyrillic | Latin | English |
 |---|---|---|
 | Шта радиш у суботу? | Šta radiš u subotu? | What are you doing on Saturday? |
 | Хоћеш ли да идемо ...? | Hoćeš li da idemo ...? | Do you want to go ...? (together) |
+| Можемо у ... | Možemo u ... | We can on/at ... |
 | У колико сати? — У осам. | U koliko sati? — U osam. | At what time? — At eight. |
 | Може! / Важи! | Može! / Važi! | Sure! / Deal! |
 | Не могу, жао ми је. | Ne mogu, žao mi je. | I can’t, I’m sorry. |
 | Може ли у недељу? | Može li u nedelju? | How about Sunday? |
+| Не знам још. | Ne znam još. | I don’t know yet. |
+| Јави ми! | Javi mi! | Let me know! |
+| Шта да донесемо? | Šta da donesemo? | What should we bring? |
+
+## Months
+
+јануар *januar* · фебруар *februar* · март *mart* · април *april* · мај *maj* · јун *jun* · јул *jul* · август *avgust* · септембар *septembar* · октобар *oktobar* · новембар *novembar* · децембар *decembar*
+
+`у августу · u avgustu` — in August · `у децембру · u decembru` — in December. Add `-у` after `у`; `мај → у мају`.
+
+`Када ти је рођендан? · Kada ti je rođendan?` — When is your birthday? · `Срећан рођендан! · Srećan rođendan!` — Happy birthday!
+
+Optional enrichment: exact dates use ordinal numbers—`петнаестог августа` (on 15 August). Recognize them; we will practice them later.
+
+## Family holidays
+
+- `Нова година` — 1 January; the biggest party of the winter
+- `Божић` — 7 January; Orthodox Christmas follows the older Julian calendar
+- `слава` — each family celebrates its patron saint’s day at home every year, with guests and special food. Ask Marko: `Када је ваша слава?`
+
+## Reading — A message from Baka
+
+> Драга Амаја,  
+> како сте ти и Марко? Ми смо добро, само је деда мало уморан.  
+> У недељу ми је рођендан! Правимо ручак у један сат. Ја правим сарму, а деда купује торту. Да ли можете да дођете? Ако не можете у недељу, дођите у суботу увече — имамо много сарме!  
+> Јави ми до петка.  
+> Воли вас бака
+
+Long words in Latin: Драга = *Draga* (dear) · правимо = *pravimo* (we’re making) · купује торту = *kupuje tortu* (buys a cake) · дођете / дођите = *dođete / dođite* (come) · Ако = *Ako* (if) · до петка = *do petka* (by Friday) · Воли вас = *Voli vas* (love you both)
+
+### Discuss
+
+1. `Зашто бака прави ручак?` · *Zašto baka pravi ručak?* — Why is Baka making lunch?
+2. `Када је ручак? Шта ако не могу у недељу?` · *Kada je ručak? Šta ako ne mogu u nedelju?* — When is lunch? What if they can’t come on Sunday?
+3. `Шта да донесемо баки?` · *Šta da donesemo baki?* — What should we bring Baka?
+4. `Како славите рођендане?` · *Kako slavite rođendane?* — How does your family celebrate birthdays?
+5. `Шта бака прави? А деда?` · *Šta baka pravi? A deda?* — What is Baka making? And Deda?
+
+### Answer Baka
+
+> Драга бако, срећан рођендан! Можемо у недељу. Долазимо у један. Шта да донесемо?
+
+When you speak *to* someone, some names and family words change: `бака → бако`. You will hear this vocative form whenever people call each other; just use `бако` when you address her.
+
+`до петка` works like `после посла` from Lesson 8: a small word, then the genitive.
+
+## Part 2 — Colors
 
 ## Colors
 
@@ -137,9 +209,12 @@ Retell the walk in colors: ручак → Калемегдан → јесен �
 
 ## Scenarios
 
-1. **In a clothes shop (Ви):** You need a jacket for a winter visit to Serbia. Ask `Имате ли ову јакну у плавој боји?`, `Могу ли да пробам?`, and `Колико кошта?` The seller has a problem for you—ask, compare, and decide.
-2. **What am I thinking of?** Your partner thinks of something at home, at the table, or at the market. Ask yes/no questions—`Да ли је велико?`, `Да ли се једе?`, `Које је боје?`—and find it in ten questions. Then switch.
-3. **The family photo:** Ask `Ко је ово?`, `Шта носи?`, and `Које је боје ...?` about one person. Then describe someone without saying the name; your partner guesses.
+1. **Find a time:** You and your partner each have a busy week. Find a time for a walk in the park, a concert, and lunch with Baka and Deda. Say no at least once and suggest another day.
+2. **Call Baka:** Answer her message. Wish her a happy birthday, confirm the day and time, and ask what to bring. Baka will change one detail—ask until it is clear.
+3. **Birthday detective:** Find out three people’s birthday months, then ask about one family holiday: `Када је ваша слава?` · `Шта радите за Божић?`
+4. **In a clothes shop (Ви):** You need a jacket for a winter visit to Serbia. Ask `Имате ли ову јакну у плавој боји?`, `Могу ли да пробам?`, and `Колико кошта?` The seller has a problem for you—ask, compare, and decide.
+5. **What am I thinking of?** Your partner thinks of something at home, at the table, or at the market. Ask yes/no questions—`Да ли је велико?`, `Да ли се једе?`, `Које је боје?`—and find it in ten questions. Then switch.
+6. **The family photo:** Ask `Ко је ово?`, `Шта носи?`, and `Које је боје ...?` about one person. Then describe someone without saying the name; your partner guesses.
 
 ## Cultural note
 

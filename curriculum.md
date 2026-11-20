@@ -14,9 +14,9 @@ The first six lessons form the starter course. Lessons are developed in small ba
 | 8 | Express feelings, ask how someone feels, and respond with empathy | `osećam se`; intensity; `jer` | primarily Cyrillic; expressive rhythm and emotion words in both scripts |
 | 9 | Use numbers for ages, family, phone numbers, and market purchases | cardinal numbers; `koliko`; number + noun chunks | number stress and connected groups; primarily Cyrillic with Latin for numbers |
 | 10 | Talk about days, months, birthdays, and family holidays; make, decline, and agree on a plan | `u subotu`, `u avgustu`; `hoćeš li da idemo`, `možemo`; vocative `bako` | question rhythm; reading a family message in Cyrillic |
-| 11 | Describe colors of clothes, food, and places; shop for clothes; ask yes/no questions to identify objects | color adjectives with masculine, feminine, and neuter agreement; `nosim` + accusative | vowel-less `r`; primarily Cyrillic |
+| 11 | Finish Lesson 10’s plans, months, birthdays, and Baka’s message; describe colors of clothes, food, and places; shop for clothes | color adjectives with masculine, feminine, and neuter agreement; `nosim` + accusative | vowel-less `r`; primarily Cyrillic |
 | 12 | Communicate in a school or learning setting: identify materials, discuss subjects, and ask for or offer help | books, notebooks, pencils, subjects, grades; `čitam / učim / pišem`; `Kako se kaže ...?`, `Šta znači ...?` | natural question rhythm; primarily Cyrillic |
-| 13 | Say where people live and where places are, ask the way, and say when birthdays are | locative with `u/na` + place; `u avgustu`; `Gde živiš?`, `Gde se nalazi ...?` | primarily Cyrillic; read real signs in both scripts |
+| 13 | Say where people live and where places are, and ask the way | locative with `u/na` + place; `u avgustu`; `Gde živiš?`, `Gde se nalazi ...?` | primarily Cyrillic; read real signs in both scripts |
 | 14 (proposed) | Talk briefly about yesterday with more independence | consolidate and extend the past tense | unstressed helper forms |
 | 15 (proposed) | Participate naturally at a family meal | offers, requests, preferences, and politeness | natural reductions |
 | 16 (proposed) | Hold a five-minute family conversation across familiar topics | consolidation and repair strategies | both scripts; assessment |
@@ -39,7 +39,7 @@ Lesson 9 reached only its grammar slide (slide 9 of 14): working through many fa
 
 The vocative (`бако`) and verbal aspect stay recognition-only for now.
 
-Lesson 10 again reached only its grammar slide (slide 6 of 14), and the notes say the grammar slide was very successful: keep one per lesson. The rest of Lesson 10 is redistributed: Lesson 11 opens with the plan phrases as a self-contained warm-up, Baka’s message moves to the Lesson 11 homework, and months, birthdays, and Birthday detective move to Lesson 13, where `у августу` is the locative.
+Lesson 10 again reached only its grammar slide (slide 6 of 14), and the notes say the grammar slide was very successful: keep one per lesson. Everything left from Lesson 10 that concerns time moves to the first half of Lesson 11: the Friday-night dialogue, the plan phrases, months and birthdays, family holidays, Baka’s message, and the reply to Baka. Colors make up its second half; the vowel-less `р`, the What should I wear? dialogue, and the family-photo scenario move to the Lesson 11 handout and homework. Lesson 13 recycles `у августу` as a locative rather than teaching the months.
 
 ## Word origins
 
